@@ -1,4 +1,3 @@
 
-data/resourcepacks/obsidianpinnacle/.DS_Store
-data/resourcepacks/obsidianpinnacle/images/.DS_Store
-data/resourcepacks/.DS_Store
+# ignore files, add *.file_extension :
+*.DS_Store
