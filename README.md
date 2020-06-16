@@ -10,9 +10,9 @@
 - If you're new to this project, check out [this flowchart](https://cdn.discordapp.com/attachments/716484045118373979/722080330860986429/Untitled_Diagram.png) about making and submitting textures.
 
 ## Links
-Site: https://faithful.team/
-Dungeons Site: https://faithful-dungeons.github.io/Website/
-Discord: https://discord.gg/pwnGtXs
-Dungeons Discord: https://discord.gg/eeVpygu
-Addon Discord: https://discord.gg/qVeDfZw
-Curseforge Site: https://minecraft.curseforge.com/projects/faithful-32x
+- Site: https://faithful.team/
+- Dungeons Site: https://faithful-dungeons.github.io/Website/
+- Discord: https://discord.gg/pwnGtXs
+- Dungeons Discord: https://discord.gg/eeVpygu
+- Addon Discord: https://discord.gg/qVeDfZw
+- Curseforge Site: https://minecraft.curseforge.com/projects/faithful-32x
