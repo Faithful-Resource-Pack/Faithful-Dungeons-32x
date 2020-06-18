@@ -1,6 +1,6 @@
 # Faithful Dungeons
 ![Header](https://i.imgur.com/Ra0XooI.png)
-> Welcome to the official Faithful Dungeons repository! All the newest made textures for Minecraft Dungeons will be uploaded here.
+> Welcome to the official Faithful Dungeons repository! Here you can see our progress on the Faithful 32x recource pack for Minecraft Dungeons!
 
 ## Info
 - All recently made textures will be uploaded here. 
@@ -16,3 +16,6 @@
 - Dungeons Discord: https://discord.gg/eeVpygu
 - Addon Discord: https://discord.gg/qVeDfZw
 - Curseforge Site: https://minecraft.curseforge.com/projects/faithful-32x
+
+## Have a question?
+You can find some questions and answers in the [FAQ Wiki page](https://github.com/Faithful-Dungeons/Resource-Pack/wiki/FAQ). If your question isn't there then you can join our [Discord server](https://discord.gg/eeVpygu) and ask your question there!
