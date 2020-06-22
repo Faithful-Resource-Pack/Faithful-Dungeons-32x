@@ -4,3 +4,7 @@
 *.txt
 *.mat
 *.psa
+*.psk
+*.pskx
+*.json
+*.ini
