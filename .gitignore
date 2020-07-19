@@ -3,8 +3,4 @@
 *.DS_Store
 *.txt
 *.mat
-*.psa
-*.psk
-*.pskx
-*.json
 *.ini
