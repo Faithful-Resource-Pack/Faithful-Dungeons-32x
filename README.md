@@ -10,12 +10,13 @@
 - This GitHub is structured in the same way as the Dokucraft [Tool](https://github.com/Dokucraft/Dungeons-Mod-Kit) provides.
 - If you're new to this project, check out [this flowchart](https://cdn.discordapp.com/attachments/716484045118373979/722080330860986429/Untitled_Diagram.png) about making and submitting textures.
 
+
 ## How to compile:
 > You can compile our Resource Pack by yourself, **according to our Licence, you can't distribute it or sell it.**
 
 ### Prerequisites:
 - [Python 3.8+](https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l?activetab=pivot:overviewtab)
-- Unreal Engine (available on the Epic Game Store)
+- Unreal Engine 4.22 (available on the Epic Game Store)
 
 ### Setup:
 Edit the text files in the `Tools/settings` folder to configure the tools:
@@ -25,7 +26,10 @@ Edit the text files in the `Tools/settings` folder to configure the tools:
 | editor_directory.txt     | This contains the path to the folder where the Unreal Editor executables are.     |
 | package_output.txt     | This contains the path to the .pak file that the package.bat tool creates.     |
 | quickbms_export_dir.txt     | This contains the path to the folder where you have exported the game files using QuickBMS. This is only needed for the `Tools/copy_missing_blocks.bat` tool.     |
-> more infos [here](https://github.com/Dokucraft/Dungeons-Mod-Kit)
+
+Setting the package_output path to a file in your ~mods folder is recommended to make testing the mod easy.
+
+> A more detailed documentation can be found [here](https://github.com/Dokucraft/Dungeons-Mod-Kit)
 
 Then you need to execute those files: 
 - 1st : build_resource_packs.bat
@@ -33,7 +37,7 @@ Then you need to execute those files:
 - 3rd : cook_assets.bat
 - at the end : package.bat
 
-Then you got the `.pak` where you set your path in `package_output.txt`
+Then you get the `.pak` exported where you set your path in `package_output.txt`
 
 ## Links
 - Faithful Website: https://faithful.team/
