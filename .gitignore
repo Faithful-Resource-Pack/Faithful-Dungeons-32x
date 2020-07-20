@@ -1,6 +1,5 @@
 
 # ignore files, add *.file_extension :
 *.DS_Store
-*.txt
 *.mat
 *.ini
