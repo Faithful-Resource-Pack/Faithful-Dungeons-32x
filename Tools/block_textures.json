@@ -1311,6 +1311,23 @@
     "soggyswamp/images/blocks/diamond_ore_emissive.png",
     "squidcoast/images/blocks/diamond_ore_emissive.png"
   ],
+  "dirt.png": [
+    "bamboobluff/images/blocks/dirt.png",
+    "cacticanyon/images/blocks/dirt.png",
+    "creeperwoods/images/blocks/dirt.png",
+    "deserttemple/images/blocks/dirt.png",
+    "dingyjungle/images/blocks/dirt.png",
+    "highblockhalls/images/blocks/dirt.png",
+    "jungle/images/blocks/bdirt.png",
+    "mooncorecaverns/images/blocks/dirt.png",
+    "mycelia/images/blocks/dirt.png",
+    "obsidianpinnacle/images/blocks/dirt.png",
+    "overgrowntemple/images/blocks/dirt.png",
+    "pumpkinpastures/images/blocks/dirt.png",
+    "redstonemines/images/blocks/dirt.png",
+    "soggyswamp/images/blocks/dirt.png",
+    "squidcoast/images/blocks/dirt.png"
+  ],
   "dirt_bamboobluff1.png": [
     "bamboobluff/images/blocks/grass_path_top-86.png"
   ],
