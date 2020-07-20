@@ -3,7 +3,8 @@
 > Welcome to the official Faithful Dungeons repository! Here you can see our progress on the Faithful 32x recource pack for Minecraft Dungeons!
 
 ## Info
-- All recently made textures will be uploaded here. 
+- All recently made textures will be uploaded here.
+- The mod making tool this repository features was made by the Dokucraft Team.
 - If you find any Issues, please report them [here](https://github.com/Faithful-Dungeons/Resource-Pack/issues). 
 - All textures are made from this [.zip](https://www.mediafire.com/file/un1bmsda975huwi/Dungeon_Textures.zip/file) file made by RobertR11.
 - This GitHub is structured in the same way as the .zip provides.
