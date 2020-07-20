@@ -1,8 +1,19 @@
 
+# ignore settings files :
+Tools/settings/editor_directory.txt
+Tools/settings/package_output.txt
+Tools/settings/quickbms_export_dir.txt
+
 # ignore files, add *.file_extension :
 *.DS_Store
 *.mat
 *.ini
-Tools/settings/editor_directory.txt
-Tools/settings/package_output.txt
-Tools/settings/quickbms_export_dir.txt
+*.uasset
+*.ubulk
+
+*.uexp
+*.bin
+*.log
+*.ufont
+*.umap
+UE4Project/Saved/Cooked/WindowsNoEditor/Dungeons/Metadata/CookedIniVersion.txt
