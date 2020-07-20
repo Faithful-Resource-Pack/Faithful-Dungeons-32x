@@ -3,3 +3,6 @@
 *.DS_Store
 *.mat
 *.ini
+Tools/settings/editor_directory.txt
+Tools/settings/package_output.txt
+Tools/settings/quickbms_export_dir.txt
