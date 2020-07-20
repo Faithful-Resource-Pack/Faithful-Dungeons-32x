@@ -10153,40 +10153,7 @@
     "highblockhalls/images/blocks/grass_side.tga",
     "mooncorecaverns/images/blocks/grass_side.tga",
     "squidcoast/images/blocks/grass_side.tga"  
-  ],
-  "stone_gradient_4_obsidianpinnacle.png": [
-    "obsidianpinnacle/images/blocks/stone_gradient_4.png"  
-  ],
-  "stone_gradient_5_obsidianpinnacle.png": [
-    "obsidianpinnacle/images/blocks/stone_gradient_5.png"  
-  ],
-  "stone_gradient_6_obsidianpinnacle.png": [
-    "obsidianpinnacle/images/blocks/stone_gradient_6.png"  
-  ],
-  "stone_gradient_7_obsidianpinnacle.png": [
-    "obsidianpinnacle/images/blocks/stone_gradient_7.png"  
-  ],
-  "stone_gradient_8_obsidianpinnacle.png": [
-    "obsidianpinnacle/images/blocks/stone_gradient_8.png"  
-  ],
-  "stone_gradient_9_obsidianpinnacle.png": [
-    "obsidianpinnacle/images/blocks/stone_gradient_9.png"  
-  ],
-  "stone_gradient_10_obsidianpinnacle.png": [
-    "obsidianpinnacle/images/blocks/stone_gradient_10.png"  
-  ], 
-  "stone_gradient_11_obsidianpinnacle.png": [
-    "obsidianpinnacle/images/blocks/stone_gradient_11.png"  
-  ],
-  "stone_gradient_12_obsidianpinnacle.png": [
-    "obsidianpinnacle/images/blocks/stone_gradient_12.png"  
-  ],    
-  "stone_gradient_13_obsidianpinnacle.png": [
-    "obsidianpinnacle/images/blocks/stone_gradient_13.png"  
-  ], 
-  "stone_gradient_14_obsidianpinnacle.png": [
-    "obsidianpinnacle/images/blocks/stone_gradient_14.png"  
-  ],
+  ],  
   "dirt_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/dirt.png"  
   ]    
