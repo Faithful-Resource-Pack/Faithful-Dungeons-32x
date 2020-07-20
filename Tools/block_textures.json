@@ -1315,27 +1315,27 @@
     "bamboobluff/images/blocks/grass_path_top-86.png"
   ],
  "dirt_bamboobluff2.png": [
-    "bamboobluff/images/blocks/grass_path_top-92.png"
-    "bamboobluff/images/blocks/grass_path_top-93.png"
-    "bamboobluff/images/blocks/grass_path_top-94.png"
-    "bamboobluff/images/blocks/grass_path_top-95.png"
-    "bamboobluff/images/blocks/grass_path_top-96.png"
-    "bamboobluff/images/blocks/grass_path_top-97.png"
-    "bamboobluff/images/blocks/grass_path_top-98.png"
+    "bamboobluff/images/blocks/grass_path_top-92.png",
+    "bamboobluff/images/blocks/grass_path_top-93.png",
+    "bamboobluff/images/blocks/grass_path_top-94.png",
+    "bamboobluff/images/blocks/grass_path_top-95.png",
+    "bamboobluff/images/blocks/grass_path_top-96.png",
+    "bamboobluff/images/blocks/grass_path_top-97.png",
+    "bamboobluff/images/blocks/grass_path_top-98.png",
     "bamboobluff/images/blocks/grass_path_top-99.png"
     ],
   "dirt_cacticanyon.png": [
-    "cacticanyon/images/blocks/dirt.png"
-    "cacticanyon/images/blocks/stone_gradient_3.png"
-    "cacticanyon/images/blocks/stone_gradient_4.png"
-    "cacticanyon/images/blocks/stone_gradient_5.png"
+    "cacticanyon/images/blocks/dirt.png",
+    "cacticanyon/images/blocks/stone_gradient_3.png",
+    "cacticanyon/images/blocks/stone_gradient_4.png",
+    "cacticanyon/images/blocks/stone_gradient_5.png",
     "cacticanyon/images/blocks/stone_gradient_6.png"
   ],
   "dirt_deserttemple.png": [
-    "deserttemple/images/blocks/dirt.png"
-    "deserttemple/images/blocks/dirt_podzol_side.png"
-    "deserttemple/images/blocks/dirt_podzol_top.png"
-    "deserttemple/images/blocks/grass_path_side.png"
+    "deserttemple/images/blocks/dirt.png",
+    "deserttemple/images/blocks/dirt_podzol_side.png",
+    "deserttemple/images/blocks/dirt_podzol_top.png",
+    "deserttemple/images/blocks/grass_path_side.png",
     "deserttemple/images/blocks/grass_path_side.png"
   ],
   "dirt_path_side.png": [
@@ -5651,8 +5651,8 @@
     "bamboobluff/images/blocks/dirt_path_top.png",
     "dingyjungle/images/blocks/dirt_path_top.png",
     "mycelia/images/blocks/dirt_path_top.png",
-    "overgrowntemple/images/blocks/dirt_path_top.png"
-    "frozenfjord/images/blocks/dirt_path_top.png"
+    "overgrowntemple/images/blocks/dirt_path_top.png",
+    "frozenfjord/images/blocks/dirt_path_top.png",
     "mooncorecaverns/images/blocks/grass_path_side.png"
   ],
   "dirt_podzol_side_bamboobluff.png": [
@@ -5838,7 +5838,7 @@
     "bamboobluff/images/blocks/grass_path_top-98.png",
     "dingyjungle/images/blocks/grass_path_top-98.png",
     "mycelia/images/blocks/grass_path_top-98.png",
-    "overgrowntemple/images/blocks/grass_path_top-98.png"
+    "overgrowntemple/images/blocks/grass_path_top-98.png",
     "pumpkinpastures/images/blocks/grass_path_top.png"
   ],
   "grass_path_top-99.png": [
@@ -7702,7 +7702,7 @@
     "deserttemple/images/blocks/dirt_path_top.png"
   ],
   "dirt_podzol_side_deserttemple.png": [
-    "deserttemple/images/blocks/dirt_podzol_side.png"
+    "deserttemple/images/blocks/dirt_podzol_side.png",
     "mycelia/images/blocks/dirt.png"  
   ],
   "dirt_podzol_top_deserttemple.png": [
@@ -9388,7 +9388,7 @@
   ],
   "dirt_podzol_side_pumpkinpastures.png": [
     "mycelia/images/blocks/dirt_podzol_side.png",
-    "pumpkinpastures/images/blocks/dirt_podzol_side.png"
+    "pumpkinpastures/images/blocks/dirt_podzol_side.png",
     "frozenfjord/images/blocks/dirt_podzol_side.png"
   ],
   "dirt_podzol_top_mycelia.png": [
@@ -10061,7 +10061,7 @@
   "grass_path_top-92_bamboobluff.png": [
     "bamboobluff/images/blocks/grass_path_top-92.png",
     "dingyjungle/images/blocks/grass_path_top-92.png",
-    "overgrowntemple/images/blocks/grass_path_top-92.png"
+    "overgrowntemple/images/blocks/grass_path_top-92.png",
     "frozenfjord/images/blocks/grass_path_top-92.png"
   ],
   "hardened_clay_stained_white_emissive_bamboobluff.png": [
@@ -10129,13 +10129,13 @@
     "frozenfjord/images/blocks/grass_path_side.png"  
   ],
   "dirt_highblockhalls.png": [
-    "highblockhalls/images/blocks/dirt.png"
+    "highblockhalls/images/blocks/dirt.png",
     "mooncorecaverns/images/blocks/dirt.png"  
   ],
   "grass_side.tga": [
-    "deserttemple/images/blocks/grass_side.tga"
-    "highblockhalls/images/blocks/grass_side.tga"
-    "mooncorecaverns/images/blocks/grass_side.tga"
+    "deserttemple/images/blocks/grass_side.tga",
+    "highblockhalls/images/blocks/grass_side.tga",
+    "mooncorecaverns/images/blocks/grass_side.tga",
     "squidcoast/images/blocks/grass_side.tga"  
   ],
   "stone_gradient_4_obsidianpinnacle.png": [
