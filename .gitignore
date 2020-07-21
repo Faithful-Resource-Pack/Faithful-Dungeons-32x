@@ -13,9 +13,11 @@ Tools/settings/quickbms_export_dir.txt
 *.DS_Store
 *.mat
 *.ini
-*.uasset
-*.ubulk
-*.uexp
+Dungeons/**/*.uasset
+Dungeons/**/*.ubulk
+Dungeons/**/*.uexp
+Dungeons/**/*.umap
+Dungeons/**/*.ufont
 *.bin
 *.log
 *.ufont
