@@ -7,5 +7,5 @@
     - [x] 1/1 `/Fang`
 - [x] 1/1 `/Mooshroom`
 - [x] 2/2 `/RedstoneGolem`
-- [ ] 2/2 `/Spider` **not complete :down_arrow:**
+- [ ] 2/2 `/Spider` **:arrow_down: not complete :arrow_down:**
     - [ ] 0/2 `/VFX`
