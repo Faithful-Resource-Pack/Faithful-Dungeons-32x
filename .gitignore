@@ -10,16 +10,19 @@ Tools/settings/quickbms_export_dir.txt
 **/Dungeons/Content/data
 
 # ignore files, add *.file_extension :
-*.DS_Store
-*.mat
-*.ini
+UE4Project/Saved/Cooked/WindowsNoEditor/Dungeons/Metadata/CookedIniVersion.txt
 Dungeons/**/*.uasset
 Dungeons/**/*.ubulk
 Dungeons/**/*.uexp
 Dungeons/**/*.umap
 Dungeons/**/*.ufont
+*.DS_Store
+*.mat
+*.ini
 *.bin
 *.log
 *.ufont
 *.umap
-UE4Project/Saved/Cooked/WindowsNoEditor/Dungeons/Metadata/CookedIniVersion.txt
+*.uasset
+*.ubulk
+*.uexp
