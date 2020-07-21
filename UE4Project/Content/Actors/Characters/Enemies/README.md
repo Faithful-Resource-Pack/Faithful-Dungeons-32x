@@ -1,0 +1,11 @@
+# Write here progress of each files:
+[x] 2/2 `/Bat`
+[x] 1/1 `/CaveSpider`
+[x] 2/2 `/Enderman`
+[x] 2/2 `/Husk`
+[ ] 0/2 `/Illagers/Evoker`
+    [x] 1/1 `/Fang`
+[x] 1/1 `/Mooshroom`
+[x] 2/2 `/RedstoneGolem`
+[ ] 2/2 `/Spider` **not complete :down_arrow:**
+    [ ] 0/2 `/VFX`

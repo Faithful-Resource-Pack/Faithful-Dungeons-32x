@@ -1,0 +1,13 @@
+# Write here progress of each files:
+[ ] 2/4 `/_BambooBluffDecor`
+[ ] 1/3 `/_CreeperWoods_Structures`
+[x] 1/1 `/_RedstoneMines_Structures`
+[x] 4/4 `/_SimpleBlocks/Materials`
+[ ] 1/2 `/Apple`
+[ ] 1/3 `/Minecart`
+[x] 1/1 `/Rail`
+[ ] 1/2 `/Texture`
+[ ] 0/1 `/Window`
+    [ ] 4/5 `/Material`
+    [ ] 0/3 `/Textures`
+[x] 2/2 `/WoodenDrawBridge`
