@@ -8,7 +8,7 @@
 - If you find any Issues, please report them [here](https://github.com/Faithful-Dungeons/Resource-Pack/issues). 
 - All textures are made from this [.zip](https://www.mediafire.com/file/38edw7s7rrf9lji/Content.zip/file) file made by [RobertR11](https://github.com/RobertRR11).
 - This GitHub is structured in the same way as the [Dokucraft Tool](https://github.com/Dokucraft/Dungeons-Mod-Kit) provides.
-- If you're new to this project, check out [this flowchart](https://cdn.discordapp.com/attachments/716484045118373979/722080330860986429/Untitled_Diagram.png) about making and submitting textures.
+- If you're new to this project, check out [this flowchart](https://media.discordapp.net/attachments/716484045118373979/735067976918630430/texture_flowchart.png) about making and submitting textures.
 
 
 ## How to compile:
