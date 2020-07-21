@@ -1,2 +1,2 @@
 # Write here progress of each files:
-[ ] 1/2 `/IronGolemCape`
+- [ ] 1/2 `/IronGolemCape`
