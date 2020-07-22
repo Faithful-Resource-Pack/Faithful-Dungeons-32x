@@ -1,4 +1,4 @@
-# Write here progress of each files:
+# Write the progress of each files here:
 ## For files in `/Animals`:
 - [x] 2/2 `/Chicken`
 - [x] 2/2 `/Cow`

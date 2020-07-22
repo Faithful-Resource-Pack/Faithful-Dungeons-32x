@@ -1,4 +1,4 @@
-# Write here progress of each files:
+# Write the progress of each files here:
 - [ ] 2/4 `/_BambooBluffDecor`
 - [ ] 1/2 `/_Banners`
 - [x] 0/0 `/_Containers`

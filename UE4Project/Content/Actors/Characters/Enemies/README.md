@@ -1,4 +1,4 @@
-# Write here progress of each files:
+# Write the progress of each files here:
 - [x] 2/2 `/Bat`
 - [x] 1/1 `/CaveSpider`
 - [x] 2/2 `/Enderman`
