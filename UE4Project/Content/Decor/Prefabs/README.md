@@ -1,5 +1,6 @@
 # Write here progress of each files:
 - [ ] 2/4 `/_BambooBluffDecor`
+- [ ] 1/2 `/_Banners`
 - [ ] 1/3 `/_CreeperWoods_Structures`
 - [x] 1/1 `/_RedstoneMines_Structures`
 - [x] 4/4 `/_SimpleBlocks/Materials`
