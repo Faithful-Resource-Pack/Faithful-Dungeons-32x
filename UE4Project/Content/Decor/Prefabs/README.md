@@ -7,6 +7,7 @@
 - [x] 1/1 `/_RedstoneMines_Structures`
 - [x] 4/4 `/_SimpleBlocks/Materials`
 - [ ] 1/2 `/Apple`
+- [x] 1/1 `/Chest`
 - [ ] 1/3 `/Minecart`
 - [x] 1/1 `/Rail`
 - [ ] 1/2 `/Texture`
