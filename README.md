@@ -33,11 +33,14 @@ Setting the package_output path to a file in your ~mods folder is recommended to
 
 > A more detailed documentation can be found [here](https://github.com/Dokucraft/Dungeons-Mod-Kit)
 
-Then you need to execute those files: 
-- 1st : build_resource_packs.bat
-- 2nd : import_assets.bat
-- 3rd : cook_assets.bat
-- at the end : package.bat
+**You doesn't have to follow steps below, a new file called `package.bat` do everything for you!**
+```
+Then you need to execute those files following this order: 
+- `build_resource_packs.bat`
+- `import_assets.bat`
+- `cook_assets.bat`
+- `package_old.bat`
+```
 
 Then you get the `.pak` exported where you set your path in `package_output.txt`
 
