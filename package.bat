@@ -6,12 +6,12 @@ SET /p packageOutput= < Tools\settings\package_output.txt
 
 REM Building Resource Pack...
 cd Tools
-python copy_block_textures.py
+python py\copy_block_textures.py
 cd..
 
 REM Importing assets...
 @echo off
-python Tools\generate_asset_import_settings.py
+python Tools\py\generate_asset_import_settings.py
 "%editorPath%\UE4Editor-Cmd.exe" "%ddp%\UE4Project\Dungeons.uproject" -run=ImportAssets -nosourcecontrol "-importsettings=%ddp%\Tools\tmp_import_settings.json"
 del /s Tools\tmp_import_settings.json  >nul 2>&1
 @echo on
@@ -26,7 +26,7 @@ del /S Dungeons\*.ufont
 robocopy /job:Tools\copy_cooked_assets
 
 REM	Packing...
-python Tools\u4pak.py pack "%packageOutput%" Dungeons -p
+python Tools\py\u4pak.py pack "%packageOutput%" Dungeons -p
 
 echo Packing is done. You can close this window now.
 
