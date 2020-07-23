@@ -31,9 +31,10 @@ with open('block_textures.json') as json_file:
   for filename,copies in textures.items():
     if not os.path.isfile(texturesPath + filename):
       count += 1
-      print(filename + ' | is missing')
+      print('Missing: ' + filename)
 
   total = len(textures)
+
   print('----------------------------------------')
   print('  Total missing textures: ' + str(count))
   print('  Percentage complete:    ' + str(math.floor((total - count) * 100 / total)) + '%')

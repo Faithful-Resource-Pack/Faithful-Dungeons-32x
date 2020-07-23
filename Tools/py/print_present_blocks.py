@@ -32,7 +32,7 @@ with open('block_textures.json') as json_file:
   for filename,copies in textures.items():
     if os.path.isfile(texturesPath + filename):
       count1 += 1
-      print(filename + ' | is present')
+      print('Present: ' + filename)
     if not os.path.isfile(texturesPath + filename):
       count += 1
 
