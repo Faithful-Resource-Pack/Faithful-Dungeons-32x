@@ -7,7 +7,6 @@ Tools/settings/quickbms_export_dir.txt
 # ignore files under Content/data/resourcepack (they are merged from Blocks Texture during packaging)
 # !! May cause issue (Not tested) !!
 **/UE4Project/Content/data
-**/Dungeons/Content/data
 
 # ignore files, add *.file_extension :
 UE4Project/Saved/Cooked/WindowsNoEditor/Dungeons/Metadata/CookedIniVersion.txt
