@@ -24,20 +24,20 @@ import math
 
 texturesPath = '../Block Textures/'
 
-count = 0
-count1 = 0
+count_missing = 0
+count_present = 0
 
 with open('block_textures.json') as json_file:
   textures = json.load(json_file)
   for filename,copies in textures.items():
     if os.path.isfile(texturesPath + filename):
-      count1 += 1
+      count_present += 1
       print('Present: ' + filename)
     if not os.path.isfile(texturesPath + filename):
-      count += 1
+      count_missing += 1
 
   total = len(textures)
   print('----------------------------------------')
-  print('  Total present textures: ' + str(count1))
-  print('  Percentage complete:    ' + str(math.floor((total - count) * 100 / total)) + '%')
+  print('  Total textures: ' + str(total))
+  print('       - Present: ' + str(count_present) + ' (' + str(math.floor((total - count_missing) * 100 / total)) + '%)')
   print('----------------------------------------')

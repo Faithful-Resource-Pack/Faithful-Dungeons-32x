@@ -38,7 +38,6 @@ with open('block_textures.json') as json_file:
       print('Missing: ' + filename)
 
   total = len(textures)
-
   print('----------------------------------------')
   print('  Total textures: ' + str(total))
   print('       - Missing: ' + str(count_missing))
