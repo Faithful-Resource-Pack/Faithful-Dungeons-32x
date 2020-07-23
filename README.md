@@ -12,7 +12,7 @@
 
 
 ## How to compile:
-> You can compile our Resource Pack by yourself, **according to our Licence, you can't distribute it or sell it.**
+> You can compile our Resource Pack by yourself, but **according to our Licence, you can't distribute it or sell it.**
 
 ### Prerequisites:
 - [Python 3.8+](https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l?activetab=pivot:overviewtab)
@@ -33,7 +33,7 @@ Setting the package_output path to a file in your ~mods folder is recommended to
 
 > A more detailed documentation can be found [here](https://github.com/Dokucraft/Dungeons-Mod-Kit)
 
-**You doesn't have to follow steps below, a new file called `package.bat` do everything for you!**
+**You don't have to follow the steps below anymore, the new file `package.bat` will do everything for you!**
 ```
 Then you need to execute those files following this order: 
 - `build_resource_packs.bat`
