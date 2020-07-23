@@ -837,10 +837,12 @@
     "jungle/images/blocks/cobblestone.png",
     "mooncorecaverns/images/blocks/cobblestone.png",
     "mycelia/images/blocks/cobblestone.png",
+    "squidcoast/images/blocks/cobblestone.png",  
     "pumpkinpastures/images/blocks/cobblestone.png"
   ],
   "cobblestone_mossy.png": [
-    "jungle/images/blocks/cobblestone_mossy.png"
+    "jungle/images/blocks/cobblestone_mossy.png",
+    "squidcoast/images/blocks/cobblestone_mossy.png"  
   ],
   "cocoa_stage_0.png": [
     "bamboobluff/images/blocks/cocoa_stage_0.png",
@@ -10105,11 +10107,5 @@
   ],  
   "dirt_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/dirt.png"  
-  ],
-  "cobblestone_squidcoast.png": [
-    "squidcoast/images/blocks/cobblestone.png"  
-  ],
-  "cobblestone_mossy_squidcoast.png": [
-    "squidcoast/images/blocks/cobblestone_mossy.png"  
-  ]    
+  ]   
 }
