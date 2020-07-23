@@ -23,13 +23,16 @@ import json
 import math
 
 texturesPath = '../Block Textures/'
+texturesPath2 = '../UE4Project/Content/Decor/Prefabs/'
 
 count_missing = 0
 count_present = 0
+total = 0
 
 with open('block_textures.json') as json_file:
   textures = json.load(json_file)
   for filename,copies in textures.items():
+    total += 1
     if os.path.isfile(texturesPath + filename):
       count_present += 1
       print('Present: ' + filename)
@@ -37,7 +40,18 @@ with open('block_textures.json') as json_file:
       count_missing += 1
       print('Missing: ' + filename)
 
-  total = len(textures)
+with open('prefabs_textures.json') as json_file:
+  textures = json.load(json_file)
+  for file,filenames in textures.items():
+    for filename in filenames:
+      total += 1
+      if os.path.isfile(texturesPath2 + file + '\\' + filename):
+        count_present += 1
+        print('Present: ' + file + '/' + filename)
+      if not os.path.isfile(texturesPath2 + file + '\\' + filename):
+        count_missing += 1
+        print('Missing: ' + file + '/' + filename)
+
   print('----------------------------------------')
   print('  Total textures: ' + str(total))
   print('       - Missing: ' + str(count_missing))
