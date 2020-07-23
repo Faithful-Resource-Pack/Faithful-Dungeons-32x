@@ -1,0 +1,315 @@
+{
+  "_BambooBluffDecor" : [
+  	"planks_jungle.png",
+  	"T_BambooGate.png",
+  	"T_CrackAnimation.png",
+  	"T_DirtAtlas.png"
+  ],
+  "_Banners" : [
+  	"T_DrapedBanner.png",
+  	"T_DrapedBanner_SPEC.png"
+  ],
+  "_Bridges/Regular" : [
+  	"T_Bridge.png"
+  ],
+  "_Bridges/SoggySwamp" : [
+  	"T_Bridge_SoggySwamp.png"
+  ],
+  "_Containers/Sacks" : [
+  	"T_Sack.png",
+  	"T_Sack_Small.png",
+  	"T_Sack_Small_SPEC.png"
+  ],
+  "_CreeperWoods_Structures" : [
+  	"T_CW_Runedoor.png",
+  	"T_CW_StoneAtlas.png",
+  	"T_Wood.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/BarricadeAnimated" : [
+  	"T_LS_AnimBaricade.png",
+  	"T_LS_AnimBaricade_s.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/BarricadeArena" : [
+  	"T_BatteringRamNew_d.png",
+  	"T_BatteringRamNew_E.png",
+  	"T_BatteringRamNew_s.png",
+  	"T_CampaignTent.png",
+  	"T_CampaignTent_S.png",
+  	"T_LS_SeigeTowerNew.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/Brickpiles" : [
+  	"T_IcefortBricks.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/Elevator_pulley" : [
+  	"T_ElevatorPulley.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/FallingIceBlocks" : [
+  	"T_Falling_Ice.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/ForestBranches" : [
+  	"T_FallenBranches.png",
+  	"T_Snow_32x.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/Icelamp" : [
+  	"T_Icefort_Lamp_e.png",
+  	"T_Icefort_Lamp_d.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/IcePiles" : [
+  	"T_IcePiles_d.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/IceSpikeFade" : [
+  	"T_IceFortMF.png",
+  	"T_LS_D_IcespikeFade.png",
+  	"T_LS_IceSpikes.png",
+  	"T_SettlementFade.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/IceSpikes05_Bridges/Retractable_Bridge" : [
+  	"T_RetractibleBridge.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/lookout_lift_fade" : [
+  	"lookout_lift_front.png",
+  	"lookout_turret_roof.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/LS_Lanterns" : [
+  	"T_CubelampBlank.png",
+  	"T_IceFortT_LF.png",
+  	"T_LS_Lantern_d.png",
+  	"T_LS_Lantern_e.png",
+  	"T_LS_PGPanner.png",
+  	"T_LSLanternLF.png",
+  	"T_SmallLampLF.png",
+  	"T_STLampLF.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/MinePlanks" : [
+  	"T_Mineplanks.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/MineStructures" : [
+  	"T_IceCubes_Small.png",
+  	"T_SnowMineDecor.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/MistParticle" : [
+  	"T_LS_Mistpattern.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/RuneBeacon" : [
+  	"RB_Lightning.png",
+  	"T_ArenaEyeFB.png",
+  	"T_ArenaEyeFB_e.png",
+  	"T_Beaconcurve_e.png",
+  	"T_HatchcoverBlock.png",
+  	"T_RB_Clock.png",
+  	"T_RBClockHand.png",
+  	"T_RuneBeacon_d.png",
+  	"T_RuneBeacon_e.png",
+  	"T_RuneBeacon_e_mask.png",
+  	"T_RuneBeacon_Panner.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/RuneBeacon/Numbers" : [
+  	"T_RBC_1",
+  	"T_RBC_2",
+  	"T_RBC_3",
+  	"T_RBC_4",
+  	"T_RBC_5",
+  	"T_RBC_6",
+  	"T_RBC_7",
+  	"T_RBC_8"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/SettlementFade" : [
+  	"T_SettlementHouseFade.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/TreeFade" : [
+  	"leaves_oak_outer.png",
+  	"leaves_spruce_outer.png",
+  	"T_OakTree.png",
+  	"T_SpruceTree.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/TreeFade/ForestSetpiece" : [
+  	"T_ForestSetpieceFade.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/WitchTreeFade" : [
+  	"T_LS_WitchTreesAtlas.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/WoodenElevatorLarge" : [
+  	"T_WoodenElevator_Large.png"
+  ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures" : [
+  	"T_IceFortTorch_d.png",
+  	"T_IceFortTorch_e.png",
+  	"T_pulley.png",
+  	"T_Pullyrope.png",
+  	"T_SettlementLamp.png"
+  ],
+  "_Creeperwinter_Structures/Buttons" : [
+  	"T_IceButton_d.png",
+  	"T_IceButton_e.png",
+  	"T_IceButtonFFJ_d.png",
+  	"T_IceButtonLF_d.png"
+  ],
+  "_Creeperwinter_Structures/FrozenFjord" : [
+  	"T_Drawbridge_Chain_FrozenFjord.png",
+  	"T_FFJ_CloudShadow.png",
+  	"T_log_oak.png",
+  	"T_log_oak_top.png",
+  	"T_planks_spruce.png"
+  ],
+  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/Dock" : [
+  	"T_FFJ_Dockplanks.png",
+  	"T_FFJ_Pier.png",
+  	"T_FFJDock.png",
+  	"T_FFJDock_SAlpha.png",
+  	"T_RopeHang.png"
+  ],
+  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/FF_IcePiles" : [
+  	"T_FF_IcePiles_d.png"
+  ],
+  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/Houses" : [
+  	"T_FF_MiniAtlas.png"
+  ],
+  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/IceCracks" : [
+  	"T_FFJ_IceCracks.png"
+  ],
+  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/RiverLock_SluiceGate" : [
+  	"T_Outflow.png",
+  	"T_SluiceGate.png"
+  ],
+  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/TundraRocks" : [
+  	"T_FFJ_TundraRocks.png"
+  ],
+  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/TundraStructures" : [
+  	"T_FFJ_Decking.png"
+  ],
+  "_Creeperwinter_Structures/FrozenFjordCave" : [
+  	"T_FFJ_CraftOre.png",
+  	"T_FFJ_Lightshafts.png"
+  ],
+  "_Creeperwinter_Structures/FrozenFjordCave/Hanging_Chest" : [
+  	"ChestHook.png"
+  ],
+  "_Creeperwinter_Structures/FrozenFjordCave/Mushrooms" : [
+  	"T_CW_GlowingMushrooms_d.png",
+  	"T_CW_GlowingMushrooms_e.png",
+  	"T_CW_WallShrooms_d.png",
+  	"T_CW_WallShrooms_e.png",
+  	"T_CW_WallShroomsBlue_d.png",
+  	"T_CW_WallShroomsBlue_e.png",
+  	"T_FFJ_CaveSet.png",
+  	"T_FFJ_CloudPanner.png",
+  	"T_SpotlightAlpha.png"
+  ],
+  "_Creeperwinter_Structures/FrozenFjordCave/Stalactites" : [
+  	"T_Stalagtites.png"
+  ],
+  "_Creeperwinter_Structures/Ice_DesignAssets" : [
+  	"T_FFJ_IceGate.png",
+  	"T_IceDoor.png",
+  	"T_IceDoor_Frost.png",
+  	"T_IceDoor_Wood.png",
+  	"T_IceEntranceDoor.png",
+  	"T_IceEntranceDoor_spec.png",
+  	"T_IceGate.png",
+  	"T_IceGate_specular.png"
+  ],
+  "_Creeperwinter_Structures/IciclePlanes" : [
+  	"T_Icicleplanes.png"
+  ],
+  "_Creeperwinter_Structures/LonelyFortress" : [
+  	"T_LF_LightshaftPanner.png",
+  	"T_LF_Lightshafts.png"
+  ],
+  "_Creeperwinter_Structures/LonelyFortressStructure" : [
+  	"planks_big_oak.png",
+  	"T_Chandelier_LF.png",
+  	"T_Chandelier_LF_e.png",
+  	"T_Chandelier_LF_s.png",
+  	"T_FirePillar_LonelyFortress.png",
+  	"T_FirePillar_LonelyFortress_e.png",
+  	"T_Illager_Gargoyle.png",
+  	"T_LF_MiniAtlas.png",
+  	"T_Player_Dragon_Statue.png",
+  	"T_player_statues_fortress.png"
+  ],
+  "_Creeperwinter_Structures/LonelyFortressStructure/Doors" : [
+  	"T_DoorLocked_Silver_LonelyFortress.png"
+  ],
+  "_Creeperwinter_Structures/LonelyFortressStructure/IceArena" : [
+  	"Icearena_AO.png",
+  	"T_IAD.png",
+  	"T_IceArena.png",
+  	"T_IceArenaFog.png",
+  	"T_IceSingle.png"
+  ],
+  "_Creeperwinter_Structures/LonelyFortressStructure/Player_Gargoyle_2X" : [
+  	"T_PlayerGargoyle_2x.png",
+  	"T_PlayerGargoyle_2X_S.png"
+  ],
+  "_Crypt_Structures/Models" : [
+  	"t_creeperwoods_atlas.png",
+  	"t_creeperwoods_miniatlas.png"
+  ],
+  "_DesertTemple_Structures/Columns" : [
+  	"T_DT_Quartz.png"
+  ],
+  "_Forge/AirPump" : [
+  	"T_AirPump.png",
+  	"T_AirPump_E.png"
+  ],
+  "_Forge/Bars" : [
+  	"T_FF_Bars.png"
+  ],
+  "_Forge/ForgeHammer" : [
+  	"T_ForgeHammer.png",
+  	"T_ForgeHammerSupport.png"
+  ],
+  "_Forge/Head" : [
+  	"T_FF_Head.png",
+  	"T_FF_Head_Eyes.png",
+  	"T_FF_Head_Eyes_E.png"
+  ],
+  "_Forge/TrapDoor" : [
+  	"T_TrapDoor.png"
+  ],
+  "_Fruit_Food" : [
+  	"T_Bottle.png",
+  	"T_Bottle_SPEC.png",
+  	"T_Bread.png",
+  	"T_Carrot.png",
+  	"T_Fish.png",
+  	"T_Fish02.png",
+  	"T_Loaf.png",
+  	"T_Orange.png",
+  	"T_Pear.png",
+  	"T_Pork.png",
+  	"T_Potato.png",
+  	"T_Steak.png",
+  	"T_Turkey.png"
+  ],
+  "_Fruit_Food/Served" : [
+  	"T_Fruits.png"
+  ],
+  "_Furniture" : [
+  	"T_Armchair.png",
+  	"T_Bed_LightBlue.png",
+  	"T_Bed_Red.png",
+  	"T_Couch.png",
+  	"T_Fireplace.png",
+  	"T_Fireplace_EM.png",
+  	"T_Sidetable.png",
+  	"T_Table.png",
+  	"T_Table_Big.png",
+  	"T_Table_Colormask.png",
+  	"T_Table_Spec.png"
+  ],
+  "_HighBlockHalls_Houses" : [
+  	"SoggySwamp_TextureAtlas.png",
+  	"T_DT_Gate.png",
+  	"T_FadeGate.png",
+  	"T_FancyFence.png",
+  	"T_HH_EscapeExit.png",
+  	"T_HH_MiniAtlas.png"
+  ],
+  "_Lab" : [
+  	"T_TestTubes.png"
+  ],
+  "_Lab/Glassware" : [
+  	"T_LabGlassware.png"
+  ]
+}
