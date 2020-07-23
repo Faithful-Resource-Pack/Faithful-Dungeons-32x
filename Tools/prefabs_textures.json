@@ -311,5 +311,58 @@
   ],
   "_Lab/Glassware" : [
   	"T_LabGlassware.png"
-  ]
+  ],
+  "_LightingFixtures" : [
+  	"T_Torch.png",
+  	"T_Torch_E.png"
+  ],
+  "_LightingFixtures/Lanterns" : [
+  	"T_Lantern.png"
+  ],
+  "_LightingFixtures/TikiTorch" : [
+  	"T_TikiTorch_SPEC.png"
+  ],
+  "_LobbyHouse" : [
+  	"T_Curtains.png",
+  	"T_Curtains_Short.png",
+  	"T_LargePot.png",
+  	"T_Lobby_Paintings.png",
+  	"T_Lobby_Paintings2.png",
+  	"T_LobbyCarpet.png",
+  	"T_LobbyCarpet_S.png",
+  	"T_LobbyPlants.png",
+  	"T_Shelf.png",
+  	"T_SmallTray.png",
+  	"T_Table_HH.png",
+  	"T_Teapot.png"
+  ],
+  "_LobbyHouse/CreeperWoods" : [
+  	"T_AnatomyOfACreeper.png"
+  ],
+  "_Mooshroom" : [
+  	"mushroom_block_skin_red.png"
+  ],
+  "_Plants/AncientCycad" : [ "T_AncientCycad.png" ],
+  "_Plants/Cactus" : [ "T_Cactus02.png" ],
+  "_Plants/Coral" : [ "T_Coral_Plant_Blue.png" ],
+  "_Plants/D11_Bamboo" : [ "T_Bamboo.png" ],
+  "_Plants/DesertPalm" : [ "T_DesertPalm.png" ],
+  "_Plants/FlowerVase" : [ "T_FlowerVase.png", "T_FlowerVase_SPEC.png" ],
+  "_Plants/Foilage/Material" : [ "T_Foilage.png", "T_FoilageHueMask.png", "T_Grass.png", "T_GrassHueMask.png" ],
+  "_Plants/Ivy" : [ "T_Ivy_03.png", "T_Ivy_04.png", "T_Ivy_05.png" ],
+  "_Plants/Kelp" : [ "T_Kelp.png" ],
+  "_Plants/Lilies" : [ "T_Lilies.png" ],
+  "_Plants/Lilypads" : [ "T_Lily_Flower_02.png", "T_Lilypad.png", "T_Lilypad_Enormous.png", "T_LilyPad_Gigantic.png" ],
+  "_Plants/Monstera" : [ "T_Monstera.png" ],
+  "_Plants/Mushrooms_New" : [ "T_Mushrooms_New.png" ],
+  "_Plants/Mushrooms_New/RedMushrooms" : [ "T_mushroom_red.png" ],
+  "_Plants/PopFlower" : [ "T_PopFlower.png" ],
+  "_Plants/Reed" : [ "T_Reed.png", "T_Reed_planes.png", "T_Reed_planes_02.png" ],
+  "_Plants/Sunflowers" : [ "T_Flowerpatch.png", "T_Flowerpatch_Dried.png" ],
+  "_Plants/Sunflowers/New" : [ "T_Sunflower.png" ],
+  "_Plants/SwampFlower" : [ "T_SwampFlower.png" ],
+  "_Plants/Vines" : [ "T_Vines.png", "T_Vines_Dry.png" ],
+  "_Plants/WaterPlant" : [ "T_Water_Plant.png" ],
+
+  "_PumpkinPastures" : [ "T_Leaf_Pile_Jungle.png" ]
 }

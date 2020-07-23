@@ -26,18 +26,18 @@ texturesPath = '../Block Textures/'
 
 count_missing = 0
 count_present = 0
-total = 0
 
 with open('block_textures.json') as json_file:
   textures = json.load(json_file)
   for filename,copies in textures.items():
-    total += 1
     if os.path.isfile(texturesPath + filename):
       count_present += 1
       print('Present: ' + filename)
     if not os.path.isfile(texturesPath + filename):
       count_missing += 1
       print('Missing: ' + filename)
+
+  total = len(textures)
 
   print('----------------------------------------')
   print('  Total textures: ' + str(total))
