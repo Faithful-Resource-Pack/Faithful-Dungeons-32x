@@ -27,3 +27,7 @@ robocopy /job:Tools\copy_cooked_assets
 
 REM	Packing...
 python Tools\u4pak.py pack "%packageOutput%" Dungeons -p
+
+echo Packing is done. You can close this window now.
+
+pause
