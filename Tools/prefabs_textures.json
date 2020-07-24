@@ -392,5 +392,88 @@
   "RuneActivator/Door": [ "T_RuneDoor.png", "T_RuneDoorSpec.png", "T_RuneGate.png", "T_RuneGateMechanisms.png", "T_RuneHints.png", "T_RuneHints_spec.png" ],
   "RuneActivator/RuneActivator/Assets": [ "CheckeredMask.png", "T_PixelNoiseSmooth32.png", "T_RunActivator.png", "T_RuneActivatorMask.png", "T_RuneActivatorNoise.png", "T_RuneBlock.png", "T_RuneBlock_Spec.png", "T_RuneRelay.png", "T_RuneRelay_Mask.png" ],
   "RuneActivator/RuneCube/Assets": [ "T_RuneCubeStars.png" ],
-  "RuneActivator/RuneTower/Assets": [ "T_RuneTower.png" ]
-}
+  "RuneActivator/RuneTower/Assets": [ "T_RuneTower.png" ],
+
+  "Sarcophagus": [ "T_Sarcophagus.png" ],
+
+  "Scaffold": [ "T_Scaffold_New.png" ],
+
+  "Scarecrow": [ "T_Scarecrow.png" ],
+
+  "ShieldDecorative": [ "T_Shield_Johan_.png", "T_TrophyShield.png" ],
+
+  "Ship_Mast": [ "T_Ship_Mast_01.png" ],
+
+  "Ship_Steering_Wheel": [ "T_Ship_Steering_Wheel.png" ],
+
+  "Sign": [ "T_LargeSign.png", "T_Sign_Emerald.png", "T_Sign_S.png" ],
+  "Sign/NewSigns": [ "T_Sign_Blank_New.png", "T_Sign_Leaves.png", "T_Sign_Smithy_New.png ", "T_Sign_Sword_New.png ", "T_Sign_Tavern_New.png" ],
+
+  "Skull": [ "T_Skull.png" ],
+
+  "Sled": [ "T_Sled_Large.png" ],
+
+  "Stabledoor": [ "T_Stabledoor.png" ],
+
+  "Stairrugs": [ "T_CarpetBorders.png", "T_CarpetBorders_Lonely.png", "T_CarpetBorders_Lonely_Spec.png", "T_CarpetBorders_Spec.png", "wool_colored_red.png" ],
+
+  "Statues": [ "T_Gargoyle_Statue.png", "T_StatueHorse_New.png" ],
+
+  "StoneRailing": [ "T_StoneRailing.png" ],
+
+  "StoneRubble": [ "T_Stone_Rubble.png" ],
+
+  "SunDial": [ "T_Sundial.png", "T_Sundial_SPEC.png" ],
+
+  "SupportBeams": [ "T_SupportBeam_Large.png", "T_SupportBeam_LargeT.png", "T_SupportBeams.png", "T_SupportBeams_Spec.png" ],
+
+  "Telescope": [ "T_Telescope.png", "T_Telescope_SPEC.png" ],
+ 
+  "Tent": [ "T_Tent.png" ],
+
+  "Texture": [ "cobblestone.png", "cobblestone_SPEC.png" ],
+
+  "Throne": [ "T_Throne.png", "T_Throne_Blue.png", "T_Throne_SPEC.png" ],
+
+  "Tomb": [ "T_Tomb.png", "T_Tomb_S.png", "T_TombLid.png" ],
+
+  "TorchWall": [ "T_Torch_Wall", "T_Torch_Wall_SPEC.png" ],
+
+  "TownBell": [ "T_BellTower_SPEC.png" ],
+
+  "Traps": [ "T_KnifeTrap.png", "T_KnifeTrap_EM.png", "T_KnifeTrap_SPEC.png", "T_KnifeTrap_Wide.png", "T_KnifeTrap_Wide_SPEC.png", "T_Log_Spruce.png", "T_StoneFloor.png", "T_Trap_Crusher.png", "T_Trap_Trigger.png", "TrapTrail.png" ],
+  "Traps/FallingBlocks": [ "T_FallingBlock_Jungle.png", "T_FallingBlock_Jungle2.png" ],
+
+  "Urns": [ "T_Urn_Closed.png", "T_Urn01.png", "T_Urn03.png" ],
+
+  "Vase": [ "T_Vase_Big.png" ],
+
+  "Wagon": [ "T_Wagon.png", "T_Wagon_Spec.png" ],
+
+  "Watchtower": [ "T_Platform.png" ],
+
+  "WaterReflection": [ "T_Caustics.png" ],
+
+  "WaterTrough": [ "T_WateringTrough.png" ],
+
+  "Waterwheel": [ "T_Waterwheel.png" ],
+
+  "Well": [ "T_Well.png", "T_WellBig.png" ],
+
+  "WesternGate": [ "T_WesternGate_Big.png" ],
+
+  "WheelBarrow": [ "T_Wheelbarrow.png" ],
+
+  "WheelbarrowNew": [ "T_Wheelbarrow.png", "T_Wheelbarrow_Small.png", "T_Wheelbarro_Small_Spec.png", "T_Wheelbarrow_Spec.png" ],
+
+  "Windmill": [ "T_Windmill.png" ],
+
+  "WindmillLarge": [ "T_Windmill.png" ],
+
+  "WindmillSmall": [ "T_WindmillSimple.png", "T_Windmill_Small.png" ],
+
+  "Window": [ "Texture_Window.png" ],
+  "Window/Material": [ "T_StainedWindowOverlay.png", "T_Window.png", "T_Window_E.png", "T_Window_Glass.png", "T_WindowRayRays.png" ],
+  "Window/Textures": [ "T_BG_Candle001.png", "T_BG_Candle002.png", "T_BG_Candle003.png" ],
+
+  "Winebarrels": [ "T_Winerack.png" ]
