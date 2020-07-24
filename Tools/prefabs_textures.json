@@ -378,7 +378,7 @@
 
   "RedstoneMachine" : [ "T_RedstoneCore.png", "T_RedstoneCore_Broken.png", "T_RedstoneCore_E.png" ],
 
-  "RedstoneMachine/Lid" : [ "T_CoreLid.png", "T_CoreSocket.png", "T_CoreSocket_Broken.png", "T_CoreSocket_E.png" ],
+  "RedstoneMachine/Lid" : [ "T_CoreLid.png", "T_CoreSocket.png", "T_CoreSocket_Broken.png", "T_CoreSocket_E.png" ]
 
   
 
