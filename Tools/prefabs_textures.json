@@ -1,385 +1,396 @@
 {
-  "_BambooBluffDecor" : [ "planks_jungle.png", "T_BambooGate.png", "T_CrackAnimation.png", "T_DirtAtlas.png" ],
+  "_BambooBluffDecor": [ "planks_jungle.png", "T_BambooGate.png", "T_CrackAnimation.png", "T_DirtAtlas.png" ],
   
-  "_Banners" : [ "T_DrapedBanner.png", "T_DrapedBanner_SPEC.png" ],
+  "_Banners": [ "T_DrapedBanner.png", "T_DrapedBanner_SPEC.png" ],
   
-  "_Bridges/Regular" : [ "T_Bridge.png" ],
-  "_Bridges/SoggySwamp" : [ "T_Bridge_SoggySwamp.png" ],
+  "_Bridges/Regular": [ "T_Bridge.png" ],
+  "_Bridges/SoggySwamp": [ "T_Bridge_SoggySwamp.png" ],
   
-  "_Containers/Sacks" : [ "T_Sack.png", "T_Sack_Small.png", "T_Sack_Small_SPEC.png" ],
+  "_Containers/Sacks": [ "T_Sack.png", "T_Sack_Small.png", "T_Sack_Small_SPEC.png" ],
   
-  "_CreeperWoods_Structures" : [ "T_CW_Runedoor.png", "T_CW_StoneAtlas.png", "T_Wood.png" ],
+  "_CreeperWoods_Structures": [ "T_CW_Runedoor.png", "T_CW_StoneAtlas.png", "T_Wood.png" ],
   
-  "_Creeperwinter_Structures/_LostSettlement_Structures/BarricadeAnimated" : [ "T_LS_AnimBaricade.png", "T_LS_AnimBaricade_s.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/BarricadeArena" : [ "T_BatteringRamNew_d.png", "T_BatteringRamNew_E.png", "T_BatteringRamNew_s.png", "T_CampaignTent.png", "T_CampaignTent_S.png", "T_LS_SeigeTowerNew.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/Brickpiles" : [ "T_IcefortBricks.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/Elevator_pulley" : [ "T_ElevatorPulley.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/FallingIceBlocks" : [ "T_Falling_Ice.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/ForestBranches" : [ "T_FallenBranches.png", "T_Snow_32x.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/Icelamp" : [ "T_Icefort_Lamp_e.png", "T_Icefort_Lamp_d.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/IcePiles" : [ "T_IcePiles_d.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/IceSpikeFade" : [ "T_IceFortMF.png", "T_LS_D_IcespikeFade.png", "T_LS_IceSpikes.png", "T_SettlementFade.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/IceSpikes05_Bridges/Retractable_Bridge" : [ "T_RetractibleBridge.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/lookout_lift_fade" : [ "lookout_lift_front.png", "lookout_turret_roof.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/LS_Lanterns" : [ "T_CubelampBlank.png", "T_IceFortT_LF.png", "T_LS_Lantern_d.png", "T_LS_Lantern_e.png", "T_LS_PGPanner.png", "T_LSLanternLF.png", "T_SmallLampLF.png", "T_STLampLF.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/MinePlanks" : [ "T_Mineplanks.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/MineStructures" : [ "T_IceCubes_Small.png", "T_SnowMineDecor.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/MistParticle" : [ "T_LS_Mistpattern.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/RuneBeacon" : [ "RB_Lightning.png", "T_ArenaEyeFB.png", "T_ArenaEyeFB_e.png", "T_Beaconcurve_e.png", "T_HatchcoverBlock.png", "T_RB_Clock.png", "T_RBClockHand.png", "T_RuneBeacon_d.png", "T_RuneBeacon_e.png", "T_RuneBeacon_e_mask.png", "T_RuneBeacon_Panner.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/RuneBeacon/Numbers" : [ "T_RBC_1", "T_RBC_2", "T_RBC_3", "T_RBC_4", "T_RBC_5", "T_RBC_6", "T_RBC_7", "T_RBC_8" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/SettlementFade" : [ "T_SettlementHouseFade.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/TreeFade" : [ "leaves_oak_outer.png", "leaves_spruce_outer.png", "T_OakTree.png", "T_SpruceTree.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/TreeFade/ForestSetpiece" : [ "T_ForestSetpieceFade.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/WitchTreeFade" : [ "T_LS_WitchTreesAtlas.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures/WoodenElevatorLarge" : [ "T_WoodenElevator_Large.png" ],
-  "_Creeperwinter_Structures/_LostSettlement_Structures" : [ "T_IceFortTorch_d.png", "T_IceFortTorch_e.png", "T_pulley.png", "T_Pullyrope.png", "T_SettlementLamp.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/BarricadeAnimated": [ "T_LS_AnimBaricade.png", "T_LS_AnimBaricade_s.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/BarricadeArena": [ "T_BatteringRamNew_d.png", "T_BatteringRamNew_E.png", "T_BatteringRamNew_s.png", "T_CampaignTent.png", "T_CampaignTent_S.png", "T_LS_SeigeTowerNew.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/Brickpiles": [ "T_IcefortBricks.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/Elevator_pulley": [ "T_ElevatorPulley.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/FallingIceBlocks": [ "T_Falling_Ice.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/ForestBranches": [ "T_FallenBranches.png", "T_Snow_32x.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/Icelamp": [ "T_Icefort_Lamp_e.png", "T_Icefort_Lamp_d.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/IcePiles": [ "T_IcePiles_d.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/IceSpikeFade": [ "T_IceFortMF.png", "T_LS_D_IcespikeFade.png", "T_LS_IceSpikes.png", "T_SettlementFade.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/IceSpikes05_Bridges/Retractable_Bridge": [ "T_RetractibleBridge.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/lookout_lift_fade": [ "lookout_lift_front.png", "lookout_turret_roof.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/LS_Lanterns": [ "T_CubelampBlank.png", "T_IceFortT_LF.png", "T_LS_Lantern_d.png", "T_LS_Lantern_e.png", "T_LS_PGPanner.png", "T_LSLanternLF.png", "T_SmallLampLF.png", "T_STLampLF.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/MinePlanks": [ "T_Mineplanks.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/MineStructures": [ "T_IceCubes_Small.png", "T_SnowMineDecor.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/MistParticle": [ "T_LS_Mistpattern.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/RuneBeacon": [ "RB_Lightning.png", "T_ArenaEyeFB.png", "T_ArenaEyeFB_e.png", "T_Beaconcurve_e.png", "T_HatchcoverBlock.png", "T_RB_Clock.png", "T_RBClockHand.png", "T_RuneBeacon_d.png", "T_RuneBeacon_e.png", "T_RuneBeacon_e_mask.png", "T_RuneBeacon_Panner.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/RuneBeacon/Numbers": [ "T_RBC_1", "T_RBC_2", "T_RBC_3", "T_RBC_4", "T_RBC_5", "T_RBC_6", "T_RBC_7", "T_RBC_8" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/SettlementFade": [ "T_SettlementHouseFade.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/TreeFade": [ "leaves_oak_outer.png", "leaves_spruce_outer.png", "T_OakTree.png", "T_SpruceTree.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/TreeFade/ForestSetpiece": [ "T_ForestSetpieceFade.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/WitchTreeFade": [ "T_LS_WitchTreesAtlas.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures/WoodenElevatorLarge": [ "T_WoodenElevator_Large.png" ],
+  "_Creeperwinter_Structures/_LostSettlement_Structures": [ "T_IceFortTorch_d.png", "T_IceFortTorch_e.png", "T_pulley.png", "T_Pullyrope.png", "T_SettlementLamp.png" ],
   
-  "_Creeperwinter_Structures/Buttons" : [ "T_IceButton_d.png", "T_IceButton_e.png", "T_IceButtonFFJ_d.png", "T_IceButtonLF_d.png" ],
+  "_Creeperwinter_Structures/Buttons": [ "T_IceButton_d.png", "T_IceButton_e.png", "T_IceButtonFFJ_d.png", "T_IceButtonLF_d.png" ],
   
-  "_Creeperwinter_Structures/FrozenFjord" : [ "T_Drawbridge_Chain_FrozenFjord.png", "T_FFJ_CloudShadow.png", "T_log_oak.png", "T_log_oak_top.png", "T_planks_spruce.png" ],
-  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/Dock" : [ "T_FFJ_Dockplanks.png", "T_FFJ_Pier.png", "T_FFJDock.png", "T_FFJDock_SAlpha.png", "T_RopeHang.png" ],
-  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/FF_IcePiles" : [ "T_FF_IcePiles_d.png" ],
-  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/Houses" : [ "T_FF_MiniAtlas.png" ],
-  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/IceCracks" : [ "T_FFJ_IceCracks.png" ],
-  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/RiverLock_SluiceGate" : [ "T_Outflow.png", "T_SluiceGate.png" ],
-  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/TundraRocks" : [ "T_FFJ_TundraRocks.png" ],
-  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/TundraStructures" : [ "T_FFJ_Decking.png" ],
+  "_Creeperwinter_Structures/FrozenFjord": [ "T_Drawbridge_Chain_FrozenFjord.png", "T_FFJ_CloudShadow.png", "T_log_oak.png", "T_log_oak_top.png", "T_planks_spruce.png" ],
+  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/Dock": [ "T_FFJ_Dockplanks.png", "T_FFJ_Pier.png", "T_FFJDock.png", "T_FFJDock_SAlpha.png", "T_RopeHang.png" ],
+  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/FF_IcePiles": [ "T_FF_IcePiles_d.png" ],
+  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/Houses": [ "T_FF_MiniAtlas.png" ],
+  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/IceCracks": [ "T_FFJ_IceCracks.png" ],
+  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/RiverLock_SluiceGate": [ "T_Outflow.png", "T_SluiceGate.png" ],
+  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/TundraRocks": [ "T_FFJ_TundraRocks.png" ],
+  "_Creeperwinter_Structures/FrozenFjord/_FrozenFjordStructures/TundraStructures": [ "T_FFJ_Decking.png" ],
   
-  "_Creeperwinter_Structures/FrozenFjordCave" : [ "T_FFJ_CraftOre.png", "T_FFJ_Lightshafts.png" ],
-  "_Creeperwinter_Structures/FrozenFjordCave/Hanging_Chest" : [ "ChestHook.png" ],
-  "_Creeperwinter_Structures/FrozenFjordCave/Mushrooms" : [ "T_CW_GlowingMushrooms_d.png", "T_CW_GlowingMushrooms_e.png", "T_CW_WallShrooms_d.png", "T_CW_WallShrooms_e.png", "T_CW_WallShroomsBlue_d.png", "T_CW_WallShroomsBlue_e.png", "T_FFJ_CaveSet.png", "T_FFJ_CloudPanner.png", "T_SpotlightAlpha.png" ],
-  "_Creeperwinter_Structures/FrozenFjordCave/Stalactites" : [ "T_Stalagtites.png" ],
+  "_Creeperwinter_Structures/FrozenFjordCave": [ "T_FFJ_CraftOre.png", "T_FFJ_Lightshafts.png" ],
+  "_Creeperwinter_Structures/FrozenFjordCave/Hanging_Chest": [ "ChestHook.png" ],
+  "_Creeperwinter_Structures/FrozenFjordCave/Mushrooms": [ "T_CW_GlowingMushrooms_d.png", "T_CW_GlowingMushrooms_e.png", "T_CW_WallShrooms_d.png", "T_CW_WallShrooms_e.png", "T_CW_WallShroomsBlue_d.png", "T_CW_WallShroomsBlue_e.png", "T_FFJ_CaveSet.png", "T_FFJ_CloudPanner.png", "T_SpotlightAlpha.png" ],
+  "_Creeperwinter_Structures/FrozenFjordCave/Stalactites": [ "T_Stalagtites.png" ],
   
   "_Creeperwinter_Structures/Ice_DesignAssets" : [ "T_FFJ_IceGate.png", "T_IceDoor.png", "T_IceDoor_Frost.png", "T_IceDoor_Wood.png", "T_IceEntranceDoor.png", "T_IceEntranceDoor_spec.png", "T_IceGate.png", "T_IceGate_specular.png" ],
   
-  "_Creeperwinter_Structures/IciclePlanes" : [ "T_Icicleplanes.png" ],
+  "_Creeperwinter_Structures/IciclePlanes": [ "T_Icicleplanes.png" ],
   
-  "_Creeperwinter_Structures/LonelyFortress" : [ "T_LF_LightshaftPanner.png", "T_LF_Lightshafts.png" ],
+  "_Creeperwinter_Structures/LonelyFortress": [ "T_LF_LightshaftPanner.png", "T_LF_Lightshafts.png" ],
   
-  "_Creeperwinter_Structures/LonelyFortressStructure" : [ "planks_big_oak.png", "T_Chandelier_LF.png", "T_Chandelier_LF_e.png", "T_Chandelier_LF_s.png", "T_FirePillar_LonelyFortress.png", "T_FirePillar_LonelyFortress_e.png", "T_Illager_Gargoyle.png", "T_LF_MiniAtlas.png", "T_Player_Dragon_Statue.png", "T_player_statues_fortress.png" ],
-  "_Creeperwinter_Structures/LonelyFortressStructure/Doors" : [ "T_DoorLocked_Silver_LonelyFortress.png" ],
-  "_Creeperwinter_Structures/LonelyFortressStructure/IceArena" : [ "Icearena_AO.png", "T_IAD.png", "T_IceArena.png", "T_IceArenaFog.png", "T_IceSingle.png" ],
-  "_Creeperwinter_Structures/LonelyFortressStructure/Player_Gargoyle_2X" : [ "T_PlayerGargoyle_2x.png", "T_PlayerGargoyle_2X_S.png" ],
+  "_Creeperwinter_Structures/LonelyFortressStructure": [ "planks_big_oak.png", "T_Chandelier_LF.png", "T_Chandelier_LF_e.png", "T_Chandelier_LF_s.png", "T_FirePillar_LonelyFortress.png", "T_FirePillar_LonelyFortress_e.png", "T_Illager_Gargoyle.png", "T_LF_MiniAtlas.png", "T_Player_Dragon_Statue.png", "T_player_statues_fortress.png" ],
+  "_Creeperwinter_Structures/LonelyFortressStructure/Doors": [ "T_DoorLocked_Silver_LonelyFortress.png" ],
+  "_Creeperwinter_Structures/LonelyFortressStructure/IceArena": [ "Icearena_AO.png", "T_IAD.png", "T_IceArena.png", "T_IceArenaFog.png", "T_IceSingle.png" ],
+  "_Creeperwinter_Structures/LonelyFortressStructure/Player_Gargoyle_2X": [ "T_PlayerGargoyle_2x.png", "T_PlayerGargoyle_2X_S.png" ],
   
-  "_Crypt_Structures/Models" : [ "t_creeperwoods_atlas.png", "t_creeperwoods_miniatlas.png" ],
+  "_Crypt_Structures/Models": [ "t_creeperwoods_atlas.png", "t_creeperwoods_miniatlas.png" ],
   
-  "_DesertTemple_Structures/Columns" : [ "T_DT_Quartz.png" ],
+  "_DesertTemple_Structures/Columns": [ "T_DT_Quartz.png" ],
   
-  "_Forge/AirPump" : [ "T_AirPump.png", "T_AirPump_E.png" ],
-  "_Forge/Bars" : [ "T_FF_Bars.png" ],
-  "_Forge/ForgeHammer" : [ "T_ForgeHammer.png", "T_ForgeHammerSupport.png" ],
-  "_Forge/Head" : [ "T_FF_Head.png", "T_FF_Head_Eyes.png", "T_FF_Head_Eyes_E.png" ],
-  "_Forge/TrapDoor" : [ "T_TrapDoor.png" ],
+  "_Forge/AirPump": [ "T_AirPump.png", "T_AirPump_E.png" ],
+  "_Forge/Bars": [ "T_FF_Bars.png" ],
+  "_Forge/ForgeHammer": [ "T_ForgeHammer.png", "T_ForgeHammerSupport.png" ],
+  "_Forge/Head": [ "T_FF_Head.png", "T_FF_Head_Eyes.png", "T_FF_Head_Eyes_E.png" ],
+  "_Forge/TrapDoor": [ "T_TrapDoor.png" ],
   
-  "_Fruit_Food" : [ "T_Bottle.png", "T_Bottle_SPEC.png", "T_Bread.png", "T_Carrot.png", "T_Fish.png", "T_Fish02.png", "T_Loaf.png", "T_Orange.png", "T_Pear.png", "T_Pork.png", "T_Potato.png", "T_Steak.png", "T_Turkey.png" ],
-  "_Fruit_Food/Served" : [ "T_Fruits.png" ],
+  "_Fruit_Food": [ "T_Bottle.png", "T_Bottle_SPEC.png", "T_Bread.png", "T_Carrot.png", "T_Fish.png", "T_Fish02.png", "T_Loaf.png", "T_Orange.png", "T_Pear.png", "T_Pork.png", "T_Potato.png", "T_Steak.png", "T_Turkey.png" ],
+  "_Fruit_Food/Served": [ "T_Fruits.png" ],
   
-  "_Furniture" : [ "T_Armchair.png", "T_Bed_LightBlue.png", "T_Bed_Red.png", "T_Couch.png", "T_Fireplace.png", "T_Fireplace_EM.png", "T_Sidetable.png", "T_Table.png", "T_Table_Big.png", "T_Table_Colormask.png", "T_Table_Spec.png" ],
+  "_Furniture": [ "T_Armchair.png", "T_Bed_LightBlue.png", "T_Bed_Red.png", "T_Couch.png", "T_Fireplace.png", "T_Fireplace_EM.png", "T_Sidetable.png", "T_Table.png", "T_Table_Big.png", "T_Table_Colormask.png", "T_Table_Spec.png" ],
   
-  "_HighBlockHalls_Houses" : [ "SoggySwamp_TextureAtlas.png", "T_DT_Gate.png", "T_FadeGate.png", "T_FancyFence.png", "T_HH_EscapeExit.png", "T_HH_MiniAtlas.png" ],
+  "_HighBlockHalls_Houses": [ "SoggySwamp_TextureAtlas.png", "T_DT_Gate.png", "T_FadeGate.png", "T_FancyFence.png", "T_HH_EscapeExit.png", "T_HH_MiniAtlas.png" ],
   
-  "_Lab" : [ "T_TestTubes.png" ],
-  "_Lab/Glassware" : [ "T_LabGlassware.png" ],
+  "_Lab": [ "T_TestTubes.png" ],
+  "_Lab/Glassware": [ "T_LabGlassware.png" ],
   
-  "_LightingFixtures" : [ "T_Torch.png", "T_Torch_E.png" ],
-  "_LightingFixtures/Lanterns" : [ "T_Lantern.png" ],
-  "_LightingFixtures/TikiTorch" : [ "T_TikiTorch_SPEC.png" ],
+  "_LightingFixtures": [ "T_Torch.png", "T_Torch_E.png" ],
+  "_LightingFixtures/Lanterns": [ "T_Lantern.png" ],
+  "_LightingFixtures/TikiTorch": [ "T_TikiTorch_SPEC.png" ],
   
-  "_LobbyHouse" : [ "T_Curtains.png", "T_Curtains_Short.png", "T_LargePot.png", "T_Lobby_Paintings.png", "T_Lobby_Paintings2.png", "T_LobbyCarpet.png", "T_LobbyCarpet_S.png", "T_LobbyPlants.png", "T_Shelf.png", "T_SmallTray.png", "T_Table_HH.png", "T_Teapot.png" ],
-  "_LobbyHouse/CreeperWoods" : [ "T_AnatomyOfACreeper.png" ],
+  "_LobbyHouse": [ "T_Curtains.png", "T_Curtains_Short.png", "T_LargePot.png", "T_Lobby_Paintings.png", "T_Lobby_Paintings2.png", "T_LobbyCarpet.png", "T_LobbyCarpet_S.png", "T_LobbyPlants.png", "T_Shelf.png", "T_SmallTray.png", "T_Table_HH.png", "T_Teapot.png" ],
+  "_LobbyHouse/CreeperWoods": [ "T_AnatomyOfACreeper.png" ],
   
-  "_Mooshroom" : [ "mushroom_block_skin_red.png" ],
+  "_Mooshroom": [ "mushroom_block_skin_red.png" ],
   
-  "_Plants/AncientCycad" : [ "T_AncientCycad.png" ],
-  "_Plants/Cactus" : [ "T_Cactus02.png" ],
-  "_Plants/Coral" : [ "T_Coral_Plant_Blue.png" ],
-  "_Plants/D11_Bamboo" : [ "T_Bamboo.png" ],
-  "_Plants/DesertPalm" : [ "T_DesertPalm.png" ],
-  "_Plants/FlowerVase" : [ "T_FlowerVase.png", "T_FlowerVase_SPEC.png" ],
-  "_Plants/Foilage/Material" : [ "T_Foilage.png", "T_FoilageHueMask.png", "T_Grass.png", "T_GrassHueMask.png" ],
-  "_Plants/Ivy" : [ "T_Ivy_03.png", "T_Ivy_04.png", "T_Ivy_05.png" ],
-  "_Plants/Kelp" : [ "T_Kelp.png" ],
-  "_Plants/Lilies" : [ "T_Lilies.png" ],
-  "_Plants/Lilypads" : [ "T_Lily_Flower_02.png", "T_Lilypad.png", "T_Lilypad_Enormous.png", "T_LilyPad_Gigantic.png" ],
-  "_Plants/Monstera" : [ "T_Monstera.png" ],
-  "_Plants/Mushrooms_New" : [ "T_Mushrooms_New.png" ],
-  "_Plants/Mushrooms_New/RedMushrooms" : [ "T_mushroom_red.png" ],
-  "_Plants/PopFlower" : [ "T_PopFlower.png" ],
-  "_Plants/Reed" : [ "T_Reed.png", "T_Reed_planes.png", "T_Reed_planes_02.png" ],
-  "_Plants/Sunflowers" : [ "T_Flowerpatch.png", "T_Flowerpatch_Dried.png" ],
-  "_Plants/Sunflowers/New" : [ "T_Sunflower.png" ],
-  "_Plants/SwampFlower" : [ "T_SwampFlower.png" ],
-  "_Plants/Vines" : [ "T_Vines.png", "T_Vines_Dry.png" ],
-  "_Plants/WaterPlant" : [ "T_Water_Plant.png" ],
+  "_Plants/AncientCycad": [ "T_AncientCycad.png" ],
+  "_Plants/Cactus": [ "T_Cactus02.png" ],
+  "_Plants/Coral": [ "T_Coral_Plant_Blue.png" ],
+  "_Plants/D11_Bamboo": [ "T_Bamboo.png" ],
+  "_Plants/DesertPalm": [ "T_DesertPalm.png" ],
+  "_Plants/FlowerVase": [ "T_FlowerVase.png", "T_FlowerVase_SPEC.png" ],
+  "_Plants/Foilage/Material": [ "T_Foilage.png", "T_FoilageHueMask.png", "T_Grass.png", "T_GrassHueMask.png" ],
+  "_Plants/Ivy": [ "T_Ivy_03.png", "T_Ivy_04.png", "T_Ivy_05.png" ],
+  "_Plants/Kelp": [ "T_Kelp.png" ],
+  "_Plants/Lilies": [ "T_Lilies.png" ],
+  "_Plants/Lilypads": [ "T_Lily_Flower_02.png", "T_Lilypad.png", "T_Lilypad_Enormous.png", "T_LilyPad_Gigantic.png" ],
+  "_Plants/Monstera": [ "T_Monstera.png" ],
+  "_Plants/Mushrooms_New": [ "T_Mushrooms_New.png" ],
+  "_Plants/Mushrooms_New/RedMushrooms": [ "T_mushroom_red.png" ],
+  "_Plants/PopFlower": [ "T_PopFlower.png" ],
+  "_Plants/Reed": [ "T_Reed.png", "T_Reed_planes.png", "T_Reed_planes_02.png" ],
+  "_Plants/Sunflowers": [ "T_Flowerpatch.png", "T_Flowerpatch_Dried.png" ],
+  "_Plants/Sunflowers/New": [ "T_Sunflower.png" ],
+  "_Plants/SwampFlower": [ "T_SwampFlower.png" ],
+  "_Plants/Vines": [ "T_Vines.png", "T_Vines_Dry.png" ],
+  "_Plants/WaterPlant": [ "T_Water_Plant.png" ],
 
-  "_PumpkinPastures" : [ "T_Leaf_Pile_Jungle.png" ],
+  "_PumpkinPastures": [ "T_Leaf_Pile_Jungle.png" ],
 
-  "_RedstoneMines_Structures" : [ "T_Secret_Door_RM.png" ],
+  "_RedstoneMines_Structures": [ "T_Secret_Door_RM.png" ],
 
-  "_SimpleBlocks/Materials" : [ "T_FletchingTable.png", "T_HayBlock.png", "T_Scaffolding.png", "T_StoneCutter.png" ],
+  "_SimpleBlocks/Materials": [ "T_FletchingTable.png", "T_HayBlock.png", "T_Scaffolding.png", "T_StoneCutter.png" ],
 
-  "_SoggySwamp_Structures" : [ "T_SS_Runedoor.png" ],
+  "_SoggySwamp_Structures": [ "T_SS_Runedoor.png" ],
 
-  "_SoggySwampBridges" : [ "T_SS_BridgeWide_4.png" ],
+  "_SoggySwampBridges": [ "T_SS_BridgeWide_4.png" ],
 
-  "_StainedGlass/ArchIlleger" : [ "T_StainedGlass_ArchIlleger_PixelBlur_Less.png" ],
-  "_StainedGlass/Mansonry" : [ "T_StainedGlass_Blue_SemiTransparent.png", "T_StainedGlass_Mansonry_Normal.png", "T_StainedGlass_Mansonry_Red_DecalBlur.png", "T_StainedGlass_Mansonry_Red_DecalBlur_Half.png", "T_StainedGlass_Mansonry_Red_SemiTransparent.png", "T_StainedGlass_Mansonry_Red_Shaded.png" ],
-  "_StainedGlass/MixedPatterns" : [ "T_StainedGlass_01_normal.png" ],
+  "_StainedGlass/ArchIlleger": [ "T_StainedGlass_ArchIlleger_PixelBlur_Less.png" ],
+  "_StainedGlass/Mansonry": [ "T_StainedGlass_Blue_SemiTransparent.png", "T_StainedGlass_Mansonry_Normal.png", "T_StainedGlass_Mansonry_Red_DecalBlur.png", "T_StainedGlass_Mansonry_Red_DecalBlur_Half.png", "T_StainedGlass_Mansonry_Red_SemiTransparent.png", "T_StainedGlass_Mansonry_Red_Shaded.png" ],
+  "_StainedGlass/MixedPatterns": [ "T_StainedGlass_01_normal.png" ],
 
-  "_Urns/FancyUrns" : [ "T_FancyUrn_01.png", "T_FancyUrn_02.png" ],
-  "_Urns/LootUrnsAssets" : [ "Urn_Loot_Big_Blue.png", "Urn_Loot_Big_Green.png", "Urn_Loot_Big_Grey.png", "Urn_Loot_Big_Red.png", "Urn_Loot_Big_SPEC.png" ],
-  "_Urns/LootUrnsTest" : [ "T_Urn_Loot_New_EM.png", "T_Urn_Loot_New_Pattern03.png", "T_Urn_Loot_New_Pattern03_Spec.png", "T_Urn_Loot_New_Pattern04.png", "T_Urn_Loot_New_Pattern04_Spec.png", "T_Urn_Loot_New_Pattern06.png", "T_Urn_Loot_New_Pattern06_Spec.png" ],
+  "_Urns/FancyUrns": [ "T_FancyUrn_01.png", "T_FancyUrn_02.png" ],
+  "_Urns/LootUrnsAssets": [ "Urn_Loot_Big_Blue.png", "Urn_Loot_Big_Green.png", "Urn_Loot_Big_Grey.png", "Urn_Loot_Big_Red.png", "Urn_Loot_Big_SPEC.png" ],
+  "_Urns/LootUrnsTest": [ "T_Urn_Loot_New_EM.png", "T_Urn_Loot_New_Pattern03.png", "T_Urn_Loot_New_Pattern03_Spec.png", "T_Urn_Loot_New_Pattern04.png", "T_Urn_Loot_New_Pattern04_Spec.png", "T_Urn_Loot_New_Pattern06.png", "T_Urn_Loot_New_Pattern06_Spec.png" ],
 
-  "Anchor" : [ "T_Anchor.png" ],
+  "Anchor": [ "T_Anchor.png" ],
 
-  "Anvil" : [ "T_Anvil.png", "T_Anvil_EM.png", "T_IronIngots_Small.png" ],
+  "Anvil": [ "T_Anvil.png", "T_Anvil_EM.png", "T_IronIngots_Small.png" ],
 
-  "Apple" : [ "T_Apple.png", "T_Apple_SPEC.png" ],
+  "Apple": [ "T_Apple.png", "T_Apple_SPEC.png" ],
 
-  "ArchIllegerStatue" : [ "T_ArchIllegerStatuePodium.png", "T_VillagerStatue.png", "T_VillagerStatue_Broken.png", "T_VillagerStatue_New.png", "T_VillagerStatue_New_Spec.png" ],
-  "ArchIllegerStatue/Posed" : [ "T_ArchIllegerStatue_Enderdragon.png", "T_ArchIllegerStatue_Enderdragon_SPEC.png", "T_ArchIllegerStatue_Horse.png", "T_ArchIllegerStatue_Horse_SPEC.png", "T_ArchIllegerStatue_Podium.png", "T_ArchIllegerStatue_Podium_SPEC.png", "T_ArchIllegerStatue_Schoolar.png", "T_ArchIllegerStatue_Schoolar_illum.png", "T_ArchIllegerStatue_Schoolar_SPEC.png", "T_ArchIllegerStatue_Schoolar_Throne.png", "T_ArchIllegerStatue_Schoolar_Throne_SPEC.png" ],
+  "ArchIllegerStatue": [ "T_ArchIllegerStatuePodium.png", "T_VillagerStatue.png", "T_VillagerStatue_Broken.png", "T_VillagerStatue_New.png", "T_VillagerStatue_New_Spec.png" ],
+  "ArchIllegerStatue/Posed": [ "T_ArchIllegerStatue_Enderdragon.png", "T_ArchIllegerStatue_Enderdragon_SPEC.png", "T_ArchIllegerStatue_Horse.png", "T_ArchIllegerStatue_Horse_SPEC.png", "T_ArchIllegerStatue_Podium.png", "T_ArchIllegerStatue_Podium_SPEC.png", "T_ArchIllegerStatue_Schoolar.png", "T_ArchIllegerStatue_Schoolar_illum.png", "T_ArchIllegerStatue_Schoolar_SPEC.png", "T_ArchIllegerStatue_Schoolar_Throne.png", "T_ArchIllegerStatue_Schoolar_Throne_SPEC.png" ],
 
-  "ArenaEye" : [ "T_ArenaEye.png", "T_ArenaEye_E.png" ],
+  "ArenaEye": [ "T_ArenaEye.png", "T_ArenaEye_E.png" ],
 
-  "ArmorStand" : [ "T_ArmorStand_New.png" ],
+  "ArmorStand": [ "T_ArmorStand_New.png" ],
 
-  "ArmorStatue_HH" : [ "T_ArmorStatue_HH.png", "T_VillagerStatue.png" ],
+  "ArmorStatue_HH": [ "T_ArmorStatue_HH.png", "T_VillagerStatue.png" ],
 
-  "Arrow" : [ "T_Arrow.png", "T_BurningArrow.png" ],
+  "Arrow": [ "T_Arrow.png", "T_BurningArrow.png" ],
 
-  "ArrowTarget" : [ "T_Arrowtarget.png" ],
+  "ArrowTarget": [ "T_Arrowtarget.png" ],
 
-  "Awning" : [ "T_Awning_Red.png", "T_Awning_SPEC.png" ],
+  "Awning": [ "T_Awning_Red.png", "T_Awning_SPEC.png" ],
 
-  "Banner" : [ "T_Banner.png" ],
+  "Banner": [ "T_Banner.png" ],
 
-  "BannersWall" : [ "T_Banner_Wall_Long.png", "T_Banner_Wall_Long_SPEC.png", "T_Banner_Wall_Regular.png", "T_Banner_Wall_Regular_SPEC.png", "T_Banner_Wall_Small.png", "T_Banner_Wall_Small_SPEC.png", "T_RewardRoomBanner.png", "T_RewardRoomBanner_Spec.png" ],
+  "BannersWall": [ "T_Banner_Wall_Long.png", "T_Banner_Wall_Long_SPEC.png", "T_Banner_Wall_Regular.png", "T_Banner_Wall_Regular_SPEC.png", "T_Banner_Wall_Small.png", "T_Banner_Wall_Small_SPEC.png", "T_RewardRoomBanner.png", "T_RewardRoomBanner_Spec.png" ],
 
-  "Barrel" : [ "T_Barrel.png", "T_Barrel_Closed_New.png", "T_Barrel_Closed_Snow.png", "T_Barrel_Fish_New.png", "T_Barrel_New.png", "T_Barrel_Spec.png" ],
+  "Barrel": [ "T_Barrel.png", "T_Barrel_Closed_New.png", "T_Barrel_Closed_Snow.png", "T_Barrel_Fish_New.png", "T_Barrel_New.png", "T_Barrel_Spec.png" ],
 
-  "Barricade" : [ "T_Barricade.png" ],
+  "Barricade": [ "T_Barricade.png" ],
 
-  "Bedroll" : [ "T_Bedroll.png", "T_Bedroll_Spec.png" ],
+  "Bedroll": [ "T_Bedroll.png", "T_Bedroll_Spec.png" ],
 
-  "Beerbarrel" : [ "T_Beerbarrel.png" ],
+  "Beerbarrel": [ "T_Beerbarrel.png" ],
 
-  "Bell" : [ "T_BellTower_Cyanbell_lessnoise.png" ],
+  "Bell": [ "T_BellTower_Cyanbell_lessnoise.png" ],
 
-  "Bellow" : [ "T_Bellows.png" ],
+  "Bellow": [ "T_Bellows.png" ],
 
-  "Bench" : [ "T_Bench.png" ],
+  "Bench": [ "T_Bench.png" ],
 
-  "Boat" : [ "T_Boat.png", "T_Boat_Square.png" ],
+  "Boat": [ "T_Boat.png", "T_Boat_Square.png" ],
 
-  "Bonfire" : [ "T_Bonfire.png" ],
+  "Bonfire": [ "T_Bonfire.png" ],
 
-  "Book" : [ "T_Book.png" ],
+  "Book": [ "T_Book.png" ],
 
-  "Brazier" : [ "T_Brazier.png", "T_Brazier_Temple.png" ],
+  "Brazier": [ "T_Brazier.png", "T_Brazier_Temple.png" ],
 
-  "Brazier_Statue" : [ "T_Brazier_Statue.png" ],
+  "Brazier_Statue": [ "T_Brazier_Statue.png" ],
 
-  "Bridge" : [ "T_Bridge.png" ],
+  "Bridge": [ "T_Bridge.png" ],
 
-  "BridgeWide" : [ "t_bridgewide_rotten.png" ],
+  "BridgeWide": [ "t_bridgewide_rotten.png" ],
 
-  "Broom" : [ "T_Broom.png" ],
+  "Broom": [ "T_Broom.png" ],
 
-  "Buckets" : [ "T_Bucket.png" ],
+  "Buckets": [ "T_Bucket.png" ],
 
-  "BurntPumpkin" : [ "T_BurntPumpkin.png", "T_BurntPumpkin_E.png" ],
+  "BurntPumpkin": [ "T_BurntPumpkin.png", "T_BurntPumpkin_E.png" ],
 
-  "Cadaver" : [ "T_Cadaver_Cow.png" ],
+  "Cadaver": [ "T_Cadaver_Cow.png" ],
 
-  "CagedSkeleton" : [ "T_Cage.png", "T_Cage_Specular.png" ],
+  "CagedSkeleton": [ "T_Cage.png", "T_Cage_Specular.png" ],
 
-  "Campfire" : [ "T_Campfire.png", "T_Campfire_EM.png", "T_campfire_log.png", "T_campfire_log_lit.png", "T_campfire_log_lit_emissive.png" ],
+  "Campfire": [ "T_Campfire.png", "T_Campfire_EM.png", "T_campfire_log.png", "T_campfire_log_lit.png", "T_campfire_log_lit_emissive.png" ],
 
-  "Candelabras" : [ "T_Candlebra_Floor.png", "T_Candlebra_Floor_SPEC.png", "T_Candlebras.png" ],
+  "Candelabras": [ "T_Candlebra_Floor.png", "T_Candlebra_Floor_SPEC.png", "T_Candlebras.png" ],
 
-  "Candle" : [ "T_Candle1.png", "T_Candle1_EM.png", "T_CandleNew.png", "T_EvilCandle.png" ],
+  "Candle": [ "T_Candle1.png", "T_Candle1_EM.png", "T_CandleNew.png", "T_EvilCandle.png" ],
 
-  "CandleWall" : [ "T_CandleWall.png" ],
+  "CandleWall": [ "T_CandleWall.png" ],
 
-  "CapturedVillager" : [ "T_VillagerCage.png" ],
+  "CapturedVillager": [ "T_VillagerCage.png" ],
 
-  "CartBroken" : [ "T_CartBroken.png", "T_CartBroken_Snow.png", "T_CartBroken_Spec.png" ],
+  "CartBroken": [ "T_CartBroken.png", "T_CartBroken_Snow.png", "T_CartBroken_Spec.png" ],
 
-  "ChainsnRope" : [ "T_Chain", "T_Chain_SPEC.png", "T_stalactite_cobblestone.png" ],
+  "ChainsnRope": [ "T_Chain", "T_Chain_SPEC.png", "T_stalactite_cobblestone.png" ],
 
-  "Chair" : [ "T_Chair.png" ],
+  "Chair": [ "T_Chair.png" ],
 
-  "Chandelier" : [ "T_Chandelier.png", "T_Chandelier_SPEC.png" ],
+  "Chandelier": [ "T_Chandelier.png", "T_Chandelier_SPEC.png" ],
 
-  "Chess_Pieces" : [ "Chess_Statue_Bishop.png", "Chess_Statue_King_D.png", "Chess_Statue_Knight.png", "Chess_Statue_Queen.png", "Chess_Statue_Rook.png" ],
+  "Chess_Pieces": [ "Chess_Statue_Bishop.png", "Chess_Statue_King_D.png", "Chess_Statue_Knight.png", "Chess_Statue_Queen.png", "Chess_Statue_Rook.png" ],
 
-  "Chest" : [ "T_ChestNormal.png" ],
+  "Chest": [ "T_ChestNormal.png" ],
 
-  "China" : [ "T_China_Bowl.png", "T_China_Bowl_SPEC.png", "T_China_PlateBig.png", "T_China_PlateBig_SPEC.png", "T_China_PlateServing.png", "T_China_PlateServing_SPEC.png", "T_China_PlateSmall.png", "T_China_PlateSmall_SPEC.png", "T_China_Pots.png", "T_China_Pots_SPEC.png", "T_China_Teacup_Big.png", "T_China_Teacup_Big_SPEC.png", "T_China_Teacup_Small.png", "T_China_Teacup_Small_SPEC.png", "T_Glass.png" ],
+  "China": [ "T_China_Bowl.png", "T_China_Bowl_SPEC.png", "T_China_PlateBig.png", "T_China_PlateBig_SPEC.png", "T_China_PlateServing.png", "T_China_PlateServing_SPEC.png", "T_China_PlateSmall.png", "T_China_PlateSmall_SPEC.png", "T_China_Pots.png", "T_China_Pots_SPEC.png", "T_China_Teacup_Big.png", "T_China_Teacup_Big_SPEC.png", "T_China_Teacup_Small.png", "T_China_Teacup_Small_SPEC.png", "T_Glass.png" ],
 
-  "Cinematics" : [ "T_OrbCorruption.png" ],
+  "Cinematics": [ "T_OrbCorruption.png" ],
 
-  "Coal" : [ "T_Coal_New.png", "T_Coal_New_EM.png" ],
+  "Coal": [ "T_Coal_New.png", "T_Coal_New_EM.png" ],
 
-  "Coins" : [ "T_Coin.png", "T_CoinStack0.png", "T_GoldBar.png", "T_GoldStack.png" ],
+  "Coins": [ "T_Coin.png", "T_CoinStack0.png", "T_GoldBar.png", "T_GoldStack.png" ],
 
-  "Cracks" : [ "T_Crack01.png", "T_Crack02.png", "T_Crack04_test.png", "T_Crack05.png" ],
+  "Cracks": [ "T_Crack01.png", "T_Crack02.png", "T_Crack04_test.png", "T_Crack05.png" ],
 
-  "Crate" : [ "T_Crate.png", "T_Crate_Snow.png", "T_CrateRopes.png" ],
+  "Crate": [ "T_Crate.png", "T_Crate_Snow.png", "T_CrateRopes.png" ],
 
-  "CreeperDoor" : [ "T_CreeperDoor.png" ],
+  "CreeperDoor": [ "T_CreeperDoor.png" ],
 
-  "CreeperHead" : [ "T_CreeperRock_01.png" ],
+  "CreeperHead": [ "T_CreeperRock_01.png" ],
 
-  "CreeperPillar" : [ "T_Creeper_Pillar_Alt.png" ],
+  "CreeperPillar": [ "T_Creeper_Pillar_Alt.png" ],
 
-  "Crucible" : [ "T_Crucible.png" ],
+  "Crucible": [ "T_Crucible.png" ],
 
-  "Curtains" : [ "T_Curtain_Straight.png", "T_Curtain_straight_red.png" ],
+  "Curtains": [ "T_Curtain_Straight.png", "T_Curtain_straight_red.png" ],
 
-  "DeathSign" : [ "T_DeathSign.png" ],
+  "DeathSign": [ "T_DeathSign.png" ],
 
-  "DingyJungle" : [ "FirePillar_texture.png", "large_parrot_statue_texture.png", "parrot_statue_texture.png", "T_1x1GroundShadow.png", "T_Bench_jungle.png", "T_Creeper_Pillar_jungle.png", "T_jungle_lava_mist.png", "T_JungleTreasure.png", "T_Mushroom_Patch_E1.png", "T_Mushroom_Patch1_Diff.png", "T_OcelotPaintings.png", "T_PandaHut_Roof.png", "T_Statue_Ocelot.png", "T_Statue_Panda.png", "T_TikiTorch2.png", "T_TikiTorch2_emissive.png", "T_VillagerStatueLarge_jungle.png", "villager_statue_texture.png" ],
-  "DingyJungle/CreeperTotem" : [ "T_Creeper_Pillar_TotemD.png", "T_Creeper_Totem_e.png" ],
-  "DingyJungle/Jungle_DesignAssets" : [ "T_BambooBluff_Cog.png", "T_BambooBluff_Cog_e.png", "T_BambooBluff_Switch.png", "T_BambooGate.png", "T_DingyJungle_Cog.png", "T_DingyJungle_Cog_Specular.png", "T_DingyJungle_Gate.png", "T_DingyJungle_TempleDoor.png", "T_DingyJungle_TempleDoor_Specular.png", "T_DingyJungleSwitch.png", "T_DingyJungleSwitch_e.png", "T_DingyJungleSwitch_Specular.png", "T_DJ_PuzzleBlocks.png" ],
-  "DingyJungle/Jungle_DesignAssets/Overgrown_Temple" : [ "T_OT_Bridge.png", "T_OT_Bridge_Specular.png", "T_OT_EntranceDoor.png", "T_OT_EntranceDoor_Specular.png", "T_OT_Gate.png", "T_OT_Gate_Specular.png", "T_OT_SunMural.png", "T_OT_SunMural_Specular.png", "T_OT_SunStatue.png", "T_OT_SunStatue_Decal.png", "T_OT_SunStatue_Specular.png", "T_OT_SunVillager.png", "T_OT_SunVillager_Specular.png" ],
-  "DingyJungle/Jungle_DesignAssets/Ruby" : [ "T_Ruby_New.png", "T_Ruby_Spec.png", "T_Sapphire.png", "T_SparkSeq.png" ],
-  "DingyJungle/Jungle_Misc" : [ "T_DJ_IntroProps.png" ],
-  "DingyJungle/JunglePlant" : [ "T_JungleFlower_Leafy.png", "T_JungleFlower_Leafy_Emissive.png", "T_JunglePlant.png", "T_Jungleplant_stem.png", "T_Leafy_Jungle_Plant_Test.png" ],
-  "DingyJungle/JunglePlant/rough_models" : [ "log_jungle.png", "t_jungle_fern_2.png", "T_Large_Jungle_Plant_rough.png", "T_Large_Jungle_Plant_variant.png", "T_Plant_with_Flowers.png" ],
-  "DingyJungle/JunglePlant/voofoo_trees_edit" : [ "leaves_jungle.png", "leaves_jungle_outer.png", "T_jungletree_vine.png" ],
-  "DingyJungle/Sub_FossilDecor" : [ "T_BoneLava_D.png", "T_BoneLava_M.png" ],
-  "DingyJungle/Sub_Lava_FX" : [ "T_CreeperPillar.png", "T_CreeperPillarLava.png", "T_SL_Sconce.png", "T_SL_Sconce_e.png", "T_SL_Slab.png", "T_SL_Slab_Lavamask.png", "T_SL_Slab_Specalpha.png" ],
-  "DingyJungle/Sub_TreasureRoomDecor" : [ "LF_WaterCaustics_1.png", "LF_WaterCaustics_2.png", "T_ChainSmall.png", "T_GlowPlaque_d.png", "T_GlowPlaque_e.png"],
-  "DingyJungle/Sub_TroomDecor" : [ "T_troom_pillar.png" ],
+  "DingyJungle": [ "FirePillar_texture.png", "large_parrot_statue_texture.png", "parrot_statue_texture.png", "T_1x1GroundShadow.png", "T_Bench_jungle.png", "T_Creeper_Pillar_jungle.png", "T_jungle_lava_mist.png", "T_JungleTreasure.png", "T_Mushroom_Patch_E1.png", "T_Mushroom_Patch1_Diff.png", "T_OcelotPaintings.png", "T_PandaHut_Roof.png", "T_Statue_Ocelot.png", "T_Statue_Panda.png", "T_TikiTorch2.png", "T_TikiTorch2_emissive.png", "T_VillagerStatueLarge_jungle.png", "villager_statue_texture.png" ],
+  "DingyJungle/CreeperTotem": [ "T_Creeper_Pillar_TotemD.png", "T_Creeper_Totem_e.png" ],
+  "DingyJungle/Jungle_DesignAssets": [ "T_BambooBluff_Cog.png", "T_BambooBluff_Cog_e.png", "T_BambooBluff_Switch.png", "T_BambooGate.png", "T_DingyJungle_Cog.png", "T_DingyJungle_Cog_Specular.png", "T_DingyJungle_Gate.png", "T_DingyJungle_TempleDoor.png", "T_DingyJungle_TempleDoor_Specular.png", "T_DingyJungleSwitch.png", "T_DingyJungleSwitch_e.png", "T_DingyJungleSwitch_Specular.png", "T_DJ_PuzzleBlocks.png" ],
+  "DingyJungle/Jungle_DesignAssets/Overgrown_Temple": [ "T_OT_Bridge.png", "T_OT_Bridge_Specular.png", "T_OT_EntranceDoor.png", "T_OT_EntranceDoor_Specular.png", "T_OT_Gate.png", "T_OT_Gate_Specular.png", "T_OT_SunMural.png", "T_OT_SunMural_Specular.png", "T_OT_SunStatue.png", "T_OT_SunStatue_Decal.png", "T_OT_SunStatue_Specular.png", "T_OT_SunVillager.png", "T_OT_SunVillager_Specular.png" ],
+  "DingyJungle/Jungle_DesignAssets/Ruby": [ "T_Ruby_New.png", "T_Ruby_Spec.png", "T_Sapphire.png", "T_SparkSeq.png" ],
+  "DingyJungle/Jungle_Misc": [ "T_DJ_IntroProps.png" ],
+  "DingyJungle/JunglePlant": [ "T_JungleFlower_Leafy.png", "T_JungleFlower_Leafy_Emissive.png", "T_JunglePlant.png", "T_Jungleplant_stem.png", "T_Leafy_Jungle_Plant_Test.png" ],
+  "DingyJungle/JunglePlant/rough_models": [ "log_jungle.png", "t_jungle_fern_2.png", "T_Large_Jungle_Plant_rough.png", "T_Large_Jungle_Plant_variant.png", "T_Plant_with_Flowers.png" ],
+  "DingyJungle/JunglePlant/voofoo_trees_edit": [ "leaves_jungle.png", "leaves_jungle_outer.png", "T_jungletree_vine.png" ],
+  "DingyJungle/Sub_FossilDecor": [ "T_BoneLava_D.png", "T_BoneLava_M.png" ],
+  "DingyJungle/Sub_Lava_FX": [ "T_CreeperPillar.png", "T_CreeperPillarLava.png", "T_SL_Sconce.png", "T_SL_Sconce_e.png", "T_SL_Slab.png", "T_SL_Slab_Lavamask.png", "T_SL_Slab_Specalpha.png" ],
+  "DingyJungle/Sub_TreasureRoomDecor": [ "LF_WaterCaustics_1.png", "LF_WaterCaustics_2.png", "T_ChainSmall.png", "T_GlowPlaque_d.png", "T_GlowPlaque_e.png"],
+  "DingyJungle/Sub_TroomDecor": [ "T_troom_pillar.png" ],
 
-  "Door/DoorVanilla" : [ "T_SpruceDoor.png" ],
+  "Door/DoorVanilla": [ "T_SpruceDoor.png" ],
 
-  "DoorExit" : [ "T_Cacticanyon_ExitdoorVertical.png", "T_DoorLocked_Gold_DesertTemple.png", "T_DoorLocked_HighBlockHalls_7Blocks.png", "T_DoorLocked_HighBlockHalls_SPEC.png", "T_DoorLocked_Silver_DesertTemple.png", "T_DoorLocked_Silver_LonelyFortress.png", "T_Highblockhalls_Enddoor.png", "T_Highblockhalls_Startdoor.png", "T_Pumpkin_Door.png" ],
+  "DoorExit": [ "T_Cacticanyon_ExitdoorVertical.png", "T_DoorLocked_Gold_DesertTemple.png", "T_DoorLocked_HighBlockHalls_7Blocks.png", "T_DoorLocked_HighBlockHalls_SPEC.png", "T_DoorLocked_Silver_DesertTemple.png", "T_DoorLocked_Silver_LonelyFortress.png", "T_Highblockhalls_Enddoor.png", "T_Highblockhalls_Startdoor.png", "T_Pumpkin_Door.png" ],
 
-  "Drawbridge/New" : [ "T_Drawbridge.png" ],
+  "Drawbridge/New": [ "T_Drawbridge.png" ],
 
-  "Drawbridge_Switch" : [ "Chain_Panner.png", "T_Drawbridge_Switch.png", "T_Drawbridge_Switch_e.png", "T_DrawBridge_Switch_S.png" ],
+  "Drawbridge_Switch": [ "Chain_Panner.png", "T_Drawbridge_Switch.png", "T_Drawbridge_Switch_e.png", "T_DrawBridge_Switch_S.png" ],
 
-  "Elevator" : [ "T_Elevator.png", "T_Elevator_SPEC.png" ],
+  "Elevator": [ "T_Elevator.png", "T_Elevator_SPEC.png" ],
 
-  "FishnetHung" : [ "T_FishnetHung.png" ],
+  "FishnetHung": [ "T_FishnetHung.png" ],
 
-  "Flags" : [ "T_Flags_Thickrope.png" ],
+  "Flags": [ "T_Flags_Thickrope.png" ],
 
-  "FloorDecor" : [ "T_FloorMandala.png", "T_FloorMandala_Spec.png", "T_Wallshrine.png" ],
+  "FloorDecor": [ "T_FloorMandala.png", "T_FloorMandala_Spec.png", "T_Wallshrine.png" ],
 
-  "Flowers" : [ "T_4PixelRamp.png", "T_Flower.png" ],
+  "Flowers": [ "T_4PixelRamp.png", "T_Flower.png" ],
 
-  "Furnace" : [ "T_Furnace.png" ],
+  "Furnace": [ "T_Furnace.png" ],
 
-  "FurRugs" : [ "T_Bearrug_Square.png", "T_Deerrug_Square.png", "T_Deerrug_Square_Inverse.png" ],
-  "FurRugs/Old" : [ "T_Deerrug.png" ],
+  "FurRugs": [ "T_Bearrug_Square.png", "T_Deerrug_Square.png", "T_Deerrug_Square_Inverse.png" ],
+  "FurRugs/Old": [ "T_Deerrug.png" ],
 
-  "Gate" : [ "T_Gate_Bars.png", "T_Gate_Frame.png" ],
+  "Gate": [ "T_Gate_Bars.png", "T_Gate_Frame.png" ],
 
-  "GlowingCrystal" : [ "T_Crystal.png" ],
+  "GlowingCrystal": [ "T_Crystal.png" ],
 
-  "GlowingMushrooms/New" : [ "T_Mushroom_Patch.png", "T_Mushroom_Patch_E.png", "T_MushroomGroundDecal.png", "T_Wintershroom_Patch.png", "T_Wintershroom_Patch_E.png" ],
+  "GlowingMushrooms/New": [ "T_Mushroom_Patch.png", "T_Mushroom_Patch_E.png", "T_MushroomGroundDecal.png", "T_Wintershroom_Patch.png", "T_Wintershroom_Patch_E.png" ],
 
-  "Gravestone" : [ "T_Gravestone0.png", "T_Gravestone1.png" ],
+  "Gravestone": [ "T_Gravestone0.png", "T_Gravestone1.png" ],
 
-  "GraveyardProps" : [ "T_Fence_Bars.png" ],
+  "GraveyardProps": [ "T_Fence_Bars.png" ],
 
-  "GridFloor" : [ "T_GridFloors.png" ],
+  "GridFloor": [ "T_GridFloors.png" ],
 
-  "GuideBeacon" : [ "T_GuideBeacon.png", "T_GuideBeacon_emissive.png" ],
+  "GuideBeacon": [ "T_GuideBeacon.png", "T_GuideBeacon_emissive.png" ],
 
-  "Guitar" : [ "T_Guitar.png" ],
+  "Guitar": [ "T_Guitar.png" ],
 
-  "HayHorse" : [ "T_HayHorse.png" ],
+  "HayHorse": [ "T_HayHorse.png" ],
 
-  "HumanVase" : [ "T_Humanvase.png" ],
+  "HumanVase": [ "T_Humanvase.png" ],
 
-  "Icicle" : [ "T_Icile.png" ],
+  "Icicle": [ "T_Icile.png" ],
 
-  "IllagerFurnace" : [ "T_IllagerFurnaceSmall.png" ],
+  "IllagerFurnace": [ "T_IllagerFurnaceSmall.png" ],
 
-  "Inventory" : [ "T_inventory_New.png", "T_inventory_New_SPEC.png" ],
+  "Inventory": [ "T_inventory_New.png", "T_inventory_New_SPEC.png" ],
 
-  "KitchenUtensils" : [ "T_Cauldron.png", "T_Cauldron_Witch.png", "T_Cauldron_Witch_EM.png", "T_Cauldron_Witch_EM_02.png", "T_Pan.png", "T_Pot.png", "T_Soup.png" ],
-  "KitchenUtensils/Clay" : [ "T_China_Pots_Clay.png" ],
+  "KitchenUtensils": [ "T_Cauldron.png", "T_Cauldron_Witch.png", "T_Cauldron_Witch_EM.png", "T_Cauldron_Witch_EM_02.png", "T_Pan.png", "T_Pot.png", "T_Soup.png" ],
+  "KitchenUtensils/Clay": [ "T_China_Pots_Clay.png" ],
 
-  "Ladders" : [ "T_Ladder.png" ],
+  "Ladders": [ "T_Ladder.png" ],
 
-  "LampPost" : [ "T_LampPost.png", "T_LampPost_Frozen.png", "T_LampPost_Spec.png" ],
+  "LampPost": [ "T_LampPost.png", "T_LampPost_Frozen.png", "T_LampPost_Spec.png" ],
 
-  "Lantern" : [ "T_Lantern.png", "T_Lantern_Diffuse.png", "T_Lantern_Emissive.png" ],
+  "Lantern": [ "T_Lantern.png", "T_Lantern_Diffuse.png", "T_Lantern_Emissive.png" ],
 
-  "LargeBoxChest" : [ "T_LargeBoxChest.png", "T_LargeBoxChest_S.png" ],
+  "LargeBoxChest": [ "T_LargeBoxChest.png", "T_LargeBoxChest_S.png" ],
 
-  "Leaves" : [ "T_Leaf_Pile.png" ],
+  "Leaves": [ "T_Leaf_Pile.png" ],
 
-  "Lever" : [ "T_Lever.png" ],
+  "Lever": [ "T_Lever.png" ],
 
-  "Lighthouse" : [ "T_Lighthouse.png", "T_Lighthouse_Light.png", "T_Lighthouse_Light_EM.png", "T_Lighthouse_Light_SPEC.png" ],
+  "Lighthouse": [ "T_Lighthouse.png", "T_Lighthouse_Light.png", "T_Lighthouse_Light_EM.png", "T_Lighthouse_Light_SPEC.png" ],
 
-  "LootPile" : [ "T_Minerals.png" ],
+  "LootPile": [ "T_Minerals.png" ],
 
-  "Lumbermill" : [ "T_Saw_Twotoned.png", "T_Saw_Twotoned_Spec.png" ],
-  "Lumbermill/New" : [ "T_SawMill.png" ],
+  "Lumbermill": [ "T_Saw_Twotoned.png", "T_Saw_Twotoned_Spec.png" ],
+  "Lumbermill/New": [ "T_SawMill.png" ],
 
-  "LUT" : [ "LUT_CoolContrast.png", "LUT_Fall.png", "LUT_Night2.png" ],
+  "LUT": [ "LUT_CoolContrast.png", "LUT_Fall.png", "LUT_Night2.png" ],
 
-  "MapTable" : [ "T_MapTable.png" ],
-  "MapTable/New" : [ "T_MapTable.png", "T_MapTable_Map.png" ],
+  "MapTable": [ "T_MapTable.png" ],
+  "MapTable/New": [ "T_MapTable.png", "T_MapTable_Map.png" ],
 
-  "MarketBooths" : [ "T_Foodboxes.png", "T_Fruitboxes.png", "T_Marketbooth_02.png", "T_Marketbooth_02_Orange.png", "T_Marketbooth_basic_blue.png", "T_Marketbooth_basic_red.png" ],
-  "MarketBooths/Big" : [ "T_Markedbooth_Big_Flat_GP_NoPatch.png", "T_Markedbooth_Big_Flat_OT_NoPatch.png", "T_Markedbooth_Big_Flat_YB_NoPatch.png", "T_Markedbooth_Big_Tent_OG_NoPatch.png", "T_Markedbooth_Big_Tent_OT_NoPatch.png", "T_Markedbooth_Big_Tent_PB_NoPatch.png", "T_MarketBoothWide01.png", "T_MarketBoothWide02.png" ],
+  "MarketBooths": [ "T_Foodboxes.png", "T_Fruitboxes.png", "T_Marketbooth_02.png", "T_Marketbooth_02_Orange.png", "T_Marketbooth_basic_blue.png", "T_Marketbooth_basic_red.png" ],
+  "MarketBooths/Big": [ "T_Markedbooth_Big_Flat_GP_NoPatch.png", "T_Markedbooth_Big_Flat_OT_NoPatch.png", "T_Markedbooth_Big_Flat_YB_NoPatch.png", "T_Markedbooth_Big_Tent_OG_NoPatch.png", "T_Markedbooth_Big_Tent_OT_NoPatch.png", "T_Markedbooth_Big_Tent_PB_NoPatch.png", "T_MarketBoothWide01.png", "T_MarketBoothWide02.png" ],
 
-  "Materials" : [ "T_Logo.png", "T_Moon.png" ],
+  "Materials": [ "T_Logo.png", "T_Moon.png" ],
 
-  "MetalBall" : [ "T_MetalCube.png" ],
+  "MetalBall": [ "T_MetalCube.png" ],
 
-  "Milkjug" : [ "T_Milkjug.png" ],
+  "Milkjug": [ "T_Milkjug.png" ],
 
-  "Minecart" : [ "T_Minecart.png", "T_Minecart_EM.png", "T_Minecart_Fixed.png" ],
+  "Minecart": [ "T_Minecart.png", "T_Minecart_EM.png", "T_Minecart_Fixed.png" ],
 
-  "MineSupport" : [ "T_Log_Oak.png", "T_Log_Oak_Top.png", "T_MineBrace.png" ],
+  "MineSupport": [ "T_Log_Oak.png", "T_Log_Oak_Top.png", "T_MineBrace.png" ],
 
-  "MiningDevice" : [ "T_Bellowforge.png" ],
+  "MiningDevice": [ "T_Bellowforge.png" ],
 
-  "MissionLootChest" : [ "T_MissionLootChest.png" ],
+  "MissionLootChest": [ "T_MissionLootChest.png" ],
 
-  "ObsidianMonstrosity" : [ "T_NetherPortal.png", "T_ObsidianMonstrosity.png", "T_ObsidianMonstrosity_EyesClosed.png", "T_ObsidianMonstrosity_GoldAlpha.png", "T_ObsidianMonstrosity_NetherAlpha.png", "T_ObsidianMonstrosity_ObsidianAlpha.png", "T_ObisidianMonstrosity_ObisidianSparkles.png" ],
+  "ObsidianMonstrosity": [ "T_NetherPortal.png", "T_ObsidianMonstrosity.png", "T_ObsidianMonstrosity_EyesClosed.png", "T_ObsidianMonstrosity_GoldAlpha.png", "T_ObsidianMonstrosity_NetherAlpha.png", "T_ObsidianMonstrosity_ObsidianAlpha.png", "T_ObisidianMonstrosity_ObisidianSparkles.png" ],
 
-  "Paintings" : [ "T_Foe_Graffiti.png", "T_Frameonly48x48.png", "T_Weak_Graffiti.png" ],
-  "Paintings/16x16" : [ "T_Painting16x16_BlueFields.png", "T_Painting16x16_S.png" ],
-  "Paintings/24x24" : [ "T_Painting_Aunt_24x24.png", "T_Painting_Evoker_24x24.png", "T_Painting_Mountain_24x24.png", "T_Painting24x24_S.png" ],
-  "Paintings/32x32" : [ "T_Painting32x32_ArchIllagerCoolGuy.png", "T_Painting32x32_ArchIllagerPortrait.png", "T_Painting32x32_Crocodile.png", "T_Painting32x32_S.png", "T_Painting32x32_Tropical.png" ],
-  "Paintings/DevPaintings" : [ "T_DevTeamPortraits.png" ],
+  "Paintings": [ "T_Foe_Graffiti.png", "T_Frameonly48x48.png", "T_Weak_Graffiti.png" ],
+  "Paintings/16x16": [ "T_Painting16x16_BlueFields.png", "T_Painting16x16_S.png" ],
+  "Paintings/24x24": [ "T_Painting_Aunt_24x24.png", "T_Painting_Evoker_24x24.png", "T_Painting_Mountain_24x24.png", "T_Painting24x24_S.png" ],
+  "Paintings/32x32": [ "T_Painting32x32_ArchIllagerCoolGuy.png", "T_Painting32x32_ArchIllagerPortrait.png", "T_Painting32x32_Crocodile.png", "T_Painting32x32_S.png", "T_Painting32x32_Tropical.png" ],
+  "Paintings/DevPaintings": [ "T_DevTeamPortraits.png" ],
 
-  "Piano" : [ "T_GrandPiano.png", "T_GrandPiano_SPEC.png" ],
+  "Piano": [ "T_GrandPiano.png", "T_GrandPiano_SPEC.png" ],
 
-  "Pipes" : [ "T_Pipes.png" ],
+  "Pipes": [ "T_Pipes.png" ],
 
-  "Platforms/DingyJungle" : [ "DingyJungle_Cobblestone.png", "hardened_clay_stained_brown.png" ],
-  "Platforms/Materials" : [ "T_MovingPlatform.png", "T_MovingPlatform_Obsidian.png" ],
+  "Platforms/DingyJungle": [ "DingyJungle_Cobblestone.png", "hardened_clay_stained_brown.png" ],
+  "Platforms/Materials": [ "T_MovingPlatform.png", "T_MovingPlatform_Obsidian.png" ],
 
-  "Podium" : [ "T_Podium.png", "T_Podium_HBH.png" ],
+  "Podium": [ "T_Podium.png", "T_Podium_HBH.png" ],
 
-  "Poles" : [ "T_Poles.png" ],
+  "Poles": [ "T_Poles.png" ],
 
-  "Puddles" : [ "T_Puddle01.png", "T_Puddle02.png", "T_Puddle03.png", "T_Puddle04.png", "T_Puddle05.png", "T_Puddle06.png", "T_Puddle07.png", "T_Puddle08_Huge.png", "T_Puddle09_Huge.png" ],
+  "Puddles": [ "T_Puddle01.png", "T_Puddle02.png", "T_Puddle03.png", "T_Puddle04.png", "T_Puddle05.png", "T_Puddle06.png", "T_Puddle07.png", "T_Puddle08_Huge.png", "T_Puddle09_Huge.png" ],
 
-  "Rail" : [ "T_Rail.png" ],
+  "Rail": [ "T_Rail.png" ],
 
-  "Railings" : [ "T_Railing_Metal.png" ],
+  "Railings": [ "T_Railing_Metal.png" ],
 
-  "RedstoneCrystal" : [ "T_RedstoneCrystal.png", "T_RedstoneMine_Concave.png", "T_RedstoneMine_Concave_Cobblestone.png", "T_RedstoneMine_Concave_SPEC.png" ],
-  "RedstoneCrystal/RedStoneOres" : [ "T_New_Ore_02_Spec.png", "T_New_Ore_02_Stone.png" ],
+  "RedstoneCrystal": [ "T_RedstoneCrystal.png", "T_RedstoneMine_Concave.png", "T_RedstoneMine_Concave_Cobblestone.png", "T_RedstoneMine_Concave_SPEC.png" ],
+  "RedstoneCrystal/RedStoneOres": [ "T_New_Ore_02_Spec.png", "T_New_Ore_02_Stone.png" ],
 
   "RedStoneGolemSkull" : [ "T_RedstoneGolemSkull.png" ],
 
-  "RedstoneMachine" : [ "T_RedstoneCore.png", "T_RedstoneCore_Broken.png", "T_RedstoneCore_E.png" ],
+  "RedstoneMachine": [ "T_RedstoneCore.png", "T_RedstoneCore_Broken.png", "T_RedstoneCore_E.png" ],
+  "RedstoneMachine/Lid": [ "T_CoreLid.png", "T_CoreSocket.png", "T_CoreSocket_Broken.png", "T_CoreSocket_E.png" ],
 
-  "RedstoneMachine/Lid" : [ "T_CoreLid.png", "T_CoreSocket.png", "T_CoreSocket_Broken.png", "T_CoreSocket_E.png" ]
+  "RedstonePuzzle/Materials": [ "T_AnimatedRedstone.png", "T_AnimatedRedstone_Large.png", "T_AnimatedRedstone_Panner.png" ],
+  "RedstonePuzzle/Models": [ "T_BaseButton.png", "T_HH_Secret.png", "T_PistonRelay.png" ],
 
-  
+  "RewardChest": [ "T_DiamondChest.png", "T_DiamondChest_S.png", "T_FancyChest.png", "T_FancyChest_S.png", "T_LobbyChest.png", "T_LobbyChest_S.png", "T_WoodenChest.png", "T_WoodenChest_S.png" ],
 
+  "RopeRoll": [ "T_Roperoll.png" ],
+
+  "Rugs": [ "T_Rug_Big01.png", "T_Rug_Big02.png", "T_Rug_Big03.png", "T_Rug_Big03_S.png", "T_Rug_Big04.png", "T_Rug_Huge_01.png", "T_Rug_Huge_02.png", "T_Rug01.png", "T_Rug02.png", "T_Rug03.png", "T_Rug04.png" ],
+  "Rugs/HBH": [ "T_Rug04_S.png", "T_Rugs_HBH.png", "T_Rugs_HBH_SPEC.png" ],
+
+  "RuneActivator/Door": [ "T_RuneDoor.png", "T_RuneDoorSpec.png", "T_RuneGate.png", "T_RuneGateMechanisms.png", "T_RuneHints.png", "T_RuneHints_spec.png" ],
+  "RuneActivator/RuneActivator/Assets": [ "CheckeredMask.png", "T_PixelNoiseSmooth32.png", "T_RunActivator.png", "T_RuneActivatorMask.png", "T_RuneActivatorNoise.png", "T_RuneBlock.png", "T_RuneBlock_Spec.png", "T_RuneRelay.png", "T_RuneRelay_Mask.png" ],
+  "RuneActivator/RuneCube/Assets": [ "T_RuneCubeStars.png" ],
+  "RuneActivator/RuneTower/Assets": [ "T_RuneTower.png" ]
 }
