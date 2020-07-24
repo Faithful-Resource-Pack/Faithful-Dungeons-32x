@@ -476,4 +476,14 @@
   "Window/Material": [ "T_StainedWindowOverlay.png", "T_Window.png", "T_Window_E.png", "T_Window_Glass.png", "T_WindowRayRays.png" ],
   "Window/Textures": [ "T_BG_Candle001.png", "T_BG_Candle002.png", "T_BG_Candle003.png" ],
 
-  "Winebarrels": [ "T_Winerack.png" ]
+  "Winebarrels": [ "T_Winerack.png" ],
+
+  "Witchpole": [ "T_WitchPole_02.png" ],
+
+  "Woodblock": [ "T_Woodblock.png" ],
+
+  "Woodcross": [ "T_Woodcross.png" ],
+
+  "WoodenDrawBridge": [ "T_WoodenDrawbridge.png", "T_WoodenDrawbridge_S.png" ]
+
+}
