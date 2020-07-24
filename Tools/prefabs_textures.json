@@ -365,6 +365,21 @@
 
   "Poles" : [ "T_Poles.png" ],
 
-  "Unfinished" : [ " Json file is mostly incomplete! " ]
+  "Puddles" : [ "T_Puddle01.png", "T_Puddle02.png", "T_Puddle03.png", "T_Puddle04.png", "T_Puddle05.png", "T_Puddle06.png", "T_Puddle07.png", "T_Puddle08_Huge.png", "T_Puddle09_Huge.png" ],
+
+  "Rail" : [ "T_Rail.png" ],
+
+  "Railings" : [ "T_Railing_Metal.png" ],
+
+  "RedstoneCrystal" : [ "T_RedstoneCrystal.png", "T_RedstoneMine_Concave.png", "T_RedstoneMine_Concave_Cobblestone.png", "T_RedstoneMine_Concave_SPEC.png" ],
+  "RedstoneCrystal/RedStoneOres" : [ "T_New_Ore_02_Spec.png", "T_New_Ore_02_Stone.png" ],
+
+  "RedStoneGolemSkull" : [ "T_RedstoneGolemSkull.png" ],
+
+  "RedstoneMachine" : [ "T_RedstoneCore.png", "T_RedstoneCore_Broken.png", "T_RedstoneCore_E.png" ],
+
+  "RedstoneMachine/Lid" : [ "T_CoreLid.png", "T_CoreSocket.png", "T_CoreSocket_Broken.png", "T_CoreSocket_E.png" ],
+
+  
 
 }
