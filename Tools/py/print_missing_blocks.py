@@ -17,9 +17,11 @@ redundant_files_message_shown = False
 with open('configs/block_textures.json') as json_file:
   textures = json.load(json_file)
   for filename,copies in textures.items():
+    if os.path.isfile(texturesPath + filename):
+      print('Done:    ' + filename)
     if not os.path.isfile(texturesPath + filename):
       count += 1
-      print(filename)
+      print('Missing: ' + filename)
 
   total = len(textures)
   print()

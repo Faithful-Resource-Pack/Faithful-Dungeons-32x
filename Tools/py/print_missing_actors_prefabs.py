@@ -17,9 +17,11 @@ redundant_files_message_shown = False
 with open('configs/actors_prefabs_list.json') as json_file:
   textures = json.load(json_file)
   for filename in textures:
+    if os.path.isfile(texturesPath + filename):
+      print('Done:    ' + filename)
     if not os.path.isfile(texturesPath + filename):
       count += 1
-      print(filename)
+      print('Missing: ' + filename)
 
   total = len(textures)
   print()
