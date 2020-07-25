@@ -41,26 +41,31 @@ with open('configs/prefabs_list.json') as json_file:
     if not os.path.isfile(unrealTexturesPath + filename):
       prefabsCount += 1
 
+print('────────────────────────────────────────────────')
+print('  Blocks  :')
+print('     - Total   : ' + str(totalBlocks))
+print('     - Missing : ' + str(blocksCount))
+print('     - Done    : ' + str(totalBlocks - blocksCount) + ' (' + str(math.floor((totalBlocks - blocksCount) * 100 / totalBlocks)) + '%)' )
+
 print()
-print('------------------------------------------------')
-print('  Total blocks:     ' + str(totalBlocks))
-print('  Missing blocks:   ' + str(blocksCount))
-print('  Blocks done:      ' + str(totalBlocks - blocksCount))
-print('  Complete blocks:  ' + str(math.floor((totalBlocks - blocksCount) * 100 / totalBlocks)) + '%')
+
+print('  Actors  :')
+print('     - Total   : ' + str(totalActors))
+print('     - Missing : ' + str(actorsCount))
+print('     - Done    : ' + str(totalActors - actorsCount) + ' (' + str(math.floor((totalActors - actorsCount) * 100 / totalActors)) + '%)' )
+
 print()
-print('  Total actors:     ' + str(totalActors))
-print('  Missing actors:   ' + str(actorsCount))
-print('  Actors done:      ' + str(totalActors - actorsCount))
-print('  Complete actors:  ' + str(math.floor((totalActors - actorsCount) * 100 / totalActors)) + '%')
+
+print('  Prefabs :')
+print('     - Total   : ' + str(totalPrefabs))
+print('     - Missing : ' + str(prefabsCount))
+print('     - Done    : ' + str(totalPrefabs - prefabsCount) + ' (' + str(math.floor((totalPrefabs - prefabsCount) * 100 / totalPrefabs)) + '%)' )
+
 print()
-print('  Total prefabs:    ' + str(totalPrefabs))
-print('  Missing prefabs:  ' + str(prefabsCount))
-print('  Prefabs done:     ' + str(totalPrefabs - prefabsCount))
-print('  Complete prefabs: ' + str(math.floor((totalPrefabs - prefabsCount) * 100 / totalPrefabs)) + '%')
-print()
-print('  Total textures:   ' + str(totalBlocks + totalActors + totalPrefabs))
-print('  Total missing:    ' + str(blocksCount + actorsCount + prefabsCount))
-print('  Total done:       ' + str(totalBlocks + totalActors + totalPrefabs - blocksCount - actorsCount - prefabsCount))
-print('  Complete:         ' + str(math.floor((totalBlocks + totalActors + totalPrefabs - blocksCount - actorsCount - prefabsCount) * 100 / (totalBlocks + totalActors + totalPrefabs))) + '%')
-print('------------------------------------------------')
+
+print('  Global  :')
+print('     - Total   : ' + str(totalBlocks + totalActors + totalPrefabs))
+print('     - Missing : ' + str(blocksCount + actorsCount + prefabsCount))
+print('     - Done    : ' + str(totalBlocks + totalActors + totalPrefabs - blocksCount - actorsCount - prefabsCount) + ' (' + str(math.floor((totalBlocks + totalActors + totalPrefabs - blocksCount - actorsCount - prefabsCount) * 100 / (totalBlocks + totalActors + totalPrefabs))) + '%)' )
+print('────────────────────────────────────────────────')
 print()
