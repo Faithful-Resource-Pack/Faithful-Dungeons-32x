@@ -14,7 +14,7 @@ def scantree(path):
 count = 0
 redundant_files_message_shown = False
 
-with open('configs/actors_prefabs_list.json') as json_file:
+with open('configs/actors_list.json') as json_file:
   textures = json.load(json_file)
   for filename in textures:
     if os.path.isfile(texturesPath + filename):
