@@ -26,9 +26,10 @@ with open('configs/block_textures.json') as json_file:
   total = len(textures)
   print()
   print('----------------------------------------')
-  print('  Total missing: ' + str(count))
-  print('  Total done:    ' + str(total - count))
-  print('  Complete:      ' + str(math.floor((total - count) * 100 / total)) + '%')
+  print('  Total textures: ' + str(total))
+  print('  Total missing:  ' + str(count))
+  print('  Total done:     ' + str(total - count))
+  print('  Complete:       ' + str(math.floor((total - count) * 100 / total)) + '%')
   print('----------------------------------------')
 
   for f in [f.path.replace('\\', '/').replace(texturesPath, '') for f in scantree(texturesPath)]:
