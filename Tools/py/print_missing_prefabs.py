@@ -27,7 +27,7 @@ ask = int(input())
 with open('configs/prefabs_list.json') as json_file:
   textures = json.load(json_file)
   for filename in textures:
-    if os.path.isfile(texturesPath + filename):
+    if os.path.isfile(texturesPath + filename) and ( ask == 1 or ask == 3):
       print('\x1b[1m \x1b[32m' + 'Present : ' + filename )
     if not os.path.isfile(texturesPath + filename):
       count += 1
