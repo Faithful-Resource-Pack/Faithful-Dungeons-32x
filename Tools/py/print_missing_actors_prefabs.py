@@ -2,7 +2,7 @@ import os
 import json
 import math
 
-texturesPath = '../Block Textures/'
+texturesPath = '../UE4Project/Content/'
 
 def scantree(path):
   for entry in os.scandir(path):
@@ -14,9 +14,9 @@ def scantree(path):
 count = 0
 redundant_files_message_shown = False
 
-with open('configs/block_textures.json') as json_file:
+with open('configs/actors_prefabs_list.json') as json_file:
   textures = json.load(json_file)
-  for filename,copies in textures.items():
+  for filename in textures:
     if not os.path.isfile(texturesPath + filename):
       count += 1
       print(filename)
@@ -28,13 +28,5 @@ with open('configs/block_textures.json') as json_file:
   print('  Total done:    ' + str(total - count))
   print('  Complete:      ' + str(math.floor((total - count) * 100 / total)) + '%')
   print('----------------------------------------')
-
-  for f in [f.path.replace('\\', '/').replace(texturesPath, '') for f in scantree(texturesPath)]:
-    if not f in textures:
-      if not redundant_files_message_shown:
-        print()
-        print('! Redundant files detected:')
-        redundant_files_message_shown = True
-      print(f)
 
 print()
