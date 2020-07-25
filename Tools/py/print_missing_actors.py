@@ -26,7 +26,7 @@ print(' - ONLY %  : > 3 or < 1')
 
 while True:
   try:
-    ask = int(input())
+    ask = int(input("> "))
     break
   except ValueError:
     print('\x1b[1m \x1b[31m You have to enter a number! \x1b[0m')
