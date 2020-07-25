@@ -14,29 +14,39 @@ def scantree(path):
 count = 0
 redundant_files_message_shown = False
 
+os.system('chcp 65001')
+os.system('cls')
+
+print('────────────────────────────────────────────────')
+print(' Show Missing & Present textures ? ')
+print(' - BOTH    : 1')
+print(' - MISSING : 2')
+print(' - PRESENT : 3')
+ask = int(input())
+
 with open('configs/block_textures.json') as json_file:
   textures = json.load(json_file)
   for filename,copies in textures.items():
-    if os.path.isfile(texturesPath + filename):
-      print('Done:    ' + filename)
-    if not os.path.isfile(texturesPath + filename):
+    if os.path.isfile(texturesPath + filename) and ( ask == 1 or ask == 3):
+      print('\x1b[1m \x1b[32m' + 'Present : ' + filename )
+    if not os.path.isfile(texturesPath + filename) :
       count += 1
-      print('Missing: ' + filename)
+      if ask == 2 or ask == 1 :
+        print('\x1b[1m \x1b[31m' + 'Missing : ' + filename)
 
   total = len(textures)
-  print()
-  print('----------------------------------------')
-  print('  Total textures: ' + str(total))
-  print('  Total missing:  ' + str(count))
-  print('  Total done:     ' + str(total - count))
-  print('  Complete:       ' + str(math.floor((total - count) * 100 / total)) + '%')
-  print('----------------------------------------')
+  print('\x1b[0m \x1b[1m')
+  print('────────────────────────────────────────────────')
+  print('  Total : ' + str(total))
+  print('    - \x1b[31m Missing : \x1b[0m \x1b[1m' + str(count) )
+  print('    - \x1b[32m Done    : \x1b[0m \x1b[1m' + str(total - count) + ' (' + str(math.floor((total - count) * 100 / total)) + '%)')
+  print('────────────────────────────────────────────────')
 
   for f in [f.path.replace('\\', '/').replace(texturesPath, '') for f in scantree(texturesPath)]:
     if not f in textures:
       if not redundant_files_message_shown:
         print()
-        print('! Redundant files detected:')
+        print('\x1b[33m ! Redundant files detected: \x1b[0m')
         redundant_files_message_shown = True
       print(f)
 
