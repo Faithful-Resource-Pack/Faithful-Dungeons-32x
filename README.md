@@ -6,7 +6,6 @@
 - All recently made textures will be uploaded here.
 - The mod making tool this repository features was made by the [Dokucraft Team](https://github.com/Dokucraft).
 - If you find any Issues, please report them [here](https://github.com/Faithful-Dungeons/Resource-Pack/issues). 
-- All textures are made from this [.zip](https://www.mediafire.com/file/38edw7s7rrf9lji/Content.zip/file) file made by [RobertR11](https://github.com/RobertRR11).
 - This GitHub is structured in the same way as the [Dokucraft Tool](https://github.com/Dokucraft/Dungeons-Mod-Kit) provides.
 - If you're new to this project, check out [this flowchart](https://media.discordapp.net/attachments/716484045118373979/735067976918630430/texture_flowchart.png) about making and submitting textures.
 
@@ -21,7 +20,7 @@
 The tools will only run on Windows.
 
 ### Setup:
-Edit the text files in the `Tools/settings` folder to configure the tools:
+Edit the text files in the `Tools/user_settings` folder to configure the tools:
 
 | File | Description |
 | -------- | -------- |
@@ -33,22 +32,15 @@ Setting the package_output path to a file in your ~mods folder is recommended to
 
 > A more detailed documentation can be found [here](https://github.com/Dokucraft/Dungeons-Mod-Kit)
 
-**You don't have to follow the steps below anymore, the new file `package.bat` will do everything for you!**
-```
-Then you need to execute those files following this order: 
-- `build_resource_packs.bat`
-- `import_assets.bat`
-- `cook_assets.bat`
-- `package_old.bat`
-```
+To build the pak you need to execute the package.bat file. This can take anywhere from 1 to 3 minutes depending on your hardware.
 
 Then you get the `.pak` exported where you set your path in `package_output.txt`
 
 ## Links
 - Faithful Website: https://faithful.team/
 - Faithful Dungeons Website: https://faithful-dungeons.github.io/Website/
-- Discord: https://discord.gg/pwnGtXs
-- Dungeons Discord: https://discord.gg/eeVpygu
+- Faithful Discord: https://discord.gg/pwnGtXs
+- Faithful Dungeons Discord: https://discord.gg/eeVpygu
 
 ## Have a question?
 You can find some questions and answers in the [FAQ Wiki page](https://github.com/Faithful-Dungeons/Resource-Pack/wiki/FAQ). If your question isn't there then you can join our [Discord server](https://discord.gg/eeVpygu) and ask your question there!
