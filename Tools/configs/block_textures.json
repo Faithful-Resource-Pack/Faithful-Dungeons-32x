@@ -3113,7 +3113,8 @@
   ],
   "leaves_birch.png": [
     "mooncorecaverns/images/blocks/leaves_birch.png",
-    "squidcoast/images/blocks/leaves_birch.png"
+    "squidcoast/images/blocks/leaves_birch.png",
+	"squidcoast/images/blocks/leaves_oak.png"
   ],
   "leaves_birch_carried.png": [
     "mooncorecaverns/images/blocks/leaves_birch_carried.png",
@@ -3938,24 +3939,6 @@
     "mooncorecaverns/images/blocks/quartz_block_chiseled_top.png",
     "obsidianpinnacle/images/blocks/quartz_block_chiseled_top.png",
     "squidcoast/images/blocks/quartz_block_chiseled_top.png"
-  ],
-  "quartz_block_lines - copy.png": [
-    "bamboobluff/images/blocks/quartz_block_lines - Copy.png",
-    "creeperwoods/images/blocks/quartz_block_lines - Copy.png",
-    "deserttemple/images/blocks/quartz_block_lines - Copy.png",
-    "dingyjungle/images/blocks/quartz_block_lines - Copy.png",
-    "highblockhalls/images/blocks/quartz_block_lines - Copy.png",
-    "jungle/images/blocks/quartz_block_lines - Copy.png",
-    "mooncorecaverns/images/blocks/quartz_block_lines.png",
-    "mooncorecaverns/images/blocks/quartz_block_lines - Copy.png",
-    "mycelia/images/blocks/quartz_block_lines - Copy.png",
-    "obsidianpinnacle/images/blocks/quartz_block_lines.png",
-    "obsidianpinnacle/images/blocks/quartz_block_lines - Copy.png",
-    "overgrowntemple/images/blocks/quartz_block_lines - Copy.png",
-    "pumpkinpastures/images/blocks/quartz_block_lines - Copy.png",
-    "redstonemines/images/blocks/quartz_block_lines - Copy.png",
-    "soggyswamp/images/blocks/quartz_block_lines - Copy.png",
-    "squidcoast/images/blocks/quartz_block_lines - Copy.png"
   ],
   "quartz_block_lines.png": [
     "bamboobluff/images/blocks/quartz_block_lines.png",
@@ -8819,7 +8802,9 @@
   ],
   "leaves_jungle_jungle.png": [
     "jungle/images/blocks/leaves_jungle.png",
-    "mycelia/images/blocks/leaves_jungle.png"
+    "jungle/images/blocks/leaves_oak.png",
+	"mycelia/images/blocks/leaves_jungle.png",
+    "mycelia/images/blocks/leaves_oak.png"
   ],
   "leaves_jungle_carried_jungle.png": [
     "jungle/images/blocks/leaves_jungle_carried.png",
@@ -8832,10 +8817,6 @@
   "leaves_jungle_outer_jungle.png": [
     "jungle/images/blocks/leaves_jungle_outer.png",
     "mycelia/images/blocks/leaves_jungle_outer.png"
-  ],
-  "leaves_oak_jungle.png": [
-    "jungle/images/blocks/leaves_oak.png",
-    "mycelia/images/blocks/leaves_oak.png"
   ],
   "leaves_oak_carried_jungle.png": [
     "jungle/images/blocks/leaves_oak_carried.png",
