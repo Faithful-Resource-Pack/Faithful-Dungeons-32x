@@ -13,10 +13,12 @@ def scantree(path):
       yield entry
 
 blocksCount = 0
-actorsCount = 0
+itemsCount = 0
+mobsCount = 0
 prefabsCount = 0
 totalBlocks = None
-totalActors = None
+totalItems = None
+totalMobs = None
 totalPrefabs = None
 redundant_files_message_shown = False
 
@@ -30,12 +32,19 @@ with open('configs/block_textures.json') as json_file:
     if not os.path.isfile(blockTexturesPath + filename):
       blocksCount += 1
 
-with open('configs/actors_list.json') as json_file:
+with open('configs/items_list.json') as json_file:
   textures = json.load(json_file)
-  totalActors = len(textures)
+  totalItems = len(textures)
   for filename in textures:
     if not os.path.isfile(unrealTexturesPath + filename):
-      actorsCount += 1
+      itemsCount += 1
+
+with open('configs/mobs_list.json') as json_file:
+  textures = json.load(json_file)
+  totalMobs = len(textures)
+  for filename in textures:
+    if not os.path.isfile(unrealTexturesPath + filename):
+      mobsCount += 1
 
 with open('configs/prefabs_list.json') as json_file:
   textures = json.load(json_file)
@@ -53,10 +62,17 @@ print('     -\x1b[32m Done    \x1b[37m : ' + str(totalBlocks - blocksCount) + ' 
 
 print()
 
-print('  Actors  :')
-print('     - Total    : ' + str(totalActors))
-print('     -\x1b[31m Missing \x1b[37m : ' + str(actorsCount))
-print('     -\x1b[32m Done    \x1b[37m : ' + str(totalActors - actorsCount) + ' (' + str(math.floor((totalActors - actorsCount) * 100 / totalActors)) + '%)' )
+print('  Items   :')
+print('     - Total    : ' + str(totalItems))
+print('     -\x1b[31m Missing \x1b[37m : ' + str(itemsCount))
+print('     -\x1b[32m Done    \x1b[37m : ' + str(totalItems - itemsCount) + ' (' + str(math.floor((totalItems - itemsCount) * 100 / totalItems)) + '%)' )
+
+print()
+
+print('  Mobs    :')
+print('     - Total    : ' + str(totalMobs))
+print('     -\x1b[31m Missing \x1b[37m : ' + str(mobsCount))
+print('     -\x1b[32m Done    \x1b[37m : ' + str(totalMobs - mobsCount) + ' (' + str(math.floor((totalMobs - mobsCount) * 100 / totalMobs)) + '%)' )
 
 print()
 
@@ -68,8 +84,8 @@ print('     -\x1b[32m Done    \x1b[37m : ' + str(totalPrefabs - prefabsCount) + 
 print()
 
 print('  Global  :')
-print('     - Total    : ' + str(totalBlocks + totalActors + totalPrefabs))
-print('     -\x1b[31m Missing \x1b[37m : ' + str(blocksCount + actorsCount + prefabsCount))
-print('     -\x1b[32m Done    \x1b[37m : ' + str(totalBlocks + totalActors + totalPrefabs - blocksCount - actorsCount - prefabsCount) + ' (' + str(math.floor((totalBlocks + totalActors + totalPrefabs - blocksCount - actorsCount - prefabsCount) * 100 / (totalBlocks + totalActors + totalPrefabs))) + '%)' )
+print('     - Total    : ' + str(totalBlocks + totalItems + totalMobs + totalPrefabs))
+print('     -\x1b[31m Missing \x1b[37m : ' + str(blocksCount + itemsCount + mobsCount + prefabsCount))
+print('     -\x1b[32m Done    \x1b[37m : ' + str(totalBlocks + totalItems + totalMobs + totalPrefabs - blocksCount - itemsCount - mobsCount - prefabsCount) + ' (' + str(math.floor((totalBlocks + totalItems + totalMobs + totalPrefabs - blocksCount - itemsCount - mobsCount - prefabsCount) * 100 / (totalBlocks + totalItems + totalMobs + totalPrefabs))) + '%)' )
 print('────────────────────────────────────────────────')
 print()
