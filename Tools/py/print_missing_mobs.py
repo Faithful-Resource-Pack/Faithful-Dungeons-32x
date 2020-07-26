@@ -31,7 +31,7 @@ while True:
   except ValueError:
     print('\x1b[1m \x1b[31m You have to enter a number! \x1b[0m')
 
-with open('configs/actors_list.json') as json_file:
+with open('configs/mobs_list.json') as json_file:
   textures = json.load(json_file)
   for filename in textures:
     if os.path.isfile(texturesPath + filename) and ( ask == 1 or ask == 3):
