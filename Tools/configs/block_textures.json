@@ -947,13 +947,55 @@
     "squidcoast/images/blocks/comparator_on.png"
   ],
   "crafting_table_front.png": [
-    "squidcoast/images/blocks/crafting_table_front.png"
+    "squidcoast/images/blocks/crafting_table_front.png",
+	"bamboobluff/images/blocks/crafting_table_front.png",
+    "cacticanyon/images/blocks/crafting_table_front.png",
+    "creeperwoods/images/blocks/crafting_table_front.png",
+    "deserttemple/images/blocks/crafting_table_front.png",
+    "dingyjungle/images/blocks/crafting_table_front.png",
+    "highblockhalls/images/blocks/crafting_table_front.png",
+    "jungle/images/blocks/crafting_table_front.png",
+    "mooncorecaverns/images/blocks/crafting_table_front.png",
+    "mycelia/images/blocks/crafting_table_front.png",
+    "obsidianpinnacle/images/blocks/crafting_table_front.png",
+    "overgrowntemple/images/blocks/crafting_table_front.png",
+    "pumpkinpastures/images/blocks/crafting_table_front.png",
+    "redstonemines/images/blocks/crafting_table_front.png",
+    "soggyswamp/images/blocks/crafting_table_front.png"
   ],
   "crafting_table_side.png": [
-    "squidcoast/images/blocks/crafting_table_side.png"
+    "squidcoast/images/blocks/crafting_table_side.png",
+	"bamboobluff/images/blocks/crafting_table_side.png",
+    "cacticanyon/images/blocks/crafting_table_side.png",
+    "creeperwoods/images/blocks/crafting_table_side.png",
+    "deserttemple/images/blocks/crafting_table_side.png",
+    "dingyjungle/images/blocks/crafting_table_side.png",
+    "highblockhalls/images/blocks/crafting_table_side.png",
+    "jungle/images/blocks/crafting_table_side.png",
+    "mooncorecaverns/images/blocks/crafting_table_side.png",
+    "mycelia/images/blocks/crafting_table_side.png",
+    "obsidianpinnacle/images/blocks/crafting_table_side.png",
+    "overgrowntemple/images/blocks/crafting_table_side.png",
+    "pumpkinpastures/images/blocks/crafting_table_side.png",
+    "redstonemines/images/blocks/crafting_table_side.png",
+    "soggyswamp/images/blocks/crafting_table_side.png"
   ],
   "crafting_table_top.png": [
-    "squidcoast/images/blocks/crafting_table_top.png"
+    "squidcoast/images/blocks/crafting_table_top.png",
+	"bamboobluff/images/blocks/crafting_table_top.png",
+    "cacticanyon/images/blocks/crafting_table_top.png",
+    "creeperwoods/images/blocks/crafting_table_top.png",
+    "deserttemple/images/blocks/crafting_table_top.png",
+    "dingyjungle/images/blocks/crafting_table_top.png",
+    "highblockhalls/images/blocks/crafting_table_top.png",
+    "jungle/images/blocks/crafting_table_top.png",
+    "mooncorecaverns/images/blocks/crafting_table_top.png",
+    "mycelia/images/blocks/crafting_table_top.png",
+    "obsidianpinnacle/images/blocks/crafting_table_top.png",
+    "overgrowntemple/images/blocks/crafting_table_top.png",
+    "pumpkinpastures/images/blocks/crafting_table_top.png",
+    "redstonemines/images/blocks/crafting_table_top.png",
+    "soggyswamp/images/blocks/crafting_table_top.png"
   ],
   "custom_0.png": [
     "mooncorecaverns/images/blocks/custom_0.png",
@@ -3940,6 +3982,24 @@
     "obsidianpinnacle/images/blocks/quartz_block_chiseled_top.png",
     "squidcoast/images/blocks/quartz_block_chiseled_top.png"
   ],
+  "quartz_block_lines - copy.png": [	
+    "bamboobluff/images/blocks/quartz_block_lines - Copy.png",	
+    "creeperwoods/images/blocks/quartz_block_lines - Copy.png",	
+    "deserttemple/images/blocks/quartz_block_lines - Copy.png",	
+    "dingyjungle/images/blocks/quartz_block_lines - Copy.png",	
+    "highblockhalls/images/blocks/quartz_block_lines - Copy.png",	
+    "jungle/images/blocks/quartz_block_lines - Copy.png",	
+    "mooncorecaverns/images/blocks/quartz_block_lines.png",	
+    "mooncorecaverns/images/blocks/quartz_block_lines - Copy.png",	
+    "mycelia/images/blocks/quartz_block_lines - Copy.png",	
+    "obsidianpinnacle/images/blocks/quartz_block_lines.png",	
+    "obsidianpinnacle/images/blocks/quartz_block_lines - Copy.png",	
+    "overgrowntemple/images/blocks/quartz_block_lines - Copy.png",	
+    "pumpkinpastures/images/blocks/quartz_block_lines - Copy.png",	
+    "redstonemines/images/blocks/quartz_block_lines - Copy.png",	
+    "soggyswamp/images/blocks/quartz_block_lines - Copy.png",	
+    "squidcoast/images/blocks/quartz_block_lines - Copy.png"	
+  ],
   "quartz_block_lines.png": [
     "bamboobluff/images/blocks/quartz_block_lines.png",
     "cacticanyon/images/blocks/quartz_block_lines.png",
@@ -5602,54 +5662,6 @@
     "dingyjungle/images/blocks/cobblestone_mossy.png",
     "overgrowntemple/images/blocks/cobblestone_mossy.png"
   ],
-  "crafting_table_front_cacticanyon.png": [
-    "bamboobluff/images/blocks/crafting_table_front.png",
-    "cacticanyon/images/blocks/crafting_table_front.png",
-    "creeperwoods/images/blocks/crafting_table_front.png",
-    "deserttemple/images/blocks/crafting_table_front.png",
-    "dingyjungle/images/blocks/crafting_table_front.png",
-    "highblockhalls/images/blocks/crafting_table_front.png",
-    "jungle/images/blocks/crafting_table_front.png",
-    "mooncorecaverns/images/blocks/crafting_table_front.png",
-    "mycelia/images/blocks/crafting_table_front.png",
-    "obsidianpinnacle/images/blocks/crafting_table_front.png",
-    "overgrowntemple/images/blocks/crafting_table_front.png",
-    "pumpkinpastures/images/blocks/crafting_table_front.png",
-    "redstonemines/images/blocks/crafting_table_front.png",
-    "soggyswamp/images/blocks/crafting_table_front.png"
-  ],
-  "crafting_table_side_cacticanyon.png": [
-    "bamboobluff/images/blocks/crafting_table_side.png",
-    "cacticanyon/images/blocks/crafting_table_side.png",
-    "creeperwoods/images/blocks/crafting_table_side.png",
-    "deserttemple/images/blocks/crafting_table_side.png",
-    "dingyjungle/images/blocks/crafting_table_side.png",
-    "highblockhalls/images/blocks/crafting_table_side.png",
-    "jungle/images/blocks/crafting_table_side.png",
-    "mooncorecaverns/images/blocks/crafting_table_side.png",
-    "mycelia/images/blocks/crafting_table_side.png",
-    "obsidianpinnacle/images/blocks/crafting_table_side.png",
-    "overgrowntemple/images/blocks/crafting_table_side.png",
-    "pumpkinpastures/images/blocks/crafting_table_side.png",
-    "redstonemines/images/blocks/crafting_table_side.png",
-    "soggyswamp/images/blocks/crafting_table_side.png"
-  ],
-  "crafting_table_top_cacticanyon.png": [
-    "bamboobluff/images/blocks/crafting_table_top.png",
-    "cacticanyon/images/blocks/crafting_table_top.png",
-    "creeperwoods/images/blocks/crafting_table_top.png",
-    "deserttemple/images/blocks/crafting_table_top.png",
-    "dingyjungle/images/blocks/crafting_table_top.png",
-    "highblockhalls/images/blocks/crafting_table_top.png",
-    "jungle/images/blocks/crafting_table_top.png",
-    "mooncorecaverns/images/blocks/crafting_table_top.png",
-    "mycelia/images/blocks/crafting_table_top.png",
-    "obsidianpinnacle/images/blocks/crafting_table_top.png",
-    "overgrowntemple/images/blocks/crafting_table_top.png",
-    "pumpkinpastures/images/blocks/crafting_table_top.png",
-    "redstonemines/images/blocks/crafting_table_top.png",
-    "soggyswamp/images/blocks/crafting_table_top.png"
-  ],
   "custom_0_bamboobluff.png": [
     "bamboobluff/images/blocks/custom_0.png",
     "dingyjungle/images/blocks/custom_0.png",
@@ -7215,10 +7227,8 @@
     "pumpkinpastures/images/blocks/hardened_clay_stained_orange.png"
   ],
   "leaves_acacia_creeperwoods.png": [
-    "creeperwoods/images/blocks/leaves_acacia.png"
-  ],
-  "leaves_acacia_carried_creeperwoods.png": [
-    "creeperwoods/images/blocks/leaves_acacia_carried.png"
+    "creeperwoods/images/blocks/leaves_acacia.png",
+	"creeperwoods/images/blocks/leaves_acacia_carried.png"
   ],
   "leaves_acacia_opaque_creeperwoods.png": [
     "creeperwoods/images/blocks/leaves_acacia_opaque.png"
