@@ -814,9 +814,24 @@
     "squidcoast/images/blocks/clay.png"
   ],
   "coal_block.png": [
+    "bamboobluff/images/blocks/stone_gradient_15.png",
+    "cacticanyon/images/blocks/stone_gradient_15.png",
+    "creeperwoods/images/blocks/hardened_clay_stained_orange.png",
+    "dingyjungle/images/blocks/stone_gradient_15.png",
+    "jungle/images/blocks/hardened_clay_stained_orange.png",
+    "jungle/images/blocks/stone_gradient_15.png",
     "mooncorecaverns/images/blocks/hardened_clay_stained_black.png",
+	"mooncorecaverns/images/blocks/stone_gradient_15.png",
+    "mycelia/images/blocks/mushroom_block_skin_red_e.png",
+    "mycelia/images/blocks/stone_gradient_15.png",
+    "overgrowntemple/images/blocks/stone_gradient_15.png",
+    "pumpkinpastures/images/blocks/hardened_clay_stained_orange.png",
+    "pumpkinpastures/images/blocks/stone_gradient_15.png",
+    "redstonemines/images/blocks/stone_gradient_15.png",
+    "soggyswamp/images/blocks/stone_gradient_15.png",
     "squidcoast/images/blocks/coal_block.png",
-    "squidcoast/images/blocks/hardened_clay_stained_black.png"
+    "squidcoast/images/blocks/hardened_clay_stained_black.png",
+    "squidcoast/images/blocks/stone_gradient_15.png"
   ],
   "coal_ore.png": [
     "bamboobluff/images/blocks/coal_ore.png",
@@ -837,12 +852,14 @@
     "jungle/images/blocks/cobblestone.png",
     "mooncorecaverns/images/blocks/cobblestone.png",
     "mycelia/images/blocks/cobblestone.png",
-    "squidcoast/images/blocks/cobblestone.png",  
-    "pumpkinpastures/images/blocks/cobblestone.png"
+    "pumpkinpastures/images/blocks/cobblestone.png",
+    "squidcoast/images/blocks/cobblestone.png"
   ],
   "cobblestone_mossy.png": [
     "jungle/images/blocks/cobblestone_mossy.png",
-    "squidcoast/images/blocks/cobblestone_mossy.png"  
+    "jungle/images/blocks/stone_path_top.png",
+    "mycelia/images/blocks/stone_path_top.png",
+    "squidcoast/images/blocks/cobblestone_mossy.png" 
   ],
   "cocoa_stage_0.png": [
     "bamboobluff/images/blocks/cocoa_stage_0.png",
@@ -2390,52 +2407,84 @@
   ],
   "furnace_side.png": [
     "bamboobluff/images/blocks/furnace_side.png",
+    "bamboobluff/images/blocks/stonecutter_other_side.png",
     "cacticanyon/images/blocks/furnace_side.png",
+    "cacticanyon/images/blocks/stonecutter_other_side.png",
     "creeperwoods/images/blocks/furnace_side.png",
+    "creeperwoods/images/blocks/stonecutter_other_side.png",
     "deserttemple/images/blocks/furnace_side.png",
+    "deserttemple/images/blocks/stonecutter_other_side.png",
     "dingyjungle/images/blocks/furnace_side.png",
+    "dingyjungle/images/blocks/stonecutter_other_side.png",
     "highblockhalls/images/blocks/furnace_side.png",
+    "highblockhalls/images/blocks/stonecutter_other_side.png",
     "jungle/images/blocks/furnace_side.png",
+    "jungle/images/blocks/stonecutter_other_side.png",
     "mooncorecaverns/images/blocks/furnace_side.png",
+    "mooncorecaverns/images/blocks/stonecutter_other_side.png",
     "mycelia/images/blocks/furnace_side.png",
+    "mycelia/images/blocks/stonecutter_other_side.png",
     "obsidianpinnacle/images/blocks/furnace_side.png",
+    "obsidianpinnacle/images/blocks/stonecutter_other_side.png",
     "overgrowntemple/images/blocks/furnace_side.png",
+    "overgrowntemple/images/blocks/stonecutter_other_side.png",
     "pumpkinpastures/images/blocks/furnace_side.png",
+    "pumpkinpastures/images/blocks/stonecutter_other_side.png",
     "redstonemines/images/blocks/furnace_side.png",
+    "redstonemines/images/blocks/stonecutter_other_side.png",
     "soggyswamp/images/blocks/furnace_side.png",
-    "squidcoast/images/blocks/furnace_side.png"
+    "squidcoast/images/blocks/furnace_side.png",
+    "soggyswamp/images/blocks/stonecutter_other_side.png",
+    "squidcoast/images/blocks/furnace_side.png",
+    "squidcoast/images/blocks/stonecutter_other_side.png"
   ],
   "furnace_top.png": [
     "bamboobluff/images/blocks/furnace_top.png",
     "bamboobluff/images/blocks/piston_bottom.png",
+    "bamboobluff/images/blocks/stonecutter_bottom.png",
     "cacticanyon/images/blocks/furnace_top.png",
     "cacticanyon/images/blocks/piston_bottom.png",
+    "cacticanyon/images/blocks/stonecutter_bottom.png",
     "creeperwoods/images/blocks/furnace_top.png",
     "creeperwoods/images/blocks/piston_bottom.png",
+    "creeperwoods/images/blocks/stonecutter_bottom.png",
     "deserttemple/images/blocks/furnace_top.png",
     "deserttemple/images/blocks/piston_bottom.png",
+    "deserttemple/images/blocks/stonecutter_bottom.png",
     "dingyjungle/images/blocks/furnace_top.png",
     "dingyjungle/images/blocks/piston_bottom.png",
+    "dingyjungle/images/blocks/stonecutter_bottom.png",
     "highblockhalls/images/blocks/furnace_top.png",
     "highblockhalls/images/blocks/piston_bottom.png",
+    "highblockhalls/images/blocks/stonecutter_bottom.png",
     "jungle/images/blocks/furnace_top.png",
     "jungle/images/blocks/piston_bottom.png",
+    "jungle/images/blocks/stonecutter_bottom.png",
     "mooncorecaverns/images/blocks/furnace_top.png",
     "mooncorecaverns/images/blocks/piston_bottom.png",
+    "mooncorecaverns/images/blocks/stonecutter_bottom.png",
     "mycelia/images/blocks/furnace_top.png",
     "mycelia/images/blocks/piston_bottom.png",
+    "mycelia/images/blocks/stonecutter_bottom.png",
     "obsidianpinnacle/images/blocks/furnace_top.png",
     "obsidianpinnacle/images/blocks/piston_bottom.png",
+    "obsidianpinnacle/images/blocks/stonecutter_bottom.png",
     "overgrowntemple/images/blocks/furnace_top.png",
     "overgrowntemple/images/blocks/piston_bottom.png",
+    "overgrowntemple/images/blocks/stonecutter_bottom.png",
     "pumpkinpastures/images/blocks/furnace_top.png",
     "pumpkinpastures/images/blocks/piston_bottom.png",
+    "pumpkinpastures/images/blocks/stonecutter_bottom.png",
     "redstonemines/images/blocks/furnace_top.png",
     "redstonemines/images/blocks/piston_bottom.png",
+    "redstonemines/images/blocks/stonecutter_bottom.png",
     "soggyswamp/images/blocks/furnace_top.png",
     "soggyswamp/images/blocks/piston_bottom.png",
+    "soggyswamp/images/blocks/stonecutter_bottom.png",
     "squidcoast/images/blocks/furnace_top.png",
-    "squidcoast/images/blocks/piston_bottom.png"
+    "squidcoast/images/blocks/piston_bottom.png",
+    "squidcoast/images/blocks/piston_bottom.png",
+    "squidcoast/images/blocks/stonecutter_bottom.png"
   ],
   "glass.png": [
     "cacticanyon/images/blocks/glass.png",
@@ -4645,40 +4694,6 @@
     "jungle/images/blocks/stonebrick_mossy.png",
     "squidcoast/images/blocks/stonebrick_mossy.png"
   ],
-  "stonecutter_bottom.png": [
-    "bamboobluff/images/blocks/stonecutter_bottom.png",
-    "cacticanyon/images/blocks/stonecutter_bottom.png",
-    "creeperwoods/images/blocks/stonecutter_bottom.png",
-    "deserttemple/images/blocks/stonecutter_bottom.png",
-    "dingyjungle/images/blocks/stonecutter_bottom.png",
-    "highblockhalls/images/blocks/stonecutter_bottom.png",
-    "jungle/images/blocks/stonecutter_bottom.png",
-    "mooncorecaverns/images/blocks/stonecutter_bottom.png",
-    "mycelia/images/blocks/stonecutter_bottom.png",
-    "obsidianpinnacle/images/blocks/stonecutter_bottom.png",
-    "overgrowntemple/images/blocks/stonecutter_bottom.png",
-    "pumpkinpastures/images/blocks/stonecutter_bottom.png",
-    "redstonemines/images/blocks/stonecutter_bottom.png",
-    "soggyswamp/images/blocks/stonecutter_bottom.png",
-    "squidcoast/images/blocks/stonecutter_bottom.png"
-  ],
-  "stonecutter_other_side.png": [
-    "bamboobluff/images/blocks/stonecutter_other_side.png",
-    "cacticanyon/images/blocks/stonecutter_other_side.png",
-    "creeperwoods/images/blocks/stonecutter_other_side.png",
-    "deserttemple/images/blocks/stonecutter_other_side.png",
-    "dingyjungle/images/blocks/stonecutter_other_side.png",
-    "highblockhalls/images/blocks/stonecutter_other_side.png",
-    "jungle/images/blocks/stonecutter_other_side.png",
-    "mooncorecaverns/images/blocks/stonecutter_other_side.png",
-    "mycelia/images/blocks/stonecutter_other_side.png",
-    "obsidianpinnacle/images/blocks/stonecutter_other_side.png",
-    "overgrowntemple/images/blocks/stonecutter_other_side.png",
-    "pumpkinpastures/images/blocks/stonecutter_other_side.png",
-    "redstonemines/images/blocks/stonecutter_other_side.png",
-    "soggyswamp/images/blocks/stonecutter_other_side.png",
-    "squidcoast/images/blocks/stonecutter_other_side.png"
-  ],
   "stonecutter_side.png": [
     "bamboobluff/images/blocks/stonecutter_side.png",
     "cacticanyon/images/blocks/stonecutter_side.png",
@@ -4833,19 +4848,6 @@
     "redstonemines/images/blocks/stone_gradient_14.png",
     "soggyswamp/images/blocks/stone_gradient_14.png",
     "squidcoast/images/blocks/stone_gradient_14.png"
-  ],
-  "stone_gradient_15.png": [
-    "bamboobluff/images/blocks/stone_gradient_15.png",
-    "cacticanyon/images/blocks/stone_gradient_15.png",
-    "dingyjungle/images/blocks/stone_gradient_15.png",
-    "jungle/images/blocks/stone_gradient_15.png",
-    "mooncorecaverns/images/blocks/stone_gradient_15.png",
-    "mycelia/images/blocks/stone_gradient_15.png",
-    "overgrowntemple/images/blocks/stone_gradient_15.png",
-    "pumpkinpastures/images/blocks/stone_gradient_15.png",
-    "redstonemines/images/blocks/stone_gradient_15.png",
-    "soggyswamp/images/blocks/stone_gradient_15.png",
-    "squidcoast/images/blocks/stone_gradient_15.png"
   ],
   "stone_gradient_2.png": [
     "jungle/images/blocks/stone_gradient_2.png",
@@ -8962,10 +8964,6 @@
   "stone_path_side_jungle.png": [
     "jungle/images/blocks/stone_path_side.png",
     "mycelia/images/blocks/stone_path_side.png"
-  ],
-  "stone_path_top_jungle.png": [
-    "jungle/images/blocks/stone_path_top.png",
-    "mycelia/images/blocks/stone_path_top.png"
   ],
   "tallgrass_jungle.png": [
     "jungle/images/blocks/tallgrass.png"
