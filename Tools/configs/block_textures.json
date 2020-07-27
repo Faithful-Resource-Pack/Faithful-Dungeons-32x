@@ -105,7 +105,6 @@
     "pumpkinpastures/images/blocks/stone_slab_top.png",
     "redstonemines/images/blocks/bedrock.png",
     "soggyswamp/images/blocks/bedrock.png",
-    "squidcoast/images/blocks/bedrock.png",
     "soggyswamp/images/blocks/stone_granite_smooth.png",
     "soggyswamp/images/blocks/stone_slab_top.png",
     "squidcoast/images/blocks/bedrock.png",
@@ -1094,12 +1093,20 @@
     "squidcoast/images/blocks/custom_4_reflective.png"
   ],
   "custom_5.png": [
+    "cacticanyon/images/blocks/stone_andesite_smooth.png",
+    "creeperwoods/images/blocks/stone_andesite_smooth.png",
+    "deserttemple/images/blocks/stone_andesite_smooth.png",
+    "jungle/images/blocks/stone_andesite_smooth.png",
+    "mycelia/images/blocks/stone_andesite_smooth.png",
+    "pumpkinpastures/images/blocks/stone_andesite_smooth.png",
+    "soggyswamp/images/blocks/stone_andesite_smooth.png",
     "squidcoast/images/blocks/custom_5.png"
   ],
   "custom_5_reflective.png": [
     "squidcoast/images/blocks/custom_5_reflective.png"
   ],
   "custom_6.png": [
+    "deserttemple/images/blocks/polished_granite.png",
     "squidcoast/images/blocks/custom_6.png"
   ],
   "custom_6_reflective.png": [
@@ -7527,15 +7534,6 @@
     "creeperwoods/images/blocks/stone_andesite.png",
     "soggyswamp/images/blocks/stone_andesite.png"
   ],
-  "stone_andesite_smooth_cacticanyon.png": [
-    "cacticanyon/images/blocks/stone_andesite_smooth.png",
-    "creeperwoods/images/blocks/stone_andesite_smooth.png",
-    "deserttemple/images/blocks/stone_andesite_smooth.png",
-    "jungle/images/blocks/stone_andesite_smooth.png",
-    "mycelia/images/blocks/stone_andesite_smooth.png",
-    "pumpkinpastures/images/blocks/stone_andesite_smooth.png",
-    "soggyswamp/images/blocks/stone_andesite_smooth.png"
-  ],
   "stone_diorite_deserttemple.png": [
     "creeperwoods/images/blocks/stone_diorite.png",
     "deserttemple/images/blocks/stone_diorite.png",
@@ -7936,9 +7934,6 @@
     "deserttemple/images/blocks/planks_spruce.png",
     "obsidianpinnacle/images/blocks/planks_spruce.png"
   ],
-  "polished_granite_deserttemple.png": [
-    "deserttemple/images/blocks/polished_granite.png"
-  ],
   "quartz_block_bottom_deserttemple.png": [
     "deserttemple/images/blocks/quartz_block_bottom.png",
     "jungle/images/blocks/quartz_block_bottom.png"
@@ -8178,9 +8173,6 @@
   "obsidian_dingyjungle.png": [
     "dingyjungle/images/blocks/obsidian.png"
   ],
-  "planks_jungle_dingyjungle.png": [
-    "dingyjungle/images/blocks/planks_jungle.png"
-  ],
   "planks_spruce_dingyjungle.png": [
     "dingyjungle/images/blocks/planks_spruce.png"
   ],
@@ -8220,7 +8212,8 @@
   "custom0.png": [
     "highblockhalls/images/blocks/custom0.png",
     "obsidianpinnacle/images/blocks/custom0.png",
-    "redstonemines/images/blocks/custom0.png"
+    "redstonemines/images/blocks/custom0.png",
+    "redstonemines/images/blocks/custom_0.png"
   ],
   "custom_0_highblockhalls.png": [
     "highblockhalls/images/blocks/custom_0.png"
@@ -9643,9 +9636,6 @@
   "coal_ore_redstonemines.png": [
     "redstonemines/images/blocks/coal_ore.png"
   ],
-  "custom_0_redstonemines.png": [
-    "redstonemines/images/blocks/custom_0.png"
-  ],
   "custom_10_redstonemines.png": [
     "redstonemines/images/blocks/custom_10.png"
   ],
@@ -9904,6 +9894,7 @@
     "soggyswamp/images/blocks/planks_oak.png"
   ],
   "planks_spruce_soggyswamp.png": [
+    "dingyjungle/images/blocks/planks_jungle.png",
     "soggyswamp/images/blocks/planks_spruce.png"
   ],
   "quartz_block_chiseled_soggyswamp.png": [
