@@ -1036,17 +1036,23 @@
     "highblockhalls/images/blocks/custom_15.png",
     "mooncorecaverns/images/blocks/custom_15.png",
     "obsidianpinnacle/images/blocks/custom_15.png",
+	"squidcoast/images/blocks/custom_3.png",
     "squidcoast/images/blocks/custom_15.png"
   ],
   "custom_2.png": [
     "mooncorecaverns/images/blocks/custom_2.png",
     "squidcoast/images/blocks/custom_2.png"
   ],
-  "custom_3.png": [
-    "squidcoast/images/blocks/custom_3.png"
-  ],
   "custom_4.png": [
-    "squidcoast/images/blocks/custom_4.png"
+    "creeperwoods/images/blocks/stonefloor1.png",
+    "deserttemple/images/blocks/stonefloor1.png",
+    "highblockhalls/images/blocks/stonefloor1.png",
+    "mycelia/images/blocks/stonefloor1.png",
+    "obsidianpinnacle/images/blocks/stonefloor1.png",
+    "pumpkinpastures/images/blocks/stonefloor1.png",
+    "soggyswamp/images/blocks/stonefloor1.png",
+    "squidcoast/images/blocks/custom_4.png",
+    "squidcoast/images/blocks/stone_andesite_smooth.png"
   ],
   "custom_4_reflective.png": [
     "squidcoast/images/blocks/custom_4_reflective.png"
@@ -4751,9 +4757,6 @@
   "stone_andesite.png": [
     "squidcoast/images/blocks/stone_andesite.png"
   ],
-  "stone_andesite_smooth.png": [
-    "squidcoast/images/blocks/stone_andesite_smooth.png"
-  ],
   "stone_diorite.png": [
     "squidcoast/images/blocks/stone_diorite.png"
   ],
@@ -8262,11 +8265,6 @@
     "obsidianpinnacle/images/blocks/custom_3.png",
     "redstonemines/images/blocks/custom_3.png"
   ],
-  "custom_4_highblockhalls.png": [
-    "highblockhalls/images/blocks/custom_4.png",
-    "obsidianpinnacle/images/blocks/custom_4.png",
-    "redstonemines/images/blocks/custom_4.png"
-  ],
   "custom_5_highblockhalls.png": [
     "highblockhalls/images/blocks/custom_5.png",
     "redstonemines/images/blocks/custom_5.png"
@@ -9863,7 +9861,8 @@
     "soggyswamp/images/blocks/grass_side.png"
   ],
   "grass_top_soggyswamp.png": [
-    "soggyswamp/images/blocks/grass_top.png"
+    "soggyswamp/images/blocks/grass_top.png",
+	"soggyswamp/images/blocks/sandstone_custom1_top.png"
   ],
   "leaves_acacia_carried_soggyswamp.png": [
     "soggyswamp/images/blocks/leaves_acacia_carried.png"
@@ -10001,6 +10000,10 @@
   "red_sandstone_normal_mooncorecaverns.png": [
     "mooncorecaverns/images/blocks/red_sandstone_normal.png"
   ],
+  "stonefloor6.png": [
+    "mooncorecaverns/images/blocks/stonefloor6.png",
+    "squidcoast/images/blocks/stonefloor6.png"
+  ],
   "stone_andesite_smooth_mooncorecaverns.png": [
     "mooncorecaverns/images/blocks/stone_andesite_smooth.png"
   ],
@@ -10047,16 +10050,14 @@
     "overgrowntemple/images/blocks/stonefloor9.png"
   ],
   "sandstone_bottom_jungle.png": [
-    "jungle/images/blocks/sandstone_bottom.png"
+    "jungle/images/blocks/sandstone_bottom.png",
+    "jungle/images/blocks/sandstone_top.png"
   ],
   "sandstone_carved_jungle.png": [
     "jungle/images/blocks/sandstone_carved.png"
   ],
   "sandstone_smooth_jungle.png": [
     "jungle/images/blocks/sandstone_smooth.png"
-  ],
-  "sandstone_top_jungle.png": [
-    "jungle/images/blocks/sandstone_top.png"
   ],
   "stonefloor1_jungle.png": [
     "jungle/images/blocks/stonefloor1.png"
