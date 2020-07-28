@@ -5776,15 +5776,18 @@
     "bamboobluff/images/blocks/glass.png",
     "dingyjungle/images/blocks/glass.png"
   ],
-  "gold_block_deserttemple.png": [
+  "custom_3_highblockhalls.png": [
     "bamboobluff/images/blocks/gold_block.png",
     "creeperwoods/images/blocks/gold_block.png",
     "deserttemple/images/blocks/gold_block.png",
     "dingyjungle/images/blocks/gold_block.png",
+    "highblockhalls/images/blocks/custom_3.png",
     "jungle/images/blocks/gold_block.png",
     "mycelia/images/blocks/gold_block.png",
+    "obsidianpinnacle/images/blocks/custom_3.png",
     "overgrowntemple/images/blocks/gold_block.png",
     "pumpkinpastures/images/blocks/gold_block.png",
+    "redstonemines/images/blocks/custom_3.png",
     "soggyswamp/images/blocks/gold_block.png"
   ],
   "gold_ore_bamboobluff.png": [
@@ -7260,25 +7263,19 @@
     "soggyswamp/images/blocks/red_sand.png"
   ],
   "red_sandstone_bottom_creeperwoods.png": [
-    "creeperwoods/images/blocks/red_sandstone_bottom.png"
+    "creeperwoods/images/blocks/red_sandstone_bottom.png",
+    "creeperwoods/images/blocks/red_sandstone_normal.png",
+    "creeperwoods/images/blocks/red_sandstone_top.png"
   ],
   "red_sandstone_carved-03.png": [
+    "creeperwoods/images/blocks/red_sandstone_carved.png",
     "creeperwoods/images/blocks/red_sandstone_carved-03.png"
-  ],
-  "red_sandstone_carved_creeperwoods.png": [
-    "creeperwoods/images/blocks/red_sandstone_carved.png"
-  ],
-  "red_sandstone_normal_creeperwoods.png": [
-    "creeperwoods/images/blocks/red_sandstone_normal.png"
   ],
   "red_sandstone_smooth_creeperwoods.png": [
     "creeperwoods/images/blocks/red_sandstone_smooth.png",
     "mycelia/images/blocks/red_sandstone_smooth.png",
     "pumpkinpastures/images/blocks/red_sandstone_smooth.png",
     "soggyswamp/images/blocks/red_sandstone_smooth.png"
-  ],
-  "red_sandstone_top_creeperwoods.png": [
-    "creeperwoods/images/blocks/red_sandstone_top.png"
   ],
   "sandstone_bottom_deserttemple.png": [
     "creeperwoods/images/blocks/sandstone_bottom.png",
@@ -7342,7 +7339,8 @@
     "obsidianpinnacle/images/blocks/stonefloor6.png",
     "soggyswamp/images/blocks/stonefloor6.png"
   ],
-  "stonefloor7_highblockhalls.png": [
+  "stone_gradient_0_creeperwoods.png": [
+    "creeperwoods/images/blocks/stone_gradient_0.png",
     "creeperwoods/images/blocks/stonefloor7.png",
     "highblockhalls/images/blocks/stonefloor7.png",
     "obsidianpinnacle/images/blocks/stonefloor7.png",
@@ -7378,9 +7376,6 @@
     "mycelia/images/blocks/stone_diorite_smooth.png",
     "pumpkinpastures/images/blocks/stone_diorite_smooth.png",
     "soggyswamp/images/blocks/stone_diorite_smooth.png"
-  ],
-  "stone_gradient_0_creeperwoods.png": [
-    "creeperwoods/images/blocks/stone_gradient_0.png"
   ],
   "stone_gradient_1_creeperwoods.png": [
     "creeperwoods/images/blocks/stone_gradient_1.png"
@@ -8064,11 +8059,6 @@
   "custom_2_highblockhalls.png": [
     "highblockhalls/images/blocks/custom_2.png",
     "obsidianpinnacle/images/blocks/custom_2.png"
-  ],
-  "custom_3_highblockhalls.png": [
-    "highblockhalls/images/blocks/custom_3.png",
-    "obsidianpinnacle/images/blocks/custom_3.png",
-    "redstonemines/images/blocks/custom_3.png"
   ],
   "custom_5_highblockhalls.png": [
     "highblockhalls/images/blocks/custom_5.png",
