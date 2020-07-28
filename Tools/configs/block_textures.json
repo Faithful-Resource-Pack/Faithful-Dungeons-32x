@@ -3172,7 +3172,7 @@
     "jungle/images/blocks/log_acacia.png",
     "mycelia/images/blocks/log_acacia.png",
     "pumpkinpastures/images/blocks/log_acacia.png",
-    "pumpkinpastures/images/blocks/log_oak.png"  
+    "pumpkinpastures/images/blocks/log_oak.png",  
     "redstonemines/images/blocks/log_acacia.png"
   ],
   "log_acacia_top.png": [
@@ -3182,7 +3182,7 @@
     "mooncorecaverns/images/blocks/log_acacia_top.png",
     "mycelia/images/blocks/log_acacia_top.png",
     "pumpkinpastures/images/blocks/log_acacia_top.png",
-    "pumpkinpastures/images/blocks/log_oak_top.png"  
+    "pumpkinpastures/images/blocks/log_oak_top.png",  
     "redstonemines/images/blocks/log_acacia_top.png",
     "squidcoast/images/blocks/log_acacia_top.png",
 	"cacticanyon/images/blocks/log_acacia_top.png",
