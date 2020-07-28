@@ -1191,176 +1191,6 @@
     "soggyswamp/images/blocks/deadbush.png",
     "squidcoast/images/blocks/deadbush.png"
   ],
-  "destroy_stage_0.png": [
-    "bamboobluff/images/blocks/destroy_stage_0.png",
-    "cacticanyon/images/blocks/destroy_stage_0.png",
-    "creeperwoods/images/blocks/destroy_stage_0.png",
-    "deserttemple/images/blocks/destroy_stage_0.png",
-    "dingyjungle/images/blocks/destroy_stage_0.png",
-    "highblockhalls/images/blocks/destroy_stage_0.png",
-    "jungle/images/blocks/destroy_stage_0.png",
-    "mooncorecaverns/images/blocks/destroy_stage_0.png",
-    "mycelia/images/blocks/destroy_stage_0.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_0.png",
-    "overgrowntemple/images/blocks/destroy_stage_0.png",
-    "pumpkinpastures/images/blocks/destroy_stage_0.png",
-    "redstonemines/images/blocks/destroy_stage_0.png",
-    "soggyswamp/images/blocks/destroy_stage_0.png",
-    "squidcoast/images/blocks/destroy_stage_0.png"
-  ],
-  "destroy_stage_1.png": [
-    "bamboobluff/images/blocks/destroy_stage_1.png",
-    "cacticanyon/images/blocks/destroy_stage_1.png",
-    "creeperwoods/images/blocks/destroy_stage_1.png",
-    "deserttemple/images/blocks/destroy_stage_1.png",
-    "dingyjungle/images/blocks/destroy_stage_1.png",
-    "highblockhalls/images/blocks/destroy_stage_1.png",
-    "jungle/images/blocks/destroy_stage_1.png",
-    "mooncorecaverns/images/blocks/destroy_stage_1.png",
-    "mycelia/images/blocks/destroy_stage_1.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_1.png",
-    "overgrowntemple/images/blocks/destroy_stage_1.png",
-    "pumpkinpastures/images/blocks/destroy_stage_1.png",
-    "redstonemines/images/blocks/destroy_stage_1.png",
-    "soggyswamp/images/blocks/destroy_stage_1.png",
-    "squidcoast/images/blocks/destroy_stage_1.png"
-  ],
-  "destroy_stage_2.png": [
-    "bamboobluff/images/blocks/destroy_stage_2.png",
-    "cacticanyon/images/blocks/destroy_stage_2.png",
-    "creeperwoods/images/blocks/destroy_stage_2.png",
-    "deserttemple/images/blocks/destroy_stage_2.png",
-    "dingyjungle/images/blocks/destroy_stage_2.png",
-    "highblockhalls/images/blocks/destroy_stage_2.png",
-    "jungle/images/blocks/destroy_stage_2.png",
-    "mooncorecaverns/images/blocks/destroy_stage_2.png",
-    "mycelia/images/blocks/destroy_stage_2.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_2.png",
-    "overgrowntemple/images/blocks/destroy_stage_2.png",
-    "pumpkinpastures/images/blocks/destroy_stage_2.png",
-    "redstonemines/images/blocks/destroy_stage_2.png",
-    "soggyswamp/images/blocks/destroy_stage_2.png",
-    "squidcoast/images/blocks/destroy_stage_2.png"
-  ],
-  "destroy_stage_3.png": [
-    "bamboobluff/images/blocks/destroy_stage_3.png",
-    "cacticanyon/images/blocks/destroy_stage_3.png",
-    "creeperwoods/images/blocks/destroy_stage_3.png",
-    "deserttemple/images/blocks/destroy_stage_3.png",
-    "dingyjungle/images/blocks/destroy_stage_3.png",
-    "highblockhalls/images/blocks/destroy_stage_3.png",
-    "jungle/images/blocks/destroy_stage_3.png",
-    "mooncorecaverns/images/blocks/destroy_stage_3.png",
-    "mycelia/images/blocks/destroy_stage_3.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_3.png",
-    "overgrowntemple/images/blocks/destroy_stage_3.png",
-    "pumpkinpastures/images/blocks/destroy_stage_3.png",
-    "redstonemines/images/blocks/destroy_stage_3.png",
-    "soggyswamp/images/blocks/destroy_stage_3.png",
-    "squidcoast/images/blocks/destroy_stage_3.png"
-  ],
-  "destroy_stage_4.png": [
-    "bamboobluff/images/blocks/destroy_stage_4.png",
-    "cacticanyon/images/blocks/destroy_stage_4.png",
-    "creeperwoods/images/blocks/destroy_stage_4.png",
-    "deserttemple/images/blocks/destroy_stage_4.png",
-    "dingyjungle/images/blocks/destroy_stage_4.png",
-    "highblockhalls/images/blocks/destroy_stage_4.png",
-    "jungle/images/blocks/destroy_stage_4.png",
-    "mooncorecaverns/images/blocks/destroy_stage_4.png",
-    "mycelia/images/blocks/destroy_stage_4.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_4.png",
-    "overgrowntemple/images/blocks/destroy_stage_4.png",
-    "pumpkinpastures/images/blocks/destroy_stage_4.png",
-    "redstonemines/images/blocks/destroy_stage_4.png",
-    "soggyswamp/images/blocks/destroy_stage_4.png",
-    "squidcoast/images/blocks/destroy_stage_4.png"
-  ],
-  "destroy_stage_5.png": [
-    "bamboobluff/images/blocks/destroy_stage_5.png",
-    "cacticanyon/images/blocks/destroy_stage_5.png",
-    "creeperwoods/images/blocks/destroy_stage_5.png",
-    "deserttemple/images/blocks/destroy_stage_5.png",
-    "dingyjungle/images/blocks/destroy_stage_5.png",
-    "highblockhalls/images/blocks/destroy_stage_5.png",
-    "jungle/images/blocks/destroy_stage_5.png",
-    "mooncorecaverns/images/blocks/destroy_stage_5.png",
-    "mycelia/images/blocks/destroy_stage_5.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_5.png",
-    "overgrowntemple/images/blocks/destroy_stage_5.png",
-    "pumpkinpastures/images/blocks/destroy_stage_5.png",
-    "redstonemines/images/blocks/destroy_stage_5.png",
-    "soggyswamp/images/blocks/destroy_stage_5.png",
-    "squidcoast/images/blocks/destroy_stage_5.png"
-  ],
-  "destroy_stage_6.png": [
-    "bamboobluff/images/blocks/destroy_stage_6.png",
-    "cacticanyon/images/blocks/destroy_stage_6.png",
-    "creeperwoods/images/blocks/destroy_stage_6.png",
-    "deserttemple/images/blocks/destroy_stage_6.png",
-    "dingyjungle/images/blocks/destroy_stage_6.png",
-    "highblockhalls/images/blocks/destroy_stage_6.png",
-    "jungle/images/blocks/destroy_stage_6.png",
-    "mooncorecaverns/images/blocks/destroy_stage_6.png",
-    "mycelia/images/blocks/destroy_stage_6.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_6.png",
-    "overgrowntemple/images/blocks/destroy_stage_6.png",
-    "pumpkinpastures/images/blocks/destroy_stage_6.png",
-    "redstonemines/images/blocks/destroy_stage_6.png",
-    "soggyswamp/images/blocks/destroy_stage_6.png",
-    "squidcoast/images/blocks/destroy_stage_6.png"
-  ],
-  "destroy_stage_7.png": [
-    "bamboobluff/images/blocks/destroy_stage_7.png",
-    "cacticanyon/images/blocks/destroy_stage_7.png",
-    "creeperwoods/images/blocks/destroy_stage_7.png",
-    "deserttemple/images/blocks/destroy_stage_7.png",
-    "dingyjungle/images/blocks/destroy_stage_7.png",
-    "highblockhalls/images/blocks/destroy_stage_7.png",
-    "jungle/images/blocks/destroy_stage_7.png",
-    "mooncorecaverns/images/blocks/destroy_stage_7.png",
-    "mycelia/images/blocks/destroy_stage_7.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_7.png",
-    "overgrowntemple/images/blocks/destroy_stage_7.png",
-    "pumpkinpastures/images/blocks/destroy_stage_7.png",
-    "redstonemines/images/blocks/destroy_stage_7.png",
-    "soggyswamp/images/blocks/destroy_stage_7.png",
-    "squidcoast/images/blocks/destroy_stage_7.png"
-  ],
-  "destroy_stage_8.png": [
-    "bamboobluff/images/blocks/destroy_stage_8.png",
-    "cacticanyon/images/blocks/destroy_stage_8.png",
-    "creeperwoods/images/blocks/destroy_stage_8.png",
-    "deserttemple/images/blocks/destroy_stage_8.png",
-    "dingyjungle/images/blocks/destroy_stage_8.png",
-    "highblockhalls/images/blocks/destroy_stage_8.png",
-    "jungle/images/blocks/destroy_stage_8.png",
-    "mooncorecaverns/images/blocks/destroy_stage_8.png",
-    "mycelia/images/blocks/destroy_stage_8.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_8.png",
-    "overgrowntemple/images/blocks/destroy_stage_8.png",
-    "pumpkinpastures/images/blocks/destroy_stage_8.png",
-    "redstonemines/images/blocks/destroy_stage_8.png",
-    "soggyswamp/images/blocks/destroy_stage_8.png",
-    "squidcoast/images/blocks/destroy_stage_8.png"
-  ],
-  "destroy_stage_9.png": [
-    "bamboobluff/images/blocks/destroy_stage_9.png",
-    "cacticanyon/images/blocks/destroy_stage_9.png",
-    "creeperwoods/images/blocks/destroy_stage_9.png",
-    "deserttemple/images/blocks/destroy_stage_9.png",
-    "dingyjungle/images/blocks/destroy_stage_9.png",
-    "highblockhalls/images/blocks/destroy_stage_9.png",
-    "jungle/images/blocks/destroy_stage_9.png",
-    "mooncorecaverns/images/blocks/destroy_stage_9.png",
-    "mycelia/images/blocks/destroy_stage_9.png",
-    "obsidianpinnacle/images/blocks/destroy_stage_9.png",
-    "overgrowntemple/images/blocks/destroy_stage_9.png",
-    "pumpkinpastures/images/blocks/destroy_stage_9.png",
-    "redstonemines/images/blocks/destroy_stage_9.png",
-    "soggyswamp/images/blocks/destroy_stage_9.png",
-    "squidcoast/images/blocks/destroy_stage_9.png"
-  ],
   "diamond_block.png": [
     "cacticanyon/images/blocks/diamond_block.png",
     "highblockhalls/images/blocks/diamond_block.png",
@@ -2284,6 +2114,7 @@
     "squidcoast/images/blocks/fire_layer_1.png"
   ],
   "flower_allium.png": [
+    "jungle/images/blocks/flower_dandelion.png",
     "mooncorecaverns/images/blocks/flower_allium.png",
     "squidcoast/images/blocks/flower_allium.png"
   ],
@@ -5068,17 +4899,23 @@
     "squidcoast/images/blocks/torch_on_emissive.png"
   ],
   "transparent.png": [
+    "bamboobluff/images/blocks/glass_pane_top.png",
+    "bamboobluff/images/blocks/jungle_customTiles1_168.png",
     "cacticanyon/images/blocks/transparent.png",
     "creeperwoods/images/blocks/transparent.png",
     "deserttemple/images/blocks/transparent.png",
+    "dingyjungle/images/blocks/glass_pane_top.png",
+    "dingyjungle/images/blocks/jungle_customTiles1_168.png",
     "highblockhalls/images/blocks/transparent.png",
     "jungle/images/blocks/transparent.png",
     "mooncorecaverns/images/blocks/transparent.png",
     "mycelia/images/blocks/transparent.png",
     "obsidianpinnacle/images/blocks/transparent.png",
+    "overgrowntemple/images/blocks/jungle_customTiles1_168.png",
     "overgrowntemple/images/blocks/transparent.png",
     "pumpkinpastures/images/blocks/transparent.png",
     "redstonemines/images/blocks/transparent.png",
+    "soggyswamp/images/blocks/sandstone.png",
     "soggyswamp/images/blocks/transparent.png",
     "squidcoast/images/blocks/transparent.png"
   ],
@@ -5937,10 +5774,6 @@
     "bamboobluff/images/blocks/glass.png",
     "dingyjungle/images/blocks/glass.png"
   ],
-  "glass_pane_top_bamboobluff.png": [
-    "bamboobluff/images/blocks/glass_pane_top.png",
-    "dingyjungle/images/blocks/glass_pane_top.png"
-  ],
   "gold_block_deserttemple.png": [
     "bamboobluff/images/blocks/gold_block.png",
     "creeperwoods/images/blocks/gold_block.png",
@@ -6197,11 +6030,6 @@
     "bamboobluff/images/blocks/jungle_customTiles1_142.png",
     "dingyjungle/images/blocks/jungle_customTiles1_142.png",
     "overgrowntemple/images/blocks/jungle_customTiles1_142.png"
-  ],
-  "jungle_customtiles1_168.png": [
-    "bamboobluff/images/blocks/jungle_customTiles1_168.png",
-    "dingyjungle/images/blocks/jungle_customTiles1_168.png",
-    "overgrowntemple/images/blocks/jungle_customTiles1_168.png"
   ],
   "lapis_block_cacticanyon.png": [
     "bamboobluff/images/blocks/lapis_block.png",
@@ -7662,6 +7490,7 @@
   ],
   "custom_12_deserttemple.png": [
     "deserttemple/images/blocks/custom_12.png",
+    "deserttemple/images/blocks/custom_tiles_12.png",
     "highblockhalls/images/blocks/custom_12.png",
     "mooncorecaverns/images/blocks/custom_12.png"
   ],
@@ -7672,7 +7501,8 @@
     "deserttemple/images/blocks/custom_3.png"
   ],
   "custom_4_deserttemple.png": [
-    "deserttemple/images/blocks/custom_4.png"
+    "deserttemple/images/blocks/custom_4.png",
+    "deserttemple/images/blocks/nether_brick.png"
   ],
   "custom_5_deserttemple.png": [
     "deserttemple/images/blocks/custom_5.png"
@@ -7688,9 +7518,6 @@
   ],
   "custom_9_deserttemple.png": [
     "deserttemple/images/blocks/custom_9.png"
-  ],
-  "custom_tiles_12.png": [
-    "deserttemple/images/blocks/custom_tiles_12.png"
   ],
   "cut_sandstone.png": [
     "cacticanyon/images/blocks/cut_sandstone.png",
@@ -7896,9 +7723,6 @@
   ],
   "mycelium_top_deserttemple.png": [
     "deserttemple/images/blocks/mycelium_top.png"
-  ],
-  "nether_brick_deserttemple.png": [
-    "deserttemple/images/blocks/nether_brick.png"
   ],
   "oak_log.png": [
     "cacticanyon/images/blocks/oak_log.png",
@@ -8649,9 +8473,6 @@
     "jungle/images/blocks/double_plant_rose_bottom.png",
     "mycelia/images/blocks/double_plant_rose_bottom.png",
     "pumpkinpastures/images/blocks/double_plant_rose_bottom.png"
-  ],
-  "flower_dandelion_jungle.png": [
-    "jungle/images/blocks/flower_dandelion.png"
   ],
   "flower_houstonia_jungle.png": [
     "jungle/images/blocks/flower_houstonia.png"
@@ -9902,9 +9723,6 @@
   ],
   "quartz_block_side-38.png": [
     "soggyswamp/images/blocks/quartz_block_side-38.png"
-  ],
-  "sandstone_soggyswamp.png": [
-    "soggyswamp/images/blocks/sandstone.png"
   ],
   "sandstone_custom1_side_soggyswamp.png": [
     "soggyswamp/images/blocks/sandstone_custom1_side.png"
