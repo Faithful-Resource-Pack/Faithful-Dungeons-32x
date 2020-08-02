@@ -8804,10 +8804,12 @@
     "cacticanyon/images/blocks/customTiles_69.png"
   ],
   "custom_0_cacticanyon.png": [
-    "cacticanyon/images/blocks/custom_0.png"
+    "cacticanyon/images/blocks/custom_0.png",
+    "cacticanyon/images/blocks/grass_path_top.png"
   ],
   "custom_1_cacticanyon.png": [
-    "cacticanyon/images/blocks/custom_1.png"
+    "cacticanyon/images/blocks/custom_1.png",
+    "cacticanyon/images/blocks/stone_gradient_1.png"
   ],
   "custom_10_cacticanyon.png": [
     "cacticanyon/images/blocks/custom_10.png"
@@ -8899,9 +8901,6 @@
   "grass_path_side_cacticanyon.png": [
     "cacticanyon/images/blocks/grass_path_side.png"
   ],
-  "grass_path_top_cacticanyon.png": [
-    "cacticanyon/images/blocks/grass_path_top.png"
-  ],
   "grass_side_cacticanyon.png": [
     "cacticanyon/images/blocks/grass_side.png"
   ],
@@ -8992,7 +8991,8 @@
     "cacticanyon/images/blocks/sand.png"
   ],
   "sandstone_bottom_cacticanyon.png": [
-    "cacticanyon/images/blocks/sandstone_bottom.png"
+    "cacticanyon/images/blocks/sandstone_bottom.png",
+    "cacticanyon/images/blocks/sandstone_top.png"
   ],
   "sandstone_carved_cacticanyon.png": [
     "cacticanyon/images/blocks/sandstone_carved.png"
@@ -9002,9 +9002,6 @@
   ],
   "sandstone_smooth_cacticanyon.png": [
     "cacticanyon/images/blocks/sandstone_smooth.png"
-  ],
-  "sandstone_top_cacticanyon.png": [
-    "cacticanyon/images/blocks/sandstone_top.png"
   ],
   "snow_cacticanyon.png": [
     "cacticanyon/images/blocks/snow.png"
@@ -9021,9 +9018,6 @@
   ],
   "stone_gradient_0_cacticanyon.png": [
     "cacticanyon/images/blocks/stone_gradient_0.png"
-  ],
-  "stone_gradient_1_cacticanyon.png": [
-    "cacticanyon/images/blocks/stone_gradient_1.png"
   ],
   "stone_gradient_2_cacticanyon.png": [
     "cacticanyon/images/blocks/stone_gradient_2.png"
@@ -9110,7 +9104,8 @@
   ],
   "custom_3_pumpkinpastures.png": [
     "mycelia/images/blocks/custom_3.png",
-    "pumpkinpastures/images/blocks/custom_3.png"
+    "pumpkinpastures/images/blocks/custom_3.png",
+    "pumpkinpastures/images/blocks/mycelium_top.png"
   ],
   "custom_4_pumpkinpastures.png": [
     "mycelia/images/blocks/custom_4.png",
@@ -9422,9 +9417,6 @@
   "mycelium_side_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/mycelium_side.png"
   ],
-  "mycelium_top_pumpkinpastures.png": [
-    "pumpkinpastures/images/blocks/mycelium_top.png"
-  ],
   "netherrack_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/netherrack.png"
   ],
@@ -9477,8 +9469,7 @@
     "redstonemines/images/blocks/custom_14_emissive.png"
   ],
   "custom_15_redstonemines.png": [
-    "redstonemines/images/blocks/custom_15.png",
-    "soggyswamp/images/blocks/custom_15.png"
+    "redstonemines/images/blocks/custom_15.png"
   ],
   "custom_2_redstonemines.png": [
     "redstonemines/images/blocks/custom_2.png"
@@ -9571,10 +9562,12 @@
     "redstonemines/images/blocks/stone_granite.png"
   ],
   "cobblestone_mossy_soggyswamp.png": [
-    "soggyswamp/images/blocks/cobblestone_mossy.png"
+    "soggyswamp/images/blocks/cobblestone_mossy.png",
+    "soggyswamp/images/blocks/stone_path_top.png"
   ],
   "custom_0_soggyswamp.png": [
-    "soggyswamp/images/blocks/custom_0.png"
+    "soggyswamp/images/blocks/custom_0.png",
+    "soggyswamp/images/blocks/sandstone_custom4_side.png"
   ],
   "custom_1_soggyswamp.png": [
     "soggyswamp/images/blocks/custom_1.png"
@@ -9592,7 +9585,8 @@
     "soggyswamp/images/blocks/custom_13.png"
   ],
   "custom_14_soggyswamp.png": [
-    "soggyswamp/images/blocks/custom_14.png"
+    "soggyswamp/images/blocks/custom_14.png",
+    "soggyswamp/images/blocks/custom_15.png"
   ],
   "custom_2_soggyswamp.png": [
     "soggyswamp/images/blocks/custom_2.png"
@@ -9643,7 +9637,9 @@
     "soggyswamp/images/blocks/fern.png"
   ],
   "grass_side_soggyswamp.png": [
-    "soggyswamp/images/blocks/grass_side.png"
+    "soggyswamp/images/blocks/grass_side.png",
+    "soggyswamp/images/blocks/sandstone_custom1_side.png",
+    "soggyswamp/images/blocks/sandstone_custom2_side.png"
   ],
   "grass_top_soggyswamp.png": [
     "soggyswamp/images/blocks/grass_top.png",
@@ -9716,14 +9712,8 @@
   "quartz_block_side-38.png": [
     "soggyswamp/images/blocks/quartz_block_side-38.png"
   ],
-  "sandstone_custom1_side_soggyswamp.png": [
-    "soggyswamp/images/blocks/sandstone_custom1_side.png"
-  ],
   "sandstone_custom1_top_soggyswamp.png": [
     "soggyswamp/images/blocks/sandstone_custom1_top.png"
-  ],
-  "sandstone_custom2_side_soggyswamp.png": [
-    "soggyswamp/images/blocks/sandstone_custom2_side.png"
   ],
   "sandstone_custom2_top_soggyswamp.png": [
     "soggyswamp/images/blocks/sandstone_custom2_top.png"
@@ -9733,9 +9723,6 @@
   ],
   "sandstone_custom3_top_soggyswamp.png": [
     "soggyswamp/images/blocks/sandstone_custom3_top.png"
-  ],
-  "sandstone_custom4_side_soggyswamp.png": [
-    "soggyswamp/images/blocks/sandstone_custom4_side.png"
   ],
   "sandstone_custom4_top_soggyswamp.png": [
     "soggyswamp/images/blocks/sandstone_custom4_top.png"
@@ -9748,9 +9735,6 @@
   ],
   "stone_path_side_soggyswamp.png": [
     "soggyswamp/images/blocks/stone_path_side.png"
-  ],
-  "stone_path_top_soggyswamp.png": [
-    "soggyswamp/images/blocks/stone_path_top.png"
   ],
   "tallgrass_soggyswamp.png": [
     "soggyswamp/images/blocks/tallgrass.png"
