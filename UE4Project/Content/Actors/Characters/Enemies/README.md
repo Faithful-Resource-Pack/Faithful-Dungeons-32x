@@ -3,6 +3,17 @@
 - [x] 1/1 `/CaveSpider`
 - [x] 2/2 `/Enderman`
 - [x] 2/2 `/Husk`
+- [x] 2/2 `/Creeper`
+- [x] 2/2 `/Enderman`
+- [x] 1/1 `/JungleZombie`
+- [x] 2/2 `/Zombie`
+- [x] 2/2 `/MobSpawner`
+- [x] 2/2 `/Phantom`
+- [x] 2/2 `/Skeleton`
+- [x] 2/2 `/Slime`
+- [x] 2/2 `/Witch`
+- [x] 2/2 `/Illagers/Vindicator`
+- [x] 2/2 `/Illagers/Pillager`
 - [ ] 0/2 `/Illagers/Evoker`
     - [x] 1/1 `/Fang`
 - [x] 1/1 `/Mooshroom`
