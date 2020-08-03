@@ -9,8 +9,8 @@
 
 > Follow this tutorial if you don't know how to use commands: [YouTube Link](https://www.youtube.com/watch?v=Jey1GH8CERI)
 
-## remove_alpha.py:
-![header](https://i.imgur.com/tD2wjr8.png){:height="50%" width="50%"}
+## remove_alpha.py: 
+<img src="https://i.imgur.com/tD2wjr8.png" width="192" height="64">
 > From Alpha to Opaque
 
 Set transparent pixel to 0 (make them opaque)
@@ -18,7 +18,7 @@ Set transparent pixel to 0 (make them opaque)
 - Give`RESULT_remove_alpha.png`
 
 ## get_alpha.py:
-![header](https://i.imgur.com/BVkyAEG.png){:height="50%" width="50%"}
+<img src="https://i.imgur.com/BVkyAEG.png" width="192" height="64">
 
 > From Opaque to Alpha
 
@@ -27,7 +27,7 @@ Set **all** pixels transparents,
 - Give`RESULT_remove_alpha.png`
 
 ## merge_alpha_layers.py:
-![header](https://i.imgur.com/UluBq4C.png){:height="50%" width="50%"}
+<img src="https://i.imgur.com/UluBq4C.png" width="192" height="192">
 
 > Merge easily both types
 
