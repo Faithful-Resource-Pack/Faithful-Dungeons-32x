@@ -1,8 +1,8 @@
 try:
     from PIL import Image
 except ImportError:
-	print("You need to install pillow, use those commands:\n> python3 -m pip install --upgrade pip\n> ython3 -m pip install --upgrade Pillow")
-	print("Follow this tutorial if you don't know how to use commands: https://www.youtube.com/watch?v=Jey1GH8CERI")
+	from pip._internal import main as pipmain
+	pipmain(['install', 'pillow'])
 
 try: 
 	img = Image.open('BASE_get_alpha.png').convert('RGBA')

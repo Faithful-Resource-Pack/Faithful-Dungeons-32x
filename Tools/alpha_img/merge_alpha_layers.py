@@ -6,8 +6,8 @@ layer1 : image with alpha channel (transparency)
 try:
     from PIL import Image
 except ImportError:
-	print("You need to install pillow, use those commands:\n> python3 -m pip install --upgrade pip\n> ython3 -m pip install --upgrade Pillow")
-	print("Follow this tutorial if you don't know how to use commands: https://www.youtube.com/watch?v=Jey1GH8CERI")
+	from pip._internal import main as pipmain
+	pipmain(['install', 'pillow'])
 
 try: 
 	layer0 = Image.open('BASE_merge_alpha_layer0.png').convert('RGBA')
