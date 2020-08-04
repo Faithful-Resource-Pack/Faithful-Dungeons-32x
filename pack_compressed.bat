@@ -49,6 +49,15 @@ python Tools\py\u4pak.py pack "compressed_pack.pak" Dungeons -z -p
 
 echo ------------------------------------------------------------
 echo(
+echo Removing useless files...
+echo(
+echo ------------------------------------------------------------
+cd Tools
+python py\delete_uasset_files.py
+cd..
+
+echo ------------------------------------------------------------
+echo(
 echo Packing is done. You can close this window now.
 echo(
 echo ------------------------------------------------------------
