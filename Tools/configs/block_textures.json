@@ -3881,24 +3881,6 @@
     "obsidianpinnacle/images/blocks/quartz_block_chiseled_top.png",
     "squidcoast/images/blocks/quartz_block_chiseled_top.png"
   ],
-  "quartz_block_lines - copy.png": [	
-    "bamboobluff/images/blocks/quartz_block_lines - Copy.png",	
-    "creeperwoods/images/blocks/quartz_block_lines - Copy.png",	
-    "deserttemple/images/blocks/quartz_block_lines - Copy.png",	
-    "dingyjungle/images/blocks/quartz_block_lines - Copy.png",	
-    "highblockhalls/images/blocks/quartz_block_lines - Copy.png",	
-    "jungle/images/blocks/quartz_block_lines - Copy.png",	
-    "mooncorecaverns/images/blocks/quartz_block_lines.png",	
-    "mooncorecaverns/images/blocks/quartz_block_lines - Copy.png",	
-    "mycelia/images/blocks/quartz_block_lines - Copy.png",	
-    "obsidianpinnacle/images/blocks/quartz_block_lines.png",	
-    "obsidianpinnacle/images/blocks/quartz_block_lines - Copy.png",	
-    "overgrowntemple/images/blocks/quartz_block_lines - Copy.png",	
-    "pumpkinpastures/images/blocks/quartz_block_lines - Copy.png",	
-    "redstonemines/images/blocks/quartz_block_lines - Copy.png",	
-    "soggyswamp/images/blocks/quartz_block_lines - Copy.png",	
-    "squidcoast/images/blocks/quartz_block_lines - Copy.png"	
-  ],
   "quartz_block_lines.png": [
     "bamboobluff/images/blocks/quartz_block_lines.png",
     "cacticanyon/images/blocks/quartz_block_lines.png",
@@ -4204,19 +4186,17 @@
     "deserttemple/images/blocks/redstone_lamp_on.png",
     "highblockhalls/images/blocks/redstone_lamp_on.png",
     "jungle/images/blocks/redstone_lamp_on.png",
+    "jungle/images/blocks/redstone_lamp_on_emissive.png",
     "mooncorecaverns/images/blocks/redstone_lamp_on.png",
+    "mooncorecaverns/images/blocks/redstone_lamp_on_emissive.png",
     "mycelia/images/blocks/redstone_lamp_on.png",
+    "mycelia/images/blocks/redstone_lamp_on_emissive.png",
     "obsidianpinnacle/images/blocks/redstone_lamp_on.png",
     "pumpkinpastures/images/blocks/redstone_lamp_on.png",
+    "pumpkinpastures/images/blocks/redstone_lamp_on_emissive.png",
     "redstonemines/images/blocks/redstone_lamp_on.png",
     "soggyswamp/images/blocks/redstone_lamp_on.png",
-    "squidcoast/images/blocks/redstone_lamp_on.png"
-  ],
-  "redstone_lamp_on_emissive.png": [
-    "jungle/images/blocks/redstone_lamp_on_emissive.png",
-    "mooncorecaverns/images/blocks/redstone_lamp_on_emissive.png",
-    "mycelia/images/blocks/redstone_lamp_on_emissive.png",
-    "pumpkinpastures/images/blocks/redstone_lamp_on_emissive.png",
+    "squidcoast/images/blocks/redstone_lamp_on.png",
     "squidcoast/images/blocks/redstone_lamp_on_emissive.png"
   ],
   "redstone_ore.png": [
@@ -4288,7 +4268,8 @@
     "squidcoast/images/blocks/red_sand.png"
   ],
   "red_sandstone_bottom.png": [
-    "squidcoast/images/blocks/red_sandstone_bottom.png"
+    "squidcoast/images/blocks/red_sandstone_bottom.png",
+    "squidcoast/images/blocks/red_sandstone_normal.png"
   ],
   "red_sandstone_carved.png": [
     "cacticanyon/images/blocks/red_sandstone_carved.png",
@@ -4297,9 +4278,6 @@
     "obsidianpinnacle/images/blocks/red_sandstone_carved.png",
     "redstonemines/images/blocks/red_sandstone_carved.png",
     "squidcoast/images/blocks/red_sandstone_carved.png"
-  ],
-  "red_sandstone_normal.png": [
-    "squidcoast/images/blocks/red_sandstone_normal.png"
   ],
   "red_sandstone_smooth.png": [
     "cacticanyon/images/blocks/red_sandstone_smooth.png",
@@ -4362,7 +4340,9 @@
     "squidcoast/images/blocks/repeater_on.png"
   ],
   "sand.png": [
+    "deserttemple/images/blocks/hardened_clay_stained_magenta.png",
     "deserttemple/images/blocks/sand.png",
+    "deserttemple/images/blocks/snow.png",
     "highblockhalls/images/blocks/sand.png",
     "mooncorecaverns/images/blocks/sand.png",
     "mycelia/images/blocks/sand.png",
@@ -6367,18 +6347,17 @@
   ],
   "red_sandstone_bottom_bamboobluff.png": [
     "bamboobluff/images/blocks/red_sandstone_bottom.png",
+    "bamboobluff/images/blocks/red_sandstone_normal.png",
     "dingyjungle/images/blocks/red_sandstone_bottom.png",
     "overgrowntemple/images/blocks/red_sandstone_bottom.png"
+    "dingyjungle/images/blocks/red_sandstone_normal.png",
+    "overgrowntemple/images/blocks/red_sandstone_bottom.png",
+    "overgrowntemple/images/blocks/red_sandstone_normal.png"
   ],
   "red_sandstone_carved_bamboobluff.png": [
     "bamboobluff/images/blocks/red_sandstone_carved.png",
     "dingyjungle/images/blocks/red_sandstone_carved.png",
     "overgrowntemple/images/blocks/red_sandstone_carved.png"
-  ],
-  "red_sandstone_normal_bamboobluff.png": [
-    "bamboobluff/images/blocks/red_sandstone_normal.png",
-    "dingyjungle/images/blocks/red_sandstone_normal.png",
-    "overgrowntemple/images/blocks/red_sandstone_normal.png"
   ],
   "red_sandstone_smooth_bamboobluff.png": [
     "bamboobluff/images/blocks/red_sandstone_smooth.png",
@@ -7601,10 +7580,6 @@
   ],
   "gravel_path_top_deserttemple.png": [
     "deserttemple/images/blocks/gravel_path_top.png"
-  ],
-  "hardened_clay_stained_magenta_deserttemple.png": [
-    "deserttemple/images/blocks/hardened_clay_stained_magenta.png",
-    "deserttemple/images/blocks/snow.png"
   ],
   "leaves_acacia_cacticanyon.png": [
     "cacticanyon/images/blocks/leaves_acacia.png",
