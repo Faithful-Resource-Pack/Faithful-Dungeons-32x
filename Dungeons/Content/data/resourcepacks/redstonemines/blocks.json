@@ -260,7 +260,7 @@
 		"textures" : { "up" : "crafting_table_top", "down" : "crafting_table_bottom", "north" : "crafting_table_front",  "south" : "crafting_table_front", "west" : "crafting_table_side",  "east" : "crafting_table_side"}
 	},
 	"wheat" : { 
-		"blockshape" : "rows",
+		"blockshape" : "cross_texture",
 		"textures" : "wheat"
 	},
 	"farmland" : { 
@@ -510,7 +510,7 @@
 		"textures" : "nether_brick"
 	},
 	"nether_wart" : { 
-		"blockshape" : "rows",
+		"blockshape" : "cross_texture",
 		"textures" : "nether_wart"
 	},
 	"enchanting_table" : { 
@@ -546,11 +546,11 @@
 		"textures" : "flower_pot"
 	},
 	"carrots" : { 
-		"blockshape" : "rows",
+		"blockshape" : "cross_texture",
 		"textures" : "carrots"
 	},
 	"potatoes" : { 
-		"blockshape" : "rows", 
+		"blockshape" : "cross_texture", 
 		"textures" : "potatoes"
 	},
 	"skull" : { 
@@ -737,7 +737,7 @@
 		"textures" : { "up" : "dirt_podzol_top", "down" : "dirt_podzol_bottom", "side" : "dirt_podzol_side"}
 	},
 	"beetroot" : { 
-		"blockshape" : "rows", 
+		"blockshape" : "cross_texture", 
 		"textures" : "beetroot"
 	},
 	"stonecutter" : { 
