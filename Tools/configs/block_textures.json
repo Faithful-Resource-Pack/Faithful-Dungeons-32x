@@ -3058,8 +3058,7 @@
   ],
   "leaves_birch.png": [
     "mooncorecaverns/images/blocks/leaves_birch.png",
-    "squidcoast/images/blocks/leaves_birch.png",
-	"squidcoast/images/blocks/leaves_oak.png"
+    "squidcoast/images/blocks/leaves_birch.png"
   ],
   "leaves_birch_carried.png": [
     "mooncorecaverns/images/blocks/leaves_birch_carried.png",
