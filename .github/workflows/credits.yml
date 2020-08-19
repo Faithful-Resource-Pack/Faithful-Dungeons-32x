@@ -1,28 +1,14 @@
-name: Get Credits for Textures
-
-on: push
-
+name: push-develop
+on: [push]
 jobs:
-  first:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2.1.0
-      - uses: jitterbit/get-changed-files@v1
-        id: abc
+      - id: file_changes
+        uses: trilom/file-changes-action@v1.2.3
         with:
-          format: space-delimited
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Printing
+          output: ','
+          fileOutput: ','
+      - name: test
         run: |
-          echo "All:"
-          echo "${{ steps.abc.outputs.all }}"
-          echo "Added:"
-          echo "${{ steps.abc.outputs.added }}"
-          echo "Removed:"
-          echo "${{ steps.abc.outputs.removed }}"
-          echo "Renamed:"
-          echo "${{ steps.abc.outputs.renamed }}"
-          echo "Modified:"
-          echo "${{ steps.abc.outputs.modified }}"
-          echo "Added+Modified:"
-          echo "${{ steps.abc.outputs.added_modified }}"
+          cat $HOME/files.csv
