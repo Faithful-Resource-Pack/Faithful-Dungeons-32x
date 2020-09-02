@@ -1,7 +1,4 @@
-![header](https://raw.githubusercontent.com/Faithful-Dungeons/Resource-Pack/master/UE4Project/Content/UI/Materials/Menu/logo_mainscreen.png)
-# MAKE AND RENDER ITEMS AND EQUIPMENT: THE GUIDE
-> For complete 3D Modeling Rookies
-> Made by Pomik108 & Adapted to Markdown by Juknum
+![header](https://i.imgur.com/8GKOO62.png)
 
 When making a mod for Minecraft: Dungeons, it is important to know that most weapons, melee and ranged, are not like items in Java or Bedrock Edition - their model is not generated from their texture, but rather it's made to fit it. This tutorial will show you how to make and render models for your own, custom item textures. Never worked with any 3D modelling software of any kind? Not to worry, this tutorial will show you exactly what to do, without any need for previous 3D modelling knowledge! Let's get started:
 
@@ -40,7 +37,7 @@ When you're finished making a texture for your item, it should look something li
 ![](https://i.imgur.com/n483Ej8.png)  
 This is the texture that you want to use in your mod. For our purposes we'll need another, slightly modified texture. Make a copy of your texture and modify that. For your texture to work properly with Blockbench, you need to get rid of all the parts that you do not want to be included in the model. In this case we need to remove the palette thingy, but depending on the texture you might also need to make the background transparent etc.  
 This is how your texture should look before importing to Blockbench:
-![](https://i.imgur.com/EybsujV.png)
+![](https://i.imgur.com/EybsujV.png)  
 
 Now with that out of the way, let's get to modelling itself!
 
@@ -93,4 +90,19 @@ If you've done everything correctly, your model should look roughly like this:
 ![](https://i.imgur.com/ov1P1PW.png)  
 ### 6. Position and scale your model
 Now it's time to position your model to fit the default scale and placement. To do that we're going to use the default item model.  
-For importing Unreal skeletal meshes into Blender we're gonna need the Import Unreal Skeletal Mesh add-on. To install it, go to `Edit > Preferences`, then in the window that pops up go into the Add-ons tab, click the Install button and navigate to where you saved the .py file 
+For importing Unreal skeletal meshes into Blender we're gonna need the Import Unreal Skeletal Mesh add-on. To install it, go to `Edit > Preferences`, then in the window that pops up go into the Add-ons tab, click the Install button and navigate to where you saved the .py file  
+![](https://i.imgur.com/ienKLnB.png)  
+When you've installed the add-on, make sure it's enabled by ticking the box below in the Add-ons tab and checking if the add-on is present in the list. (if it's not, untick the box, find the add-on and enable it manually.)  
+![](https://i.imgur.com/eEqly35.png)  
+Now you can import the default model by going to File > Import, selecting Skeleton mesh (.psk) and navigating to the model.  
+![](https://i.imgur.com/p8nQCBY.png)  
+Now that you've imported the model you can scale, move and rotate your custom one to fit the default like so:  
+![](https://i.imgur.com/V3U6CKk.png)  
+**TIP:** You can use a present view (like topdown) by clicking any of these points on the top right corner  for more accurate positioning.  
+![](https://i.imgur.com/YHsPzwZ.png)  
+You don't have to be super precise though - just try to roughly match the position and size of the default model.  
+
+When you're finished, delete the default model by selecting it, right clicking it and selecting Delete.  
+
+
+**NOTE: The text version of this tutorial is not finished yet! You can find a finished image version of the tutorial ![here](https://cdn.discordapp.com/attachments/715508829458006077/749616847011446854/modelling_rendering_tutorial_2.png).**
