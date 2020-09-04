@@ -24,7 +24,7 @@ Here's how to do it:
 1. Go to Edit tab up top, then select Preferences. A window should pop up.
 ![](https://i.imgur.com/Yp9oT3f.png)
 
-2. In that window, go to the Input tab and check the `Emulate 3 Button Mouse` and `Emulate Numpad` boxes. ![](https://i.imgur.com/dpFHbYI.png) 
+2. In that window, go to the Input tab and check the `Emulate 3 Button Mouse` and `Emulate Numpad` boxes. ![](https://i.imgur.com/dpFHbYI.png)
 By default, `alt`+`LMB` will be registered as `MMB`. If you emulate the numpad, you can access the numpad hotkeys by pressing numbers in the top row of the keyboard (do NOT press shift!). The emulation will overide some existing hotkeys placed on the numerical row, but we don't need them anyway, so don't worry about that.
 
 Additionally, if you've got an Apple Magic Mouse, on top of having to emulate a 3 button mouse the view controls are a bit different:  
@@ -88,6 +88,7 @@ Now you can fix the texture filtering by going into this dropdown menu and selec
 ![](https://i.imgur.com/vtITG8N.png)  
 If you've done everything correctly, your model should look roughly like this:  
 ![](https://i.imgur.com/ov1P1PW.png)  
+
 ### 6. Position and scale your model
 Now it's time to position your model to fit the default scale and placement. To do that we're going to use the default item model.  
 For importing Unreal skeletal meshes into Blender we're gonna need the Import Unreal Skeletal Mesh add-on. To install it, go to `Edit > Preferences`, then in the window that pops up go into the Add-ons tab, click the Install button and navigate to where you saved the .py file  
@@ -104,5 +105,39 @@ You don't have to be super precise though - just try to roughly match the positi
 
 When you're finished, delete the default model by selecting it, right clicking it and selecting Delete.  
 
+### 7. Export your model as FBX
+You can export your model into the FBX format by going to File > Export and then selecting FBX.  
+![](https://i.imgur.com/kWZm481.png)  
+In the widnow that pops up you can navigate to your desired file location. That's not all tough - we'll also need to change some settings in the tab on the right side. Set the scale in the Transform tab to 0.01 and then, in the Geometry tab, set Smoothing to Face.  
+![](https://i.imgur.com/HGml35u.png)  
+Next, look at the model's name in the default game files and name your model that.  
+![](https://i.imgur.com/8fz2F8K.png)  
+Finally, click the blue Export button to finish the process.  
+![](https://i.imgur.com/hTgN7Gx.png)  
+Congratulations! You've made it through the entire modelling process and now have a model that will function properly when put into a mod!  
+
+This is the end of the tutorial for those of you that are making items like the apple health drop, which do not require a render. But if you're making a model of a weapon - or just need to make a render - get ready for the next part:  
+
+## PART 2: RENDERING
+### 0. Import your model
+(if you've followed the tutorial up to this part, you can skip this step.)  
+
+To import the model ripped from Minecraft: Dungeons we will need to install the Import Unreal Skeletal Mesh add-on for Blender. To do that, go to Edit > Preferences, then in the window that pops up go into the Add-ons tab, click the install button and navigate to where you saved the.py file.  
+![](https://i.imgur.com/fCHtBF1.png)  
+When you've installed the add-on, make sure it's enabled by ticking the box below in the Add-ons tab and checking if the add-on is present in the list. (if it's not, untick the box, find the add-on and enable it manually.)  
+![](https://i.imgur.com/rYNtWu9.png)  
+Now you can import the default model by going to File > Import, selecting Skeleton mesh (.psk) and navigating to the model.  
+![](https://i.imgur.com/jsNQY8x.png)  
+
+### 1. Set up a material (again)
+First, check if the Use Nodes button in the red checkered circle tab is blue. If it's not, click on it to make it blue.  
+![](https://i.imgur.com/EsZDtMy.png)  
+Then switch to the Shader Editor using this menu up top:  
+![](https://i.imgur.com/6iBFkoE.png)  
+The tab should change into a node editor. Enlarge it so you can see it better and then make it look like this:  
+![](https://i.imgur.com/LuvEBYN.png)  
+**TIP:** You can add a node by pressing Shift + A, selecting Search and then typing the node's name. You can also zoom in and out using Ctrl + scroll.
+TO connect two nodes together just click and drag from one point (as seen above) to another with your mouse.  
+![](https://i.imgur.com/miyObJ1.png)  
 
 **NOTE: The text version of this tutorial is not finished yet! You can find a finished image version of the tutorial ![here](https://cdn.discordapp.com/attachments/715508829458006077/749616847011446854/modelling_rendering_tutorial_2.png).**
