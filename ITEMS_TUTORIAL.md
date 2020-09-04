@@ -140,4 +140,50 @@ The tab should change into a node editor. Enlarge it so you can see it better an
 TO connect two nodes together just click and drag from one point (as seen above) to another with your mouse.  
 ![](https://i.imgur.com/miyObJ1.png)  
 
-**NOTE: The text version of this tutorial is not finished yet! You can find a finished image version of the tutorial ![here](https://cdn.discordapp.com/attachments/715508829458006077/749616847011446854/modelling_rendering_tutorial_2.png).**
+### 2. Add a light
+First of all, your model is probably HUGE because Minecraft: Dungeons scales it down. This can cause some issues with lightning, so make your model smaller before doing anything.
+Next, delete any lights that might've been added by Blender when you created the model. Just select them, right click and select Delete. They look like this:  
+![](https://i.imgur.com/7SgY9ZZ.png)  
+Before adding a light, switch to Render mode (the third circle in the top right menu) to see the changes properly.  
+![](https://i.imgur.com/kkoxtSa.png)  
+Now you can add a light by pressing Shift + A while hovering above the model view, going to Light and selecting Sun.  
+![](https://i.imgur.com/6RyTKpN.png)  
+Now move and rotate the sun while trying to roughly match the lightning of the default render. You can also move and rotate the model itself to help you out.
+**TIP:** You can adjust the strength of your sun on this slider in the right-side menu while having the sun selected:  
+![](https://i.imgur.com/aaXdkLx.png)  
+When you're done you should get something that matches the default view and lightning pretty closely:  
+![](https://i.imgur.com/niM0DWs.png)  
+
+### 3. Set up a camera
+For Blender to actually know what to render, we need to set up a camera.
+First, we will enable an add-on that will make handling the camera easier. To do it, go to Edit > Preferences, open the Add-ons tab, find the add-on called "3D View: Stored views" and enable it like so:  
+![](https://i.imgur.com/7WxCA7y.png)  
+Next, click this little arrow next to the axis cross thing:  
+![](https://i.imgur.com/KQS7BLa.png)  
+A menu should pop up. Open the View tab and check the Lock Camera to View box.  
+![](https://i.imgur.com/Ke41dFh.png)  
+Next, select a camera that should already be placed somewhere in your project. It should look like this:  
+![](https://i.imgur.com/2iyr0Gl.png)  
+Now rotate your view around so you get a view that looks the most like the default one. After that open the Stored Views tab, click Initialize and then click Camera to View. This will move the selected camera to your viewpoint.  
+![](https://i.imgur.com/yU7HCCh.png)  
+Now press Numpad 0 to switch to camera view.  
+
+### 4. Configure output and Render
+We're almost done! The only thing left to do is to configure the resolution and transparency of the output render.
+You can make the output transparent by going to this tab in the menu on the right side, opening the Film tab and checking the Transparent box.  
+![](https://i.imgur.com/oEzMfRo.png)  
+For the resolution control, first get the default render and see how big it is. (There are usually 2 renders - and yes, you'll be rendering your model twice.)
+When you've located the resolution of the default render, go to the tab in Blender immediately below the one you just opened and set the resolution in the first two fields.  
+![](https://i.imgur.com/MdYU46w.png)  
+(You can then pan and zoom your view a bit so your model is roughly in the centre of the square.)  
+
+Before we get to the render itself, select your sun, go to the tab with the lightbulb and uncheck the Shadow box.  
+![](https://i.imgur.com/j6Upsv5.png)  
+Now you can finally initiate the render by pressing F12 (fn + F12 on mac).  
+
+When the render is finished, you can save it by going to Image > Save as.  
+![](https://i.imgur.com/WzLiNXw.png)  
+And there you have it! You have made yourself a model and render that is usable in Minecraft: Dungeons!  
+![](https://i.imgur.com/HRcHVeM.png)  
+
+Thank you so much for reading this tutorial, and good luck with your mod!  
