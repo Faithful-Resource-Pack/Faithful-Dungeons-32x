@@ -171,19 +171,29 @@ Now press Numpad 0 to switch to camera view.
 ### 4. Configure output and Render
 We're almost done! The only thing left to do is to configure the resolution and transparency of the output render.
 You can make the output transparent by going to this tab in the menu on the right side, opening the Film tab and checking the Transparent box.  
+
 ![](https://i.imgur.com/oEzMfRo.png)  
+
 For the resolution control, first get the default render and see how big it is. (There are usually 2 renders - and yes, you'll be rendering your model twice.)
 When you've located the resolution of the default render, go to the tab in Blender immediately below the one you just opened and set the resolution in the first two fields.  
+
 ![](https://i.imgur.com/MdYU46w.png)  
+
 (You can then pan and zoom your view a bit so your model is roughly in the centre of the square.)  
 
+
 Before we get to the render itself, select your sun, go to the tab with the lightbulb and uncheck the Shadow box.  
+
 ![](https://i.imgur.com/j6Upsv5.png)  
+
 Now you can finally initiate the render by pressing F12 (fn + F12 on mac).  
 
 When the render is finished, you can save it by going to Image > Save as.  
+
 ![](https://i.imgur.com/WzLiNXw.png)  
+
 And there you have it! You have made yourself a model and render that is usable in Minecraft: Dungeons!  
+
 ![](https://i.imgur.com/HRcHVeM.png)  
 
 Thank you so much for reading this tutorial, and good luck with your mod!  
