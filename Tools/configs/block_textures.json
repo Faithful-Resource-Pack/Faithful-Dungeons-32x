@@ -4914,7 +4914,9 @@
     "overgrowntemple/images/blocks/trapdoor.png",
     "pumpkinpastures/images/blocks/trapdoor.png",
     "redstonemines/images/blocks/trapdoor.png",
-    "soggyswamp/images/blocks/trapdoor.png",
+    "soggyswamp/images/blocks/trapdoor.png"
+  ],
+  "trapdoor_squidcoast.png": [
     "squidcoast/images/blocks/trapdoor.png"
   ],
   "trip_wire.png": [
