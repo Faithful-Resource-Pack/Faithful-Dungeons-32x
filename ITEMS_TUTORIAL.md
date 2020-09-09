@@ -2,13 +2,15 @@
 
 When making a mod for Minecraft: Dungeons, it is important to know that most weapons, melee and ranged, are not like items in Java or Bedrock Edition - their model is not generated from their texture, but rather it's made to fit it. This tutorial will show you how to make and render models for your own, custom item textures. Never worked with any 3D modelling software of any kind? Not to worry, this tutorial will show you exactly what to do, without any need for previous 3D modelling knowledge! Let's get started:
 
-### You will need:
+![](https://i.imgur.com/R7Re1bm.png)  
+
 - [Blockbench 3.6.6+](https://blockbench.net/)
 - [Blender 2.80+](https://www.blender.org/)
 - Import Unreal Skeletal Mesh add-on for Blender (download below)
 - Minecraft: Dungeons default game files
 
-## PART 0: CONTROLS AND HOTKEYS
+![](https://i.imgur.com/bdezcs2.png)  
+
 ### Blockbench:
 ![](https://i.imgur.com/rlI2rPa.png)
 ### Blender:
@@ -32,8 +34,10 @@ Additionally, if you've got an Apple Magic Mouse, on top of having to emulate a 
 ![](https://i.imgur.com/1EcYFCb.png)
 > All other controls are the same.
 
-## PART 1: MODELLING
-### 1. Prepare a texture
+![](https://i.imgur.com/pPNkTzz.png)  
+
+![](https://i.imgur.com/L784Kg4.png)  
+
 When you're finished making a texture for your item, it should look something like this:
 
 ![](https://i.imgur.com/n483Ej8.png)  
@@ -45,7 +49,8 @@ This is how your texture should look before importing to Blockbench:
 
 Now with that out of the way, let's get to modelling itself!
 
-### 2. Extrude texture in Blockbench
+![](https://i.imgur.com/KCZn07S.png)  
+
 Upon opening Blockbench you should get to this screen:
 
 ![](https://i.imgur.com/t8M7XQy.png)  
@@ -72,14 +77,16 @@ Finally, right click on the texture under the Textures tab, and then change the 
 
 If you done that correctly, you shouldn't see a visual change.
 
-### 3. Export the model as OBJ
+![](https://i.imgur.com/DN4VrKd.png)  
+
 You can do that by going to `File > Export` and then selecting `Export OBJ Model`.  
 
 ![](https://i.imgur.com/0ZdKX3R.png)  
 
 Save the OBJ file somewhere you can find it - you'll need it in the next step:
 
-### 4. Import the model into Blender
+![](https://i.imgur.com/47U0LyW.png)  
+
 > Time to get our hands dirty in Blender!
 
 Upon opening you should see small window pop up - don't change anything in there, just clicl away so the window disappears.  
@@ -103,7 +110,8 @@ Additionally, you can box select all the part of your model, shift-click on one 
 This will make it easier to edit the model all at once.
 We don't want the textures this blurry though! To fix that you'll need to   
 
-### 5. Set up a material
+![](https://i.imgur.com/1xxZqhX.png)  
+
 You can edit your material by clicking on the red checkered circle in the tab on the right:  
 
 ![](https://i.imgur.com/12i2rgD.png)  
@@ -125,7 +133,8 @@ If you've done everything correctly, your model should look roughly like this:
 ![](https://i.imgur.com/ov1P1PW.png)  
 
 
-### 6. Position and scale your model
+![](https://i.imgur.com/PrIzpYv.png)  
+
 Now it's time to position your model to fit the default scale and placement. To do that we're going to use the default item model.  
 For importing Unreal skeletal meshes into Blender we're gonna need the Import Unreal Skeletal Mesh add-on. To install it, go to `Edit > Preferences`, then in the window that pops up go into the Add-ons tab, click the Install button and navigate to where you saved the .py file  
 
@@ -151,7 +160,8 @@ You don't have to be super precise though - just try to roughly match the positi
 
 When you're finished, delete the default model by selecting it, right clicking it and selecting Delete.  
 
-### 7. Export your model as FBX
+![](https://i.imgur.com/untiEUO.png)  
+
 You can export your model into the FBX format by going to File > Export and then selecting FBX.  
 
 ![](https://i.imgur.com/kWZm481.png)  
@@ -172,8 +182,10 @@ Congratulations! You've made it through the entire modelling process and now hav
 
 This is the end of the tutorial for those of you that are making items like the apple health drop, which do not require a render. But if you're making a model of a weapon - or just need to make a render - get ready for the next part:  
 
-## PART 2: RENDERING
-### 0. Import your model
+![](https://i.imgur.com/sYhNfem.png)  
+
+![](https://i.imgur.com/UxChxTV.png)  
+
 (if you've followed the tutorial up to this part, you can skip this step.)  
 
 To import the model ripped from Minecraft: Dungeons we will need to install the Import Unreal Skeletal Mesh add-on for Blender. To do that, go to Edit > Preferences, then in the window that pops up go into the Add-ons tab, click the install button and navigate to where you saved the.py file.  
@@ -188,7 +200,8 @@ Now you can import the default model by going to File > Import, selecting Skelet
 
 ![](https://i.imgur.com/jsNQY8x.png)  
 
-### 1. Set up a material (again)
+![](https://i.imgur.com/HkdXs5E.png)  
+
 First, check if the Use Nodes button in the red checkered circle tab is blue. If it's not, click on it to make it blue.  
 
 ![](https://i.imgur.com/EsZDtMy.png)  
@@ -206,7 +219,8 @@ TO connect two nodes together just click and drag from one point (as seen above)
 
 ![](https://i.imgur.com/miyObJ1.png)  
 
-### 2. Add a light
+![](https://i.imgur.com/2fmsqgA.png)  
+
 First of all, your model is probably HUGE because Minecraft: Dungeons scales it down. This can cause some issues with lightning, so make your model smaller before doing anything.
 Next, delete any lights that might've been added by Blender when you created the model. Just select them, right click and select Delete. They look like this:  
 
@@ -229,7 +243,8 @@ When you're done you should get something that matches the default view and ligh
 
 ![](https://i.imgur.com/niM0DWs.png)  
 
-### 3. Set up a camera
+![](https://i.imgur.com/W200uwe.png)  
+
 For Blender to actually know what to render, we need to set up a camera.
 First, we will enable an add-on that will make handling the camera easier. To do it, go to Edit > Preferences, open the Add-ons tab, find the add-on called "3D View: Stored views" and enable it like so:  
 
@@ -253,7 +268,8 @@ Now rotate your view around so you get a view that looks the most like the defau
 
 Now press Numpad 0 to switch to camera view.  
 
-### 4. Configure output and Render
+![](https://i.imgur.com/4oXSBgJ.png)  
+
 We're almost done! The only thing left to do is to configure the resolution and transparency of the output render.
 You can make the output transparent by going to this tab in the menu on the right side, opening the Film tab and checking the Transparent box.  
 
