@@ -28,7 +28,7 @@ hashes = {}
 for png in [f.path.replace('\\', '/') for f in scantree(resourcepacks_dir) if f.name.endswith('.png') and '/images/blocks/' in f.path.replace('\\', '/')]:
   
   # Exclude some unneeded textures
-  if (re.search('- Copy', png, flags=re.IGNORECASE)):
+  if (re.search('- Copy|wheat_stage_0_squidcoast|wheat_stage_1_squidcoast|wheat_stage_2_squidcoast|wheat_stage_3_squidcoast|wheat_stage_4_squidcoast|wheat_stage_5_squidcoast|wheat_stage_6_squidcoast|wheat_stage_7_squidcoast', png, flags=re.IGNORECASE)):
     continue
 
   # Get the hash of the pixel values instead of the file, since some textures are identical,
