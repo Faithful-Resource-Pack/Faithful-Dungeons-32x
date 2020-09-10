@@ -26,11 +26,13 @@ Edit the text files in the `Tools/user_settings` folder to configure the tools:
 | -------- | -------- |
 | editor_directory.txt     | This contains the path to the folder where the Unreal Editor executables are.     |
 | package_output.txt     | This contains the path to the .pak file that the package.bat tool creates.     |
-| quickbms_export_dir.txt     | This contains the path to the folder where you have exported the game files using QuickBMS. This is only needed for the `Tools/copy_missing_blocks.bat` tool.     |
+| quickbms_export_dir.txt     | This contains the path to the folder where you have exported the game files using QuickBMS. This is only needed for the `Tools/copy_missing_blocks.bat` and `Tools/update_block_textures_config.bat` tools.     |
 
 Setting the package_output path to a file in your ~mods folder is recommended to make testing the mod easy.
 
 > A more detailed documentation can be found [here](https://github.com/Dokucraft/Dungeons-Mod-Kit)
+
+If an update for the game comes out and you don't want to wait for the mod kit to update, you can use the `Tools/update_block_textures_config.bat` tool to update it yourself. It requires the QuickBMS exported files of the game, and [Pillow](https://pypi.org/project/Pillow/), so make sure that is installed before you run it. After it's done, the block textures config should be updated.
 
 To build the pak you need to execute the package.bat file. This can take anywhere from 1 to 3 minutes depending on your hardware.
 
