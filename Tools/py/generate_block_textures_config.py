@@ -28,7 +28,7 @@ hashes = {}
 for png in [f.path.replace('\\', '/') for f in scantree(resourcepacks_dir) if f.name.endswith('.png') and '/images/blocks/' in f.path.replace('\\', '/')]:
   
   # Exclude some unneeded textures
-  if (re.search('carried|reactor|camera|destroy_|build_|chest_| - Copy', png, flags=re.IGNORECASE)):
+  if (re.search('- Copy', png, flags=re.IGNORECASE)):
     continue
 
   # Get the hash of the pixel values instead of the file, since some textures are identical,
