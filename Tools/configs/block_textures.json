@@ -8611,6 +8611,11 @@
   "stone_granite_smooth_deserttemple.png": [
     "deserttemple/images/blocks/stone_granite_smooth.png"
   ],
+  "hardened_clay_stained_orange_jungle.png": [
+    "creeperwoods/images/blocks/hardened_clay_stained_orange.png",
+    "jungle/images/blocks/hardened_clay_stained_orange.png",
+    "pumpkinpastures/images/blocks/hardened_clay_stained_orange.png"
+  ],
   "stone_path_side_deserttemple.png": [
     "deserttemple/images/blocks/stone_path_side.png"
   ],
