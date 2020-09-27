@@ -1,6 +1,13 @@
-# Faithful Dungeons
-![Header](https://raw.githubusercontent.com/Faithful-Dungeons/Website/master/image/banner/banner.png)
-> Welcome to the official Faithful Dungeons repository! Here you can see our progress on the Faithful 32x recource pack for Minecraft Dungeons!
+<img src="https://i.imgur.com/9oNc1J2.png" alt="FaithfulDungeons" align="right" height="256px">
+<div align="center">
+  <h1>Faithful Dungeons</h1>
+  <h3>Faithful 32x for Minecraft Dungeons</h3>
+
+![RepoSize](https://img.shields.io/github/repo-size/Faithful-Dungeons/Resource-Pack)
+![Issues](https://img.shields.io/github/issues/Faithful-Dungeons/Resource-Pack)
+![PullRequests](https://img.shields.io/github/issues-pr/Faithful-Dungeons/Resource-Pack)
+![Downloads](https://img.shields.io/github/downloads/Faithful-Dungeons/Resource-Pack/total)
+</div>
 
 ## Info
 - All recently made textures will be uploaded here.
