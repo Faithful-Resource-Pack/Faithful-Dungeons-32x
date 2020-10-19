@@ -11,6 +11,8 @@ Tools/settings/quickbms_export_dir.txt
 
 # ignore files, add *.file_extension :
 UE4Project/Saved/Cooked/WindowsNoEditor/Dungeons/Metadata/CookedIniVersion.txt
+UE4Project/.vs/*
+UE4Project/Binaries/Win64/*.pdb
 Dungeons/**/*.uasset
 UE4Project/Saved/**
 Dungeons/**/*.ubulk

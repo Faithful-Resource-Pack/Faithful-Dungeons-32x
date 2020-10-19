@@ -42,7 +42,10 @@ del /S Dungeons\*.uexp
 del /S Dungeons\*.umap
 del /S Dungeons\*.ufont
 "%editorPath%\UE4Editor-Cmd.exe" "%ddp%\UE4Project\Dungeons.uproject" -run=cook -targetplatform=WindowsNoEditor
+
 robocopy /job:Tools\configs\copy_cooked_assets
+
+robocopy /S Precooked Dungeons 
 
 title [5/5] Packing...
 echo ------------------------------------------------------------
@@ -50,7 +53,7 @@ echo(
 echo [5/5] Packing...
 echo(
 echo ------------------------------------------------------------
-python Tools\py\u4pak.py pack "compressed_pack.pak" Dungeons -z -p
+python Tools\py\u4pak.py pack "1-FaithfulDungeons_beta.pak" Dungeons -z -p
 
 echo ------------------------------------------------------------
 echo(
