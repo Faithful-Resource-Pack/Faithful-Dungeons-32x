@@ -1,4 +1,7 @@
 {
+  "stonebrick_andesitehills.png": [
+    "andesitehills/images/blocks/stonebrick.png"
+  ],
   "anvil_base.png": [
     "bamboobluff/images/blocks/anvil_base.png",
     "cacticanyon/images/blocks/anvil_base.png",
@@ -3749,7 +3752,6 @@
     "bamboobluff/images/blocks/leaves_oak_carried.png",
     "dingyjungle/images/blocks/leaves_oak.png",
     "dingyjungle/images/blocks/leaves_oak_carried.png",
-    "overgrowntemple/images/blocks/leaves_oak.png",
     "overgrowntemple/images/blocks/leaves_oak_carried.png"
   ],
   "leaves_oak_opaque_bamboobluff.png": [
@@ -6215,7 +6217,6 @@
     "lostsettlement/images/blocks/_grass_side.png",
     "mycelia/images/blocks/_grass_side.png",
     "overgrowntemple/images/blocks/_grass_side.png",
-    "pumpkinpastures/images/blocks/_grass_side.png",
     "soggyswamp/images/blocks/_grass_side.png"
   ],
   "andesite.png": [
@@ -8611,11 +8612,6 @@
   "stone_granite_smooth_deserttemple.png": [
     "deserttemple/images/blocks/stone_granite_smooth.png"
   ],
-  "hardened_clay_stained_orange_jungle.png": [
-    "creeperwoods/images/blocks/hardened_clay_stained_orange.png",
-    "jungle/images/blocks/hardened_clay_stained_orange.png",
-    "pumpkinpastures/images/blocks/hardened_clay_stained_orange.png"
-  ],
   "stone_path_side_deserttemple.png": [
     "deserttemple/images/blocks/stone_path_side.png"
   ],
@@ -8654,8 +8650,7 @@
   "hardened_clay_stained_green_dingyjungle.png": [
     "dingyjungle/images/blocks/hardened_clay_stained_green.png",
     "dingyjungle/images/blocks/leaves_jungle.png",
-    "overgrowntemple/images/blocks/hardened_clay_stained_green.png",
-    "overgrowntemple/images/blocks/leaves_jungle.png"
+    "overgrowntemple/images/blocks/hardened_clay_stained_green.png"
   ],
   "hardened_clay_stained_red_dingyjungle.png": [
     "dingyjungle/images/blocks/hardened_clay_stained_red.png"
@@ -10938,8 +10933,7 @@
     "mycelia/images/blocks/custom_0.png"
   ],
   "custom_1_pumpkinpastures.png": [
-    "mycelia/images/blocks/custom_1.png",
-    "pumpkinpastures/images/blocks/custom_1.png"
+    "mycelia/images/blocks/custom_1.png"
   ],
   "custom_11_pumpkinpastures.png": [
     "mycelia/images/blocks/custom_11.png",
@@ -11137,6 +11131,12 @@
   "hardened_clay_stained_red_overgrowntemple.png": [
     "overgrowntemple/images/blocks/hardened_clay_stained_red.png"
   ],
+  "leaves_jungle_overgrowntemple.png": [
+    "overgrowntemple/images/blocks/leaves_jungle.png"
+  ],
+  "leaves_oak.png": [
+    "overgrowntemple/images/blocks/leaves_oak.png"
+  ],
   "leaves_spruce_overgrowntemple.png": [
     "overgrowntemple/images/blocks/leaves_spruce.png"
   ],
@@ -11145,6 +11145,9 @@
   ],
   "custom_0_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/custom_0.png"
+  ],
+  "custom_1_2.png": [
+    "pumpkinpastures/images/blocks/custom_1.png"
   ],
   "custom_2_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/custom_2.png"
@@ -11251,6 +11254,9 @@
   ],
   "vine_pumpkinpastures.png": [
     "pumpkinpastures/images/blocks/vine.png"
+  ],
+  "_grass_side_pumpkinpastures.png": [
+    "pumpkinpastures/images/blocks/_grass_side.png"
   ],
   "bookshelf_redstonemines.png": [
     "redstonemines/images/blocks/bookshelf.png"
@@ -11621,12 +11627,6 @@
   "mushroom_brown.png": [
     "squidcoast/images/blocks/mushroom_brown.png"
   ],
-  "grass_side.tga": [
-    "deserttemple/images/blocks/grass_side.tga",
-    "highblockhalls/images/blocks/grass_side.tga",
-    "mooncorecaverns/images/blocks/grass_side.tga",
-    "squidcoast/images/blocks/grass_side.tga"  
-  ], 
   "mushroom_red.png": [
     "squidcoast/images/blocks/mushroom_red.png"
   ],
