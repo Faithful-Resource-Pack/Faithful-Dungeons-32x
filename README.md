@@ -1,7 +1,7 @@
-<img src="https://i.imgur.com/9oNc1J2.png" alt="FaithfulDungeons" align="right" height="256px">
+<img src="https://i.imgur.com/9oNc1J2.png" alt="ComplianceDungeons" align="right" height="256px">
 <div align="center">
-  <h1>Faithful Dungeons</h1>
-  <h3>Faithful 32x for Minecraft Dungeons</h3>
+  <h1>Compliance Dungeons</h1>
+  <h3>Compliance 32x for Minecraft Dungeons</h3>
 
 ![RepoSize](https://img.shields.io/github/repo-size/Faithful-Dungeons/Resource-Pack)
 ![Issues](https://img.shields.io/github/issues/Faithful-Dungeons/Resource-Pack)
@@ -48,10 +48,9 @@ To build the pak you need to execute the package.bat file. This can take anywher
 Then you get the `.pak` exported where you set your path in `package_output.txt`
 
 ## Links
-- Faithful Website: https://faithful.team/
-- Faithful Dungeons Website: https://faithful-dungeons.github.io/Website/
-- Faithful Discord: https://discord.gg/pwnGtXs
-- Faithful Dungeons Discord: https://discord.gg/eeVpygu
+- Compliance Dungeons Website: https://faithful-dungeons.github.io/Website/
+- Compliance Discord: https://discord.gg/pwnGtXs
+- Compliance Dungeons Discord: https://discord.gg/eeVpygu
 
 ## Have a question?
-You can find some questions and answers in the [FAQ Wiki page](https://github.com/Faithful-Dungeons/Resource-Pack/wiki/FAQ). If your question isn't there then you can join our [Discord server](https://discord.gg/eeVpygu) and ask your question there!
+You can find some questions and answers in the [FAQ Wiki page](https://github.com/Compliance-Dungeons/Resource-Pack/wiki/FAQ). If your question isn't there then you can join our [Discord server](https://discord.gg/eeVpygu) and ask your question there!
