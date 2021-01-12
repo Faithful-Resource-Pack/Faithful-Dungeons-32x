@@ -1,23 +1,20 @@
-<img src="https://i.imgur.com/9oNc1J2.png" alt="ComplianceDungeons" align="right" height="256px">
+<img src="https://i.imgur.com/pNcC1c2.png" alt="ComplianceDungeons" align="right" height="256px">
 <div align="center">
   <h1>Compliance Dungeons</h1>
   <h3>Compliance 32x for Minecraft Dungeons</h3>
 
-![RepoSize](https://img.shields.io/github/repo-size/Faithful-Dungeons/Resource-Pack)
-![Issues](https://img.shields.io/github/issues/Faithful-Dungeons/Resource-Pack)
-![PullRequests](https://img.shields.io/github/issues-pr/Faithful-Dungeons/Resource-Pack)
-![Downloads](https://img.shields.io/github/downloads/Faithful-Dungeons/Resource-Pack/total)
+![RepoSize](https://img.shields.io/github/repo-size/Compliance-Dungeons/Resource-Pack)
+![Issues](https://img.shields.io/github/issues/Compliance-Dungeons/Resource-Pack)
+![PullRequests](https://img.shields.io/github/issues-pr/Compliance-Dungeons/Resource-Pack)
+![Downloads](https://img.shields.io/github/downloads/Compliance-Dungeons/Resource-Pack/total)
 </div>
 
 ## Info
 - All recently made textures will be uploaded here.
 - The mod making tool this repository features was made by the [Dokucraft Team](https://github.com/Dokucraft).
-- If you find any Issues, please report them [here](https://github.com/Faithful-Dungeons/Resource-Pack/issues). 
+- If you find any Issues, please report them [here](https://github.com/Compliance-Dungeons/Resource-Pack/issues). 
 - This GitHub is structured in the same way as the [Dokucraft Tool](https://github.com/Dokucraft/Dungeons-Mod-Kit) provides.
 - If you're new to this project, check out [this flowchart](https://media.discordapp.net/attachments/716484045118373979/735067976918630430/texture_flowchart.png) about making and submitting textures.
-
-## Contributors
-[![](https://sourcerer.io/fame/RobertRR11/Faithful-Dungeons/Resource-Pack/images/0)](https://sourcerer.io/fame/RobertRR11/Faithful-Dungeons/Resource-Pack/links/0)[![](https://sourcerer.io/fame/RobertRR11/Faithful-Dungeons/Resource-Pack/images/1)](https://sourcerer.io/fame/RobertRR11/Faithful-Dungeons/Resource-Pack/links/1)[![](https://sourcerer.io/fame/RobertRR11/Faithful-Dungeons/Resource-Pack/images/2)](https://sourcerer.io/fame/RobertRR11/Faithful-Dungeons/Resource-Pack/links/2)[![](https://sourcerer.io/fame/RobertRR11/Faithful-Dungeons/Resource-Pack/images/3)](https://sourcerer.io/fame/RobertRR11/Faithful-Dungeons/Resource-Pack/links/3)[![](https://sourcerer.io/fame/RobertRR11/Faithful-Dungeons/Resource-Pack/images/4)](https://sourcerer.io/fame/RobertRR11/Faithful-Dungeons/Resource-Pack/links/4)[![](https://sourcerer.io/fame/RobertRR11/Faithful-Dungeons/Resource-Pack/images/5)](https://sourcerer.io/fame/RobertRR11/Faithful-Dungeons/Resource-Pack/links/5)[![](https://sourcerer.io/fame/RobertRR11/Faithful-Dungeons/Resource-Pack/images/6)](https://sourcerer.io/fame/RobertRR11/Faithful-Dungeons/Resource-Pack/links/6)[![](https://sourcerer.io/fame/RobertRR11/Faithful-Dungeons/Resource-Pack/images/7)](https://sourcerer.io/fame/RobertRR11/Faithful-Dungeons/Resource-Pack/links/7)
 
 ## How to compile:
 > You can compile our Resource Pack by yourself, but **according to our Licence, you can't distribute it or sell it.**
@@ -48,7 +45,7 @@ To build the pak you need to execute the package.bat file. This can take anywher
 Then you get the `.pak` exported where you set your path in `package_output.txt`
 
 ## Links
-- Compliance Dungeons Website: https://faithful-dungeons.github.io/Website/
+- Compliance Dungeons Website: https://compliancepack.net/#compliance-dungeons
 - Compliance Discord: https://discord.gg/pwnGtXs
 - Compliance Dungeons Discord: https://discord.gg/eeVpygu
 

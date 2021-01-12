@@ -53,7 +53,7 @@ echo(
 echo [5/5] Packing...
 echo(
 echo ------------------------------------------------------------
-python Tools\py\u4pak.py pack "1-FaithfulDungeons_beta.pak" Dungeons -z -p
+python Tools\py\u4pak.py pack "1-ComplianceDungeons_beta.pak" Dungeons -z -p
 
 echo ------------------------------------------------------------
 echo(
