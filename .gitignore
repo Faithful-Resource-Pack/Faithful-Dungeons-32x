@@ -1,11 +1,10 @@
-
-# ignore settings files :
+# ignore setting files:
 Tools/settings/editor_directory.txt
 Tools/settings/package_output.txt
 Tools/settings/quickbms_export_dir.txt
 
-# ignore files under Content/data/resourcepack (they are merged from Blocks Texture during packaging)
-# !! May cause issue (Not tested) !!
+# ignore files under Content/data/resourcepack (they are merged with Block Textures during packaging)
+# !! May cause issues (Not tested) !!
 **/UE4Project/Content/data
 **/Dungeons/Content/data
 
