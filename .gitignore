@@ -1,7 +1,7 @@
 # ignore setting files:
-Tools/settings/editor_directory.txt
-Tools/settings/package_output.txt
-Tools/settings/quickbms_export_dir.txt
+Tools/user_settings/editor_directory.txt
+Tools/user_settings/package_output.txt
+Tools/user_settings/quickbms_export_dir.txt
 
 # ignore files under Content/data/resourcepack (they are merged with Block Textures during packaging)
 # !! May cause issues (Not tested) !!
