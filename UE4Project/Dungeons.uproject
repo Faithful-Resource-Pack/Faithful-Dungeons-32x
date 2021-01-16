@@ -2,12 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.22",
 	"Category": "",
-	"Description": "Dungeons Mod Kit UE4 Project",
-	"Modules": [
-		{
-			"Name": "Dungeons",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	]
+	"Description": "Dungeons Mod Kit UE4 Project"
 }
