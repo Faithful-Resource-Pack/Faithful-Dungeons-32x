@@ -724,8 +724,7 @@
 		"blockshape" : "door", 
 		"textures" : { "up" : "door_lower", "down" : "door_lower", "side" : "door_upper"}
 	},
-	"grass_path" : { 
-		"isotropic" : {"up" : false, "down" : false},
+	"grass_path" : {
 		"textures" : { "up" : "grass_path_top", "down" : "grass_path_side", "side" : "grass_path_side"}
 	},
 	"frame" : { 
