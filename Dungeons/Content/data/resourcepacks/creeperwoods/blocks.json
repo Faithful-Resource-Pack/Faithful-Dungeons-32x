@@ -260,7 +260,7 @@
 		"textures" : { "up" : "crafting_table_top", "down" : "crafting_table_bottom", "north" : "crafting_table_front",  "south" : "crafting_table_front", "west" : "crafting_table_side",  "east" : "crafting_table_side"}
 	},
 	"wheat" : { 
-		"blockshape" : "cross_texture",
+		"blockshape" : "rows",
 		"textures" : "wheat"
 	},
 	"farmland" : { 
@@ -509,7 +509,7 @@
 		"textures" : "nether_brick"
 	},
 	"nether_wart" : { 
-		"blockshape" : "cross_texture",
+		"blockshape" : "rows",
 		"textures" : "nether_wart"
 	},
 	"enchanting_table" : { 
@@ -545,11 +545,11 @@
 		"textures" : "flower_pot"
 	},
 	"carrots" : { 
-		"blockshape" : "cross_texture",
+		"blockshape" : "rows",
 		"textures" : "carrots"
 	},
 	"potatoes" : { 
-		"blockshape" : "cross_texture", 
+		"blockshape" : "rows", 
 		"textures" : "potatoes"
 	},
 	"skull" : { 
@@ -724,7 +724,8 @@
 		"blockshape" : "door", 
 		"textures" : { "up" : "door_lower", "down" : "door_lower", "side" : "door_upper"}
 	},
-	"grass_path" : {
+	"grass_path" : { 
+		"isotropic" : {"up" : true, "down" : true},
 		"textures" : { "up" : "grass_path_top", "down" : "grass_path_side", "side" : "grass_path_side"}
 	},
 	"frame" : { 
@@ -736,7 +737,7 @@
 		"textures" : { "up" : "dirt_podzol_top", "down" : "dirt_podzol_bottom", "side" : "dirt_podzol_side"}
 	},
 	"beetroot" : { 
-		"blockshape" : "cross_texture", 
+		"blockshape" : "rows", 
 		"textures" : "beetroot"
 	},
 	"stonecutter" : { 
@@ -764,5 +765,509 @@
 	"fire" : { 
 		"blockshape" : "fire", 
 		"textures" : "fire"
+	},
+	"element_0": {
+		//"textures": "element_label_0",
+		"textures" : "transparent",
+		"material" :  "metal"
+	},
+	"element_1": {
+		"textures": "element_label_1"
+	},
+	"element_2": {
+		"textures": "element_label_2"
+	},
+	"element_3": {
+		"textures": "element_label_3"
+	},
+	"element_4": {
+		"textures": "element_label_4"
+	},
+	"element_5": {
+		"textures": "element_label_5"
+	},
+	"element_6": {
+		"textures": "element_label_6"
+	},
+	"element_7": {
+		"textures": "element_label_7"
+	},
+	"element_8": {
+		"textures": "element_label_8"
+	},
+	"element_9": {
+		"textures": "element_label_9"
+	},
+	"element_10": {
+		"textures": "element_label_10"
+	},
+	"element_11": {
+		"textures": "element_label_11"
+	},
+	"element_12": {
+		"textures": "element_label_12"
+	},
+	"element_13": {
+		"textures": "element_label_13"
+	},
+	"element_14": {
+		"textures": "element_label_14"
+	},
+	"element_15": {
+		"textures": "element_label_15"
+	},
+	"element_16": {
+		"textures": "element_label_16"
+	},
+	"element_17": {
+		"textures": "element_label_17"
+	},
+	"element_18": {
+		"textures": "element_label_18"
+	},
+	"element_19": {
+		"textures": "element_label_19"
+	},
+	"element_20": {
+		"textures": "element_label_20"
+	},
+	"element_21": {
+		"textures": "element_label_21"
+	},
+	"element_22": {
+		"textures": "element_label_22"
+	},
+	"element_23": {
+		"textures": "element_label_23"
+	},
+	"element_24": {
+		"textures": "element_label_24"
+	},
+	"element_25": {
+		"textures": "element_label_25"
+	},
+	"element_26": {
+		"textures": "element_label_26"
+	},
+	"element_27": {
+		"textures": "element_label_27"
+	},
+	"element_28": {
+		"textures": "element_label_28"
+	},
+	"element_29": {
+		"textures": "element_label_29"
+	},
+	"element_30": {
+		"textures": "element_label_30"
+	},
+	"element_31": {
+		"textures": "element_label_31"
+	},
+	"element_32": {
+		"textures": "element_label_32"
+	},
+	"element_33": {
+		"textures": "element_label_33"
+	},
+	"element_34": {
+		"textures": "element_label_34"
+	},
+	"element_35": {
+		"textures": "element_label_35"
+	},
+	"element_36": {
+		"textures": "element_label_36"
+	},
+	"element_37": {
+		"textures": "element_label_37"
+	},
+	"element_38": {
+		"textures": "element_label_38"
+	},
+	"element_39": {
+		"textures": "element_label_39"
+	},
+	"element_40": {
+		"textures": "element_label_40"
+	},
+	"element_41": {
+		"textures": "element_label_41"
+	},
+	"element_42": {
+		"textures": "element_label_42"
+	},
+	"element_43": {
+		"textures": "element_label_43"
+	},
+	"element_44": {
+		"textures": "element_label_44"
+	},
+	"element_45": {
+		"textures": "element_label_45"
+	},
+	"element_46": {
+		"textures": "element_label_46"
+	},
+	"element_47": {
+		"textures": "element_label_47"
+	},
+	"element_48": {
+		"textures": "element_label_48"
+	},
+	"element_49": {
+		"textures": "element_label_49"
+	},
+	"element_50": {
+		"textures": "element_label_50"
+	},
+	"element_51": {
+		"textures": "element_label_51"
+	},
+	"element_52": {
+		"textures": "element_label_52"
+	},
+	"element_53": {
+		"textures": "element_label_53"
+	},
+	"element_54": {
+		"textures": "element_label_54"
+	},
+	"element_55": {
+		"textures": "element_label_55"
+	},
+	"element_56": {
+		"textures": "element_label_56"
+	},
+	"element_57": {
+		"textures": "element_label_57"
+	},
+	"element_58": {
+		"textures": "element_label_58"
+	},
+	"element_59": {
+		"textures": "element_label_59"
+	},
+	"element_60": {
+		"textures": "element_label_60"
+	},
+	"element_61": {
+		"textures": "element_label_61"
+	},
+	"element_62": {
+		"textures": "element_label_62"
+	},
+	"element_63": {
+		"textures": "element_label_63"
+	},
+	"element_64": {
+		"textures": "element_label_64"
+	},
+	"element_65": {
+		"textures": "element_label_65"
+	},
+	"element_66": {
+		"textures": "element_label_66"
+	},
+	"element_67": {
+		"textures": "element_label_67"
+	},
+	"element_68": {
+		"textures": "element_label_68"
+	},
+	"element_69": {
+		"textures": "element_label_69"
+	},
+	"element_70": {
+		"textures": "element_label_70"
+	},
+	"element_71": {
+		"textures": "element_label_71"
+	},
+	"element_72": {
+		"textures": "element_label_72"
+	},
+	"element_73": {
+		"textures": "element_label_73"
+	},
+	"element_74": {
+		"textures": "element_label_74"
+	},
+	"element_75": {
+		"textures": "element_label_75"
+	},
+	"element_76": {
+		"textures": "element_label_76"
+	},
+	"element_77": {
+		"textures": "element_label_77"
+	},
+	"element_78": {
+		"textures": "element_label_78"
+	},
+	"element_79": {
+		"textures": "element_label_79"
+	},
+	"element_80": {
+		"textures": "element_label_80"
+	},
+	"element_81": {
+		"textures": "element_label_81"
+	},
+	"element_82": {
+		"textures": "element_label_82"
+	},
+	"element_83": {
+		"textures": "element_label_83"
+	},
+	"element_84": {
+		"textures": "element_label_84"
+	},
+	"element_85": {
+		"textures": "element_label_85"
+	},
+	"element_86": {
+		"textures": "element_label_86"
+	},
+	"element_87": {
+		"textures": "element_label_87"
+	},
+	"element_88": {
+		"textures": "element_label_88"
+	},
+	"element_89": {
+		"textures": "element_label_89"
+	},
+	"element_90": {
+		"textures": "element_label_90"
+	},
+	"element_91": {
+		"textures": "element_label_91"
+	},
+	"element_92": {
+		"textures": "element_label_92"
+	},
+	"element_93": {
+		"textures": "element_label_93"
+	},
+	"element_94": {
+		"textures": "element_label_94"
+	},
+	"element_95": {
+		"textures": "element_label_95"
+	},
+	"element_96": {
+		"textures": "element_label_96"
+	},
+	"element_97": {
+		"textures": "element_label_97"
+	},
+	"element_98": {
+		"textures": "element_label_98"
+	},
+	"element_99": {
+		"textures": "element_label_99"
+	},
+	"element_100": {
+		"textures": "element_label_100"
+	},
+	"element_101": {
+		"textures": "element_label_101"
+	},
+	"element_102": {
+		"textures": "element_label_102"
+	},
+	"element_103": {
+		"textures": "element_label_103"
+	},
+	"element_104": {
+		"textures": "element_label_104"
+	},
+	"element_105": {
+		"textures": "element_label_105"
+	},
+	"element_106": {
+		"textures": "element_label_106"
+	},
+	"element_107": {
+		"textures": "element_label_107"
+	},
+	"element_108": {
+		"textures": "element_label_108"
+	},
+	"element_109": {
+		"textures": "element_label_109"
+	},
+	"element_110": {
+		"textures": "element_label_110"
+	},
+	"element_111": {
+		"textures": "element_label_111"
+	},
+	"element_112": {
+		"textures": "element_label_112"
+	},
+	"element_113": {
+		"textures": "element_label_113"
+	},
+	"element_114": {
+		"textures": "element_label_114"
+	},
+	"element_115": {
+		"textures": "element_label_115"
+	},
+	"element_116": {
+		"textures": "element_label_116"
+	},
+	"element_117": {
+		"textures": "element_label_117"
+	},
+	"element_118": {
+		"textures": "element_label_118"
+	},
+	"smooth_stone": {
+		"textures": "smooth_stone"
+	},
+	"warped_nylium": {
+		"textures": { "up": "warped_nylium_top", "down": "warped_nylium_top", "side": "warped_nylium_side" }
+	},
+	"crimson_nylium": {
+		"textures": { "up": "crimson_nylium_top", "down": "crimson_nylium_top", "side": "crimson_nylium_side" }
+	},
+	"stripped_oak_log": {
+		"blockshape" : "tree",
+		"textures": { "up": "stripped_oak_log_top", "down": "stripped_oak_log_top", "side": "stripped_oak_log_side" }
+	},
+	"stripped_dark_oak_log": {
+		"blockshape" : "tree",
+		"textures": { "up": "stripped_dark_oak_log_top", "down": "stripped_dark_oak_log_top", "side": "stripped_dark_oak_log_side" }
+	},
+	"stripped_acacia_log": {
+		"blockshape" : "tree",
+		"textures": { "up": "stripped_acacia_log_top", "down": "stripped_acacia_log_top", "side": "stripped_acacia_log_side" }
+	},
+	"stripped_jungle_log": {
+		"blockshape" : "tree",
+		"textures": { "up": "stripped_jungle_log_top", "down": "stripped_jungle_log_top", "side": "stripped_jungle_log_side" }
+	},
+	"stripped_birch_log": {
+		"blockshape" : "tree",
+		"textures": { "up": "stripped_birch_log_top", "down": "stripped_birch_log_top", "side": "stripped_birch_log_side" }
+	},
+	"stripped_spruce_log": {
+		"blockshape" : "tree",
+		"textures": { "up": "stripped_spruce_log_top", "down": "stripped_spruce_log_top", "side": "stripped_spruce_log_side" }
+	},
+	"ancient_debris": {
+		"textures": { "up": "ancient_debris_top", "down": "ancient_debris_top", "side": "ancient_debris_side" }
+	},
+	"target": {
+		"textures": { "up": "target_top", "down": "target_top", "side": "target_side" }
+	},
+	"polished_basalt": {
+		"textures": { "up": "polished_basalt_top", "down": "polished_basalt_top", "side": "polished_basalt_side" }
+	},
+	"lodestone": {
+		"textures": { "up": "lodestone_top", "down": "lodestone_top", "side": "lodestone_side" }
+	},
+	"blackstone": {
+		"textures": { "up": "blackstone_top", "down": "blackstone_top", "side": "blackstone_side" }
+	},
+	"basalt": {
+		"textures": { "up": "basalt_top", "down": "basalt_top", "side": "basalt_side" }
+	},
+	"bone_block": {
+		"textures": { "up": "bone_block_top", "down": "bone_block_top", "side": "bone_block_side" }
+	},
+	"cracked_polished_blackstone_bricks": {
+		"textures": "cracked_polished_blackstone_bricks"
+	},
+	"crying_obsidian": {
+		"textures": "crying_obsidian"
+	},
+	"chiseled_nether_bricks": {
+		"textures": "chiseled_nether_bricks"
+	},
+	"quartz_bricks": {
+		"textures": "quartz_bricks"
+	},
+	"cracked_nether_bricks": {
+		"textures": "cracked_nether_bricks"
+	},
+	"gilded_blackstone": {
+		"textures": "gilded_blackstone"
+	},
+	"chiseled_polished_blackstone": {
+		"textures": "chiseled_polished_blackstone"
+	},
+	"netherite_block": {
+		"textures": "netherite_block"
+	},
+	"nether_gold_ore": {
+		"textures": "nether_gold_ore"
+	},
+	"polished_blackstone_bricks": {
+		"textures": "polished_blackstone_bricks"
+	},
+	"polished_blackstone": {
+		"textures": "polished_blackstone"
+	},
+
+	"glazed_terracotta_black": {
+		"textures": "glazed_terracotta_black"
+	},
+	"glazed_terracotta_red": {
+		"textures": "glazed_terracotta_red"
+	},
+	"glazed_terracotta_green": {
+		"textures": "glazed_terracotta_green"
+	},
+	"glazed_terracotta_brown": {
+		"textures": "glazed_terracotta_brown"
+	},
+	"glazed_terracotta_blue": {
+		"textures": "glazed_terracotta_blue"
+	},
+	"glazed_terracotta_cyan": {
+		"textures": "glazed_terracotta_cyan"
+	},
+	"glazed_terracotta_silver": {
+		"textures": "glazed_terracotta_silver"
+	},
+	"glazed_terracotta_gray": {
+		"textures": "glazed_terracotta_gray"
+	},
+	"glazed_terracotta_pink": {
+		"textures": "glazed_terracotta_pink"
+	},
+	"glazed_terracotta_lime": {
+		"textures": "glazed_terracotta_lime"
+	},
+	"glazed_terracotta_yellow": {
+		"textures": "glazed_terracotta_yellow"
+	},
+	"glazed_terracotta_light_blue": {
+		"textures": "glazed_terracotta_light_blue"
+	},
+	"glazed_terracotta_magenta": {
+		"textures": "glazed_terracotta_magenta"
+	},
+	"glazed_terracotta_orange": {
+		"textures": "glazed_terracotta_orange"
+	},
+	"glazed_terracotta_white": {
+		"textures": "glazed_terracotta_white"
+	},
+	"glazed_terracotta_purple": {
+		"textures": "glazed_terracotta_purple"
+	},
+	"purpur_block": {
+		"textures": "purpur_block"
+	},
+	"red_nether_brick": {
+		"textures": "red_nether_brick"
+	},
+	"end_bricks": {
+		"textures": "end_bricks"
 	}
 }
