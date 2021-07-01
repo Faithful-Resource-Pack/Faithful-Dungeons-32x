@@ -24,7 +24,6 @@ Dungeons/**/*.ufont
 *.bin
 *.log
 *.ufont
-*.umap
 *.ubulk
 *.uexp
 Tools/user_settings/package_output.txt
