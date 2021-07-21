@@ -1,3 +1,6 @@
+<h1 align="center"> Warning, this tutorial is deprecated in favor of the <a href="https://docs.compliancepack.net/">Docs Website</a>, please see <a href="https://docs.compliancepack.net/pages/dungeons/items-tutorial">this tutorial</a> instead</h1>
+
+
 ![header](https://i.imgur.com/8GKOO62.png)
 
 When making a mod for Minecraft: Dungeons, it is important to know that most weapons, melee and ranged, are not like items in Java or Bedrock Edition - their model is not generated from their texture, but rather it's made to fit it. This tutorial will show you how to make and render models for your own, custom item textures. Never worked with any 3D modelling software of any kind? Not to worry, this tutorial will show you exactly what to do, without any need for previous 3D modelling knowledge! Let's get started:
