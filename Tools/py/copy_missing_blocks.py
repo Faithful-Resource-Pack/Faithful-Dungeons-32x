@@ -3,7 +3,7 @@ import json
 import shutil
 import sys
 
-texturesPath = '../Block Textures/'
+texturesPath = '../Textures/blocks/'
 outputDir = '../Missing Textures/'
 
 with open('configs/block_textures.json') as json_file:

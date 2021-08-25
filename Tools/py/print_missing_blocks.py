@@ -2,7 +2,7 @@ import os
 import json
 import math
 
-texturesPath = '../Block Textures/'
+texturesPath = '../Textures/blocks/'
 
 def scantree(path):
   for entry in os.scandir(path):

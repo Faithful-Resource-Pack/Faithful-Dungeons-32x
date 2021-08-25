@@ -2,7 +2,7 @@ import os
 import json
 import shutil
 
-texturesPath = '../Block Textures/'
+texturesPath = '../Textures/blocks/'
 outputDir = '../Dungeons/Content/data/resourcepacks/'
 
 os.makedirs(outputDir, exist_ok=True)

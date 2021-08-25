@@ -7,8 +7,8 @@ echo(
 echo ------------------------------------------------------------
 SET "ddp=%~dp0"
 SET "ddp=%ddp:~0,-1%"
-SET /p editorPath= < Tools\user_settings\editor_directory.txt
-SET /p packageOutput= < Tools\user_settings\package_output.txt
+SET /p editorPath= < Settings\editor_directory.txt
+SET /p packageOutput= < Settings\package_output.txt
 
 title [2/5] Building resource pack...
 echo ------------------------------------------------------------

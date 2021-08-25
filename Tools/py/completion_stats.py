@@ -2,7 +2,7 @@ import os
 import json
 import math
 
-blockTexturesPath = '../Block Textures/'
+blockTexturesPath = '../Textures/blocks/'
 unrealTexturesPath = '../UE4Project/Content/'
 
 def scantree(path):
