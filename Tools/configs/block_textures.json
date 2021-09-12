@@ -4949,7 +4949,6 @@
     "coralrise/images/blocks/leaves_birch_carried.png",
     "deserttemple/images/blocks/leaves_birch_carried.png",
     "enderwilds/images/blocks/leaves_birch_carried.png",
-    "highblockhalls/images/blocks/leaves_birch_carried.png",
     "obsidianpinnacle/images/blocks/leaves_birch_carried.png",
     "radiantravine/images/blocks/leaves_birch_carried.png",
     "redstonemines/images/blocks/leaves_birch_carried.png",
@@ -16174,7 +16173,6 @@
     "frozenfjord/images/blocks/leaves_oak.png",
     "frozenfjord/images/blocks/leaves_oak_carried.png",
     "lonelyfortress/images/blocks/leaves_oak.png",
-    "lonelyfortress/images/blocks/leaves_oak_carried.png",
     "lostsettlement/images/blocks/leaves_oak.png",
     "lostsettlement/images/blocks/leaves_oak_carried.png"
   ],
@@ -16186,7 +16184,8 @@
   "leaves_oak_outer_frozenfjord.png": [
     "frozenfjord/images/blocks/leaves_oak_outer.png",
     "lonelyfortress/images/blocks/leaves_oak_outer.png",
-    "lostsettlement/images/blocks/leaves_oak_outer.png"
+    "lostsettlement/images/blocks/leaves_oak_outer.png",
+    "lonelyfortress/images/blocks/leaves_oak_carried.png"
   ],
   "leaves_spruce_frozenfjord.png": [
     "frozenfjord/images/blocks/leaves_spruce.png",
@@ -20071,5 +20070,8 @@
   ],
   "wool_colored_lime_windsweptpeaks.png": [
     "windsweptpeaks/images/blocks/wool_colored_lime.png"
+  ],
+  "leaves_birch_carried_highblockhalls.png": [
+    "highblockhalls/images/blocks/leaves_birch_carried.png"
   ]
 }
