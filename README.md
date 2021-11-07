@@ -47,7 +47,6 @@ Then you get the `.pak` exported where you set your path in `package_output.txt`
 ## Links
 - Compliance Dungeons Website: https://compliancepack.net/#compliance-dungeons
 - Compliance Discord: https://discord.gg/pwnGtXs
-- Compliance Dungeons Discord: https://discord.gg/eeVpygu
 
 ## Have a question?
 You can find some questions and answers in the [FAQ Wiki page](https://github.com/Compliance-Dungeons/Resource-Pack/wiki/FAQ). If your question isn't there then you can join our [Discord server](https://discord.gg/eeVpygu) and ask your question there!
