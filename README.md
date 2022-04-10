@@ -1,13 +1,17 @@
-<img src="https://i.imgur.com/pNcC1c2.png" alt="ComplianceDungeons" align="right" height="256px">
+<img src="https://github.com/Compliance-Resource-Pack/NewBr/blob/master/logos/transparent/512/dungeons_logo.png?raw=true" alt="Faithful Dungeons" align="right" height="256px">
 <div align="center">
-  <h1>Compliance Dungeons</h1>
-  <h3>Compliance 32x for Minecraft Dungeons</h3>
+  <h1>Faithful Dungeons</h1>
+  <h3>Your favourite 32x resource pack, now available for Mojang's latest dungeon crawler!</h3>
+  <h5><i>Official Repository</i></h5>
 
 ![RepoSize](https://img.shields.io/github/repo-size/Compliance-Dungeons/Resource-Pack)
 ![Issues](https://img.shields.io/github/issues/Compliance-Dungeons/Resource-Pack)
 ![PullRequests](https://img.shields.io/github/issues-pr/Compliance-Dungeons/Resource-Pack)
 ![Downloads](https://img.shields.io/github/downloads/Compliance-Dungeons/Resource-Pack/total)
 </div>
+
+
+---
 
 ## Info
 - All recently made textures will be uploaded here.
@@ -17,7 +21,7 @@
 - If you're new to this project, check out [this flowchart](https://media.discordapp.net/attachments/716484045118373979/735067976918630430/texture_flowchart.png) about making and submitting textures.
 
 ## How to compile:
-> You can compile our Resource Pack by yourself, but **according to our Licence, you can't distribute it or sell it.**
+> You can compile our Resource Pack yourself, but **according to our license, you can't distribute it or sell it.**
 
 ### Prerequisites:
 - [Python 3.8+](https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l?activetab=pivot:overviewtab)
@@ -45,8 +49,8 @@ To build the pak you need to execute the package.bat file. This can take anywher
 Then you get the `.pak` exported where you set your path in `package_output.txt`
 
 ## Links
-- Compliance Dungeons Website: https://compliancepack.net/#compliance-dungeons
-- Compliance Discord: https://discord.gg/pwnGtXs
+- Faithful Website: https://faithfulpack.net
+- Faithful Discord: https://discord.gg/pwnGtXs
 
 ## Have a question?
 You can find some questions and answers in the [FAQ Wiki page](https://github.com/Compliance-Dungeons/Resource-Pack/wiki/FAQ). If your question isn't there then you can join our [Discord server](https://discord.gg/eeVpygu) and ask your question there!
