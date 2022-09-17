@@ -1,4 +1,7 @@
-<img src="https://github.com/Compliance-Resource-Pack/NewBr/blob/master/logos/transparent/512/dungeons_logo.png?raw=true" alt="Faithful Dungeons" align="right" height="256px">
+# This project has been discontinued. Read [this article](https://faithfulpack.net/faithful32xDungeons/The%20Fate%20of%20Faithful%20Dungeons) for more info.
+
+
+<img src="https://database.faithfulpack.net/images/branding/logos/transparent/512/dungeons_logo.png?raw=true" alt="Faithful Dungeons" align="right" height="256px">
 <div align="center">
   <h1>Faithful Dungeons</h1>
   <h3>Your favourite 32x resource pack, now available for Mojang's latest dungeon crawler!</h3>
